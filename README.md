@@ -7,7 +7,7 @@ https://github.com/SimHacker/YootTower/wiki
 
 Japanese Translation:
 
-https://github.com/SimHacker/YootTower/wiki/%E3%83%9B%E3%83%BC%E3%83%A0
+https://github.com/SimHacker/YootTower/wiki/ホーム
 
 Links:
 
