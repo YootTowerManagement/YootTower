@@ -24,7 +24,7 @@ Boy am I jazzed!!! It’s as cool as I imagined, even more!
 
 I’ve been getting a head start on porting Yoot Tower to the browser by working on renovating the existing open source C++ version of SimCity / Micrcopolis run in the browser too. 
 
-Both projects will share the same modern tech stack and web interface (Emscripten, Embind, WebAssembly, TypeScript/JavaScript, SvelteKit, Node, Canvas/WebGL/HTML/CSS, etc), so they'll eventually plug together with multiple Yoot Towers embedded into your live Micropolis city!
+Both projects will share the same modern tech stack and web interface (Emscripten, Embind, WebAssembly, TypeScript/JavaScript, SvelteKit, Node, Canvas/WebGL/HTML/CSS, etc), so they'll eventually plug together with multiple Yoot Towers embedded into your live Micropolis city! And then you can plug a video arcade into Yoot Tower, which includes a Micropolis game console that you can play, to wrap back around to the outer city simulator! (No nasty infinite regression, just a nice clean loop!)
 
 https://github.com/SimHacker/MicropolisCore
 
