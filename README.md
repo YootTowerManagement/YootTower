@@ -26,9 +26,9 @@ Both projects will share the same modern tech stack and web interface (Emscripte
 
 https://github.com/SimHacker/MicropolisCore
 
-Maybe somebody can even fix the bug in the Windows version that Clint Basinger (LGR) kept getting zapped by in his in-depth review of Yoot Tower:
-
 ## LGR: Yoot Tower: The Sequel to SimTower
+
+Maybe somebody can even fix the bug in the Windows version that Clint Basinger (LGR) kept getting zapped by in his in-depth review of Yoot Tower:
 
 https://www.youtube.com/watch?v=CqNECXCd9iU
 
