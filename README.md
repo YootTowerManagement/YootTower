@@ -30,7 +30,7 @@ Maybe somebody can even fix the bug in the Windows version that Clint Basinger (
 
 https://www.youtube.com/watch?v=CqNECXCd9iU
 
-# Next Steps
+## Next Steps
 
 I examined the timestamps in the files in the Yoot Tower code drop, and organized the sources and releases by date, translating the Japanese directory names. 
 
