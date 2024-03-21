@@ -1,4 +1,4 @@
-# Yoot Tower
+# Open Source Yoot Tower
 
 Welcome to the Open Source Yoot Tower repo! 
 
@@ -8,7 +8,7 @@ So I’ve started the process of documenting and publishing the public open sour
 
 https://github.com/SimHacker/YootTower
 
-# Call for Collaboration
+## Call for Collaboration
 
 Anybody want to help, or know somebody who does, please? ;) You can get in touch with me at don@donhopkins.com and check out the repo.
 
