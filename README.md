@@ -26,6 +26,14 @@ Both projects will share the same modern tech stack and web interface (Emscripte
 
 https://github.com/SimHacker/MicropolisCore
 
+## Constructionist Education
+
+Both Yoot Tower and SimCity/Micropolis share the same goals and benefits of constructionist education, inspired by Seymour Papert and Alan Kay.
+
+### Micropolis: Constructionist Educational Open Source SimCity
+
+https://donhopkins.medium.com/har-2009-lightning-talk-transcript-constructionist-educational-open-source-simcity-by-don-3a9e010bf305
+
 ## LGR: Yoot Tower: The Sequel to SimTower
 
 Maybe somebody can even fix the bug in the Windows version that Clint Basinger (LGR) kept getting zapped by in his in-depth review of Yoot Tower:
