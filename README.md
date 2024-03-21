@@ -2,11 +2,47 @@
 
 Welcome to the Open Source Yoot Tower repo! 
 
-We have to remove / rename / rewrite / redraw any trademarked content for the open source version, but we can archive the original sources for academic research purposes. (Archivists: How should we proceed with that?)
+Yoot Saito just sent me a code drop of Yoot Tower for archival and academic study, and to make a modern open source version that runs in the browser!
+
+So I’ve started the process of documenting and publishing the public open source version of Yoot Tower on GitHub:
+
+https://github.com/SimHacker/YootTower
+
+Anybody want to help, or know somebody who does, please? ;) You can get in touch with me at don@donhopkins.com and check out the repo.
+
+There’s a lot of stuff, so I am going over the files, sorting out which versions there are, and trying to date and classify them. 
+
+Boy am I jazzed!!! It’s as cool as I imagined, even more! 
+
+I’ve been getting a head start on porting Yoot Tower to the browser by working on renovating the open source version of SimCity / Micrcopolis run in the browser as well. 
+
+Both projects will share the same modern tech stack and web interface (Emscripten, Embind, WebAssembly, TypeScript/JavaScript, SvelteKit, Node, Canvas/WebGL/HTML/CSS, etc), so they'll eventually pliug together with multiple Yoot Towers embedded into your live SimCity! 
+
+## Micropolis Core (Open Source SimCity for the browser, using WebAssembly)
+
+https://github.com/SimHacker/MicropolisCore
+
+Maybe somebody can even fix the bug in the Windows version that Clint Basinger (LGR) kept getting zapped by in his in-depth review of Yoot Tower:
+
+## LGR: Yoot Tower: The Sequel to SimTower
+
+https://www.youtube.com/watch?v=CqNECXCd9iU
+
+I examined the timestamps in the files in the Yoot Tower code drop, and organized the sources and releases by date, translating the Japanese directory names. 
+
+The file names and function and variable names are all in English, but there are lots of Japanese comments, and some user visible Japanese strings that will need to be translated. 
+
+I'll continue comparing and analyzing the different versions to figure out how they changed over time and what to use for the open source version. 
+
+It includes the old Maxis SimTower code, some Japanese Windows versions, and versions for the GameBoy Advance SP and Nintendo DS. 
+
+The most recent version is the Nintendo DS version. It has some interesting additions and changes, but I presume a lot of that stuff is Nintendo's property and branding, like Mario and other characters we can't use in the open source version. 
+
+We have to remove / fictionalize / rename / rewrite / redraw any trademarked content for the open source version, but we can archive the original sources for academic research purposes.
 
 Jeff Braun told me happened with Maxis and Godzilla, so I want to be careful to avoid stomping on anybody’s property:
 
-Maxis was sued by Toho. We never referred to the name Godzilla, our monster on the box cover was a T-Rex looking character, but... a few magazine reviews called the monster, Godzilla. That was all it took. Toho called it "confusion in the marketplace". We paid $50k for Godzilla to go away. In all honesty, Toho liked Maxis, they said $50k was the minimum they take for Godzilla infringement. I doubt you will need to worry about Toho, as long as there are no magazine reviews that call the monster Godzilla.
+"Maxis was sued by Toho. We never referred to the name Godzilla, our monster on the box cover was a T-Rex looking character, but... a few magazine reviews called the monster, Godzilla. That was all it took. Toho called it "confusion in the marketplace". We paid $50k for Godzilla to go away. In all honesty, Toho liked Maxis, they said $50k was the minimum they take for Godzilla infringement. I doubt you will need to worry about Toho, as long as there are no magazine reviews that call the monster Godzilla."
 
 I guess the lesson is to always make sure to give your monsters a unique name, and don’t leave that up to the user’s imagination. 
 
