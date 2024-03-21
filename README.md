@@ -1,27 +1,108 @@
 # Yoot Tower
-Yoot Tower Goes Here
-
-See the Yoot Tower Wiki Home:
-
-https://github.com/SimHacker/YootTower/wiki
-
-Japanese Translation:
-
-https://github.com/SimHacker/YootTower/wiki/ホーム
-
-Links:
-
-https://github.com/SimHacker/YootTower/wiki/Links
-
-Email:
-
-don@donhopkins.com
-
-***
-_Japanese translation: https://github.com/SimHacker/YootTower/wiki/ホーム_
-***
 
 Welcome to the Open Source Yoot Tower repo! 
+
+We have to remove / rename / rewrite / redraw any trademarked content for the open source version, but we can archive the original sources for academic research purposes. (Archivists: How should we proceed with that?)
+
+Jeff Braun told me happened with Maxis and Godzilla, so I want to be careful to avoid stomping on anybody’s property:
+
+Maxis was sued by Toho. We never referred to the name Godzilla, our monster on the box cover was a T-Rex looking character, but... a few magazine reviews called the monster, Godzilla. That was all it took. Toho called it "confusion in the marketplace". We paid $50k for Godzilla to go away. In all honesty, Toho liked Maxis, they said $50k was the minimum they take for Godzilla infringement. I doubt you will need to worry about Toho, as long as there are no magazine reviews that call the monster Godzilla.
+
+I guess the lesson is to always make sure to give your monsters a unique name, and don’t leave that up to the user’s imagination. 
+
+Thanks for your attention and any advice or collaboration you can contribute! 
+
+-Don (don@donhopkins.com)
+
+## Directories of code drop:
+
+- The_Tower
+  - Windows sources.
+  - 1993-02-01 .. 2005-07-05
+
+- The_TowerSP
+  - GameBoy Advance SP sources.
+  - 2004-08-03 .. 2005-04-07
+
+- The_TowerDS
+  - Nintendo DS sources.
+  - 2008-05-26 .. 2009-08-01
+
+- The_TowerⅡ
+  - Windows releases, no sources.
+  - 1999-01-19 .. 1999-11-09
+
+## Sources:
+
+- 1993-02-01 .. 1996-09-22	./The_Tower/Old NT Backup 2/95ntback2/tow_EX2/Maxis-ST-code
+  - Original Maxis SimTower sources.
+  - Old short upper case file names.
+
+- 1993-07-20 .. 1995-09-07	./The_Tower/Tower 秋ヤンバージョン Final Data/SOURCE/WIN/TOWER/SRC1_2 🇯🇵🌐🇺🇸 Tower Autumn Version Final Data
+  - Old short upper case file names.
+
+- 1994-04-02 .. 1997-02-04	./The_Tower/Old NT Backup 1/95ntback2/tow_EX2/tower 8-22 working version stuff/SRC_CD
+  - Old short upper case file names.
+
+- 1994-08-14 .. 1996-03-18	./The_Tower/Old NT Backup 1/95ntback2/tow_EX2/tower 8-22 working version stuff/Demo95
+  - Old short upper case file names.
+
+- 1994-08-14 .. 1996-09-29	./The_Tower/Old NT Backup 1/95ntback2/tow_EX2/tower 8-22 working version stuff/Src_cde
+  - Old short upper case file names.
+
+- 1994-08-14 .. 1996-10-09	./The_Tower/Old NT Backup 1/95ntback2/tow_EX2/tower 8-22 working version stuff/SRC1_295
+  - Old short upper case file names.
+
+- 1997-05-23 .. 1997-05-23	./The_Tower/Old NT Backup 1/95ntback2/tow_EX2/Src_cd2
+  - Old short upper case file names.
+
+- 2004-08-03 .. 2004-08-03	./The_TowerSP/The Tower SP 2004.05.25版　マスター ソース・ドキュメント・マスターROM/TowerSP040525/TowerSP_J_040525/beta/tower 🇯🇵🌐🇺🇸 The Tower SP 2004.05.25 version Master Source Documents & Master ROM
+  - Newer long mixed case file names.
+  - GameBoy Advance SP.
+
+- 2005-07-05 .. 2005-07-05  ./The_Tower/Towerマスター 2005,7,5/tower 🇯🇵🌐🇺🇸 Tower Master 2005,7,5
+  - Newer long mixed case file names.
+
+- 2005-04-07 .. 2005-04-07	./The_TowerSP/The Tower SP 2005.02.25版　マスター　(製品版)ソース・ドキュメント・マスターROM/TowerSP050225/TowerSP_J_050225/overseas/tower 🇯🇵🌐🇺🇸 The Tower SP 2005.02.25 version Master (Final Version) Source Documents & Master ROM 
+    Almost identical to above but for a few added psd and other files.
+
+- 2008-05-26 .. 2009-08-01	./The_TowerDS/The Tower DS クラシック 全バックアップデータ 2009,9,7/TowerDS_NAND/tower 🇯🇵🌐🇺🇸 The Tower DS Classic Full Backup Data 2009,9,7
+  - Nintendo specific additions and modifications.
+
+## Releases:
+
+- The_TowerⅡ/99121自由の女神 マスター2版　ハイブリット CD-ROM GM No2 🇯🇵🌐🇺🇸 99121 Statue of Liberty Master 2 version Hybrid CD-ROM GM No2
+  - 1999-01-19
+
+- The_TowerⅡ/99226 1400 京都駅ビル ハイブリット CD-ROM GM no.2 🇯🇵🌐🇺🇸 99226 1400 Kyoto Station Building Hybrid CD-ROM GM no.2
+  - 1999-02-26
+
+- The_TowerⅡ/120 1700 自由の女神 windows版　マスター2 本体+movieデータをMacinToshに移すデータ「readme」は変更 219ガメラスターター Windows版をMacに移す 🇯🇵🌐🇺🇸 120 1700 Statue of Liberty Windows version Master 2 Body + movie data to transfer to Macintosh "readme" is to be changed. Move Windows version of Gamera Starter to Mac
+  - 1999-02-16
+
+- The_TowerⅡ/Macintoshiに移すガメラ東都オプションデータ 🇯🇵🌐🇺🇸 Transfer to Macintosh Gamera Eastern Capital Option Data
+  - 1999-02-26
+
+- The_TowerⅡ/Tower2 9935版 🇯🇵🌐🇺🇸 Tower2 version 9935
+  - 1999-02-26
+
+- The_TowerⅡ/TowerⅡ 駅ビル　window’s Mac ハイブリッド　d-STATION 🇯🇵🌐🇺🇸 Tower II Station Building Windows Mac Hybrid d-STATION
+  - 1999-02-26
+
+- The_TowerⅡ/TowerⅡfor Windows GM プログラミング・ソース　なにわ　ビル王　伝説　1999年　8月17日 🇯🇵🌐🇺🇸 Tower II for Windows GM Programming Source Naniwa Building King Legend August 17, 1999
+  - 1999-03-04
+
+- The_TowerⅡ/990308 yoot Tower Windows
+  - 1999-03-09
+
+- The_TowerⅡ/99817 なにわビル王伝説　ハイブリットCD-ROM 1000 GM no.2 🇯🇵🌐🇺🇸 99817 Naniwa Building King Legend Hybrid CD-ROM 1000 GM no.2
+  - 1999-08-17
+
+- The_TowerⅡ/99817なにわビル王伝説 Windows版　GM マッキントッシュで焼くために使用した 🇯🇵🌐🇺🇸 99817 Naniwa Building King Legend Windows version GM Used for burning on Macintosh. Transfer Gamera Eastern Capital Option Data to Macintosh
+  - 1999-08-17
+
+- The_TowerⅡ/99119 The　Tower2　クリスマスストーリー　ハイブリット CD-ROM. GM no.2 🇯🇵🌐🇺🇸 99119 The Tower 2 Christmas Story Hybrid CD-ROM. GM no.2
+  - 1999-11-09
 
 ## Introduction
 
