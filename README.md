@@ -104,7 +104,7 @@ Thanks for your attention and any advice or collaboration you can contribute!
   - Newer long mixed case file names.
 
 - 2005-04-07 .. 2005-04-07	./The_TowerSP/The Tower SP 2005.02.25版　マスター　(製品版)ソース・ドキュメント・マスターROM/TowerSP050225/TowerSP_J_050225/overseas/tower 🇯🇵🌐🇺🇸 The Tower SP 2005.02.25 version Master (Final Version) Source Documents & Master ROM 
-    Almost identical to above but for a few added psd and other files.
+  - Almost identical to above but for a few added psd and other files.
 
 - 2008-05-26 .. 2009-08-01	./The_TowerDS/The Tower DS クラシック 全バックアップデータ 2009,9,7/TowerDS_NAND/tower 🇯🇵🌐🇺🇸 The Tower DS Classic Full Backup Data 2009,9,7
   - Nintendo specific additions and modifications.
