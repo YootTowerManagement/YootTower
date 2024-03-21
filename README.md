@@ -10,7 +10,9 @@ https://github.com/SimHacker/YootTower
 
 ## Call for Collaboration
 
-Anybody want to help, or know somebody who does, please? ;) You can get in touch with me at don@donhopkins.com and check out the repo.
+Anybody want to help, or know somebody who does, please? ;) You can get in touch with me at don@donhopkins.com. 
+
+Pleasee check out the YootTower repo, where I'll publish the source code once it's cleaned up, reviewed and approved by Yoot, and relicensed with the MIT licensed.
 
 There’s a lot of stuff, so I am going over the files, sorting out which versions there are, and trying to date and classify them. 
 
