@@ -8,17 +8,19 @@ So I’ve started the process of documenting and publishing the public open sour
 
 https://github.com/SimHacker/YootTower
 
+# Call for Collaboration
+
 Anybody want to help, or know somebody who does, please? ;) You can get in touch with me at don@donhopkins.com and check out the repo.
 
 There’s a lot of stuff, so I am going over the files, sorting out which versions there are, and trying to date and classify them. 
 
 Boy am I jazzed!!! It’s as cool as I imagined, even more! 
 
+## Micropolis Core (Open Source SimCity for the browser, using WebAssembly)
+
 I’ve been getting a head start on porting Yoot Tower to the browser by working on renovating the open source version of SimCity / Micrcopolis run in the browser as well. 
 
 Both projects will share the same modern tech stack and web interface (Emscripten, Embind, WebAssembly, TypeScript/JavaScript, SvelteKit, Node, Canvas/WebGL/HTML/CSS, etc), so they'll eventually pliug together with multiple Yoot Towers embedded into your live SimCity! 
-
-## Micropolis Core (Open Source SimCity for the browser, using WebAssembly)
 
 https://github.com/SimHacker/MicropolisCore
 
@@ -27,6 +29,8 @@ Maybe somebody can even fix the bug in the Windows version that Clint Basinger (
 ## LGR: Yoot Tower: The Sequel to SimTower
 
 https://www.youtube.com/watch?v=CqNECXCd9iU
+
+# Next Steps
 
 I examined the timestamps in the files in the Yoot Tower code drop, and organized the sources and releases by date, translating the Japanese directory names. 
 
