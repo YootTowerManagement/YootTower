@@ -335,7 +335,7 @@ https://www.youtube.com/watch?v=2DQGVU-vm-k
 ***
 # Yoot Tower Playlists
 
-## Video's
+## Videos
 
 ### Youtube
 https://www.youtube.com/playlist?list=PL-_dl5TFEwyfPnzPDnVl7z2voYrfvQ7Aq
