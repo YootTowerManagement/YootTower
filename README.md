@@ -36,7 +36,7 @@ https://github.com/SimHacker/MicropolisCore/blob/main/notes/DevelopmentPlan.md
 
 ### Emscripten MicropolisEngine Wrappers
 
-This is where the magic happens that binds the C++ MicropolisEngine simulator class and structures to JavaScript, so you can call back and forth between C++ and JavaScript, and implement the user interface and plug-ins in JavaScript:
+This is where the magic happens that binds the C++ MicropolisEngine simulator class and structures to JavaScript, so you can call back and forth between C++ and JavaScript, and implement the user interface and plug-ins in JavaScript. See the comments in the code for a description of the approach and design considerations:
 
 https://github.com/SimHacker/MicropolisCore/blob/main/MicropolisEngine/src/emscripten.cpp
 
