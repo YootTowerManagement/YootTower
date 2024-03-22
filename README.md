@@ -28,12 +28,6 @@ Both projects will share the same modern tech stack and web interface (Emscripte
 
 https://github.com/SimHacker/MicropolisCore
 
-### Original Micropolis Development Plan
-
-The following page is several (at least 16 or so) years old. Much progress rewriting the code towards those goals has been made since it was written! Technology has changed a lot, but the same basic approach applies to Yoot Tower, but with Emscripten, Embind, and JavaScript/TypeScript and HTML/Canvas/WebGL instead of SWIG and Python and GTK/Cairo.
-
-https://github.com/SimHacker/MicropolisCore/blob/main/notes/DevelopmentPlan.md
-
 ### Emscripten MicropolisEngine Wrappers
 
 This is where the magic happens that binds the C++ MicropolisEngine simulator class and structures to JavaScript, so you can call back and forth between C++ and JavaScript, and implement the user interface and plug-ins in JavaScript. See the comments in the code for a description of the approach and design considerations:
