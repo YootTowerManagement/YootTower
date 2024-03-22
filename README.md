@@ -20,20 +20,6 @@ There’s a lot of stuff, so I am going over the files, sorting out which versio
 
 Boy am I jazzed!!! It’s as cool as I imagined, even more! 
 
-## Micropolis Core (Open Source SimCity for the browser, using WebAssembly)
-
-I’ve been getting a head start on porting Yoot Tower to the browser by working on renovating the existing open source C++ version of SimCity / Micrcopolis to run in the browser too, using Emscripten and Embind to wrap the C++ code in a JavaScript/TypeScript API.
-
-Both projects will share the same modern tech stack and web interface (Emscripten, Embind, WebAssembly, TypeScript/JavaScript, SvelteKit, Node, Canvas/WebGL/HTML/CSS, etc), and I'm developing a JavaScript based SDK and plugin system for them both, so they'll eventually plug together with multiple Yoot Towers embedded into your live Micropolis city! And then you can plug a video arcade into Yoot Tower, which includes a Micropolis game console that you can play, to wrap back around to the outer city simulator! (No nasty infinite regression, just a nice clean loop!)
-
-https://github.com/SimHacker/MicropolisCore
-
-### Emscripten MicropolisEngine Wrappers
-
-This is where the magic happens that binds the C++ MicropolisEngine simulator class and structures to JavaScript, so you can call back and forth between C++ and JavaScript, and implement the user interface and plug-ins in JavaScript. See the comments in the code for a description of the approach and design considerations:
-
-https://github.com/SimHacker/MicropolisCore/blob/main/MicropolisEngine/src/emscripten.cpp
-
 ## Constructionist Education
 
 Both Yoot Tower and SimCity/Micropolis share the same goals and benefits of constructionist education, inspired by Seymour Papert and Alan Kay.
@@ -47,6 +33,20 @@ https://donhopkins.medium.com/har-2009-lightning-talk-transcript-constructionist
 Maybe somebody can even fix the bug in the Windows version that Clint Basinger (LGR) kept getting zapped by in his in-depth review of Yoot Tower:
 
 https://www.youtube.com/watch?v=CqNECXCd9iU
+
+## Micropolis Core (Open Source SimCity for the browser, using WebAssembly)
+
+I’ve been getting a head start on porting Yoot Tower to the browser by working on renovating the existing open source C++ version of SimCity / Micrcopolis to run in the browser too, using Emscripten and Embind to wrap the C++ code in a JavaScript/TypeScript API.
+
+Both projects will share the same modern tech stack and web interface (Emscripten, Embind, WebAssembly, TypeScript/JavaScript, SvelteKit, Node, Canvas/WebGL/HTML/CSS, etc), and I'm developing a JavaScript based SDK and plugin system for them both, so they'll eventually plug together with multiple Yoot Towers embedded into your live Micropolis city! And then you can plug a video arcade into Yoot Tower, which includes a Micropolis game console that you can play, to wrap back around to the outer city simulator! (No nasty infinite regression, just a nice clean loop!)
+
+https://github.com/SimHacker/MicropolisCore
+
+### Emscripten MicropolisEngine Wrappers
+
+This is where the magic happens that binds the C++ MicropolisEngine simulator class and structures to JavaScript, so you can call back and forth between C++ and JavaScript, and implement the user interface and plug-ins in JavaScript. See the comments in the code for a description of the approach and design considerations:
+
+https://github.com/SimHacker/MicropolisCore/blob/main/MicropolisEngine/src/emscripten.cpp
 
 ## Next Steps
 
