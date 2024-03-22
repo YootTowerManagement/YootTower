@@ -26,7 +26,7 @@ Both Yoot Tower and SimCity/Micropolis share the same goals and benefits of cons
 
 ### Micropolis: Constructionist Educational Open Source SimCity
 
-A lightning talk at HAR 2009 about applying Seymour Papert's and Alan Kay's philosophy of Constructionist Education to Micropolis, open source version of SimCity. 
+A lightning talk at HAR 2009 about applying Seymour Papert's and Alan Kay's philosophy of Constructionist Education to Micropolis, the open source version of SimCity. 
 Illustrated and edited transcript of the YouTube video playlist: HAR 2009: Lightning talks Friday. Videos of the talk at the end.
 
 https://donhopkins.medium.com/har-2009-lightning-talk-transcript-constructionist-educational-open-source-simcity-by-don-3a9e010bf305
