@@ -1,6 +1,6 @@
 # Open Source Yoot Tower
 
-## AKA: SimTower from Maxis, The Tower, The Tower II, The Tower SP for Gameboy Advance SP, The Tower DS for Nintendo DS)
+## AKA: SimTower from Maxis, The Tower, The Tower II, The Tower SP for Gameboy Advance SP, The Tower DS for Nintendo DS
 
 Welcome to the Open Source Yoot Tower repo! 
 
