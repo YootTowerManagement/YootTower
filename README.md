@@ -8,7 +8,7 @@ Yoot Saito just sent me (Don Hopkins -- don@donhopkins.com) a code drop of Yoot 
 
 So I’ve started the process of documenting and publishing the public open source version of Yoot Tower on GitHub:
 
-https://github.com/SimHacker/YootTower
+https://github.com/YootTowerManagement/YootTower
 
 ## Call for Collaboration
 
