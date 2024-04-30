@@ -65,7 +65,7 @@ The most recent version is the Nintendo DS version. It has some interesting addi
 
 We have to remove / fictionalize / rename / rewrite / redraw any trademarked content for the open source version, but we can archive the original sources for academic research purposes.
 
-Jeff Braun told me happened with Maxis and Godzilla, so I want to be careful to avoid stomping on anybody’s property:
+Jeff Braun told me what happened with Maxis and Godzilla, so I want to be careful to avoid stomping on anybody’s property:
 
 "Maxis was sued by Toho. We never referred to the name Godzilla, our monster on the box cover was a T-Rex looking character, but... a few magazine reviews called the monster, Godzilla. That was all it took. Toho called it "confusion in the marketplace". We paid $50k for Godzilla to go away. In all honesty, Toho liked Maxis, they said $50k was the minimum they take for Godzilla infringement. I doubt you will need to worry about Toho, as long as there are no magazine reviews that call the monster Godzilla."
 
