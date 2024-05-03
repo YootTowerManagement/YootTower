@@ -5,13 +5,6 @@
 ## Alan Kay: Unpacking the Legacy of a Computer Science Pioneer
 ## Insights from Innovation: Alan Kay Discusses His Groundbreaking Work in Computing
 
-# Tweets
-### 🖥️ Dive into the mind of a master! Alan Kay discusses the revolution of personal computing in our exclusive interview. Don't miss these insights from a pioneer! #TechHistory #Innovation
-### How did personal computing start? Alan Kay reveals the behind-the-scenes stories of early tech in our special issue! 🌐 #ComputingPioneers #AlanKay
-### From the Dynabook concept to modern PCs, Alan Kay discusses it all. Check out his thoughts on the evolution of technology! #TechTalk #FutureOfComputing
-### Ever wondered who shaped the tools you use every day? Alan Kay explains his role in the tech we can't live without! 📱 #TechGenius #Interview
-### Alan Kay takes us on a journey through computing history and into the future in this exclusive interview. Learn from the legend himself! 🌟 #TechInnovation #Pioneer
-
 # Description
 
 In this enlightening interview, computer science legend Alan Kay delves into his early career, pivotal projects, and the philosophical underpinnings that drove his innovations at Xerox PARC and beyond.
