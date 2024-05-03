@@ -650,7 +650,7 @@ Oh sure.
 **Alan Kay:** Yes.
 
 **Yoot Saito:** And it is a very famous story that the people did.
-<?> ***[inaudible]***
+***[inaudible]***
 
 **Yoot Saito:** They didn't understand it.
 
