@@ -1086,7 +1086,7 @@ He played a crucial role in implementing features in Smalltalk that demonstrated
 Bill English, co-inventor of the mouse with Douglas Engelbart, is mentioned in passing as part of the influential figures at Xerox PARC.
 His work on input devices is a part of the legacy of innovations in human-computer interaction.
 
-#### *John McCarthy* (Artificial Intelligence Pioneer)
+#### *John McCarthy* (Stanford AI Lab, Artificial Intelligence Pioneer)
 John McCarthy was a pioneering computer scientist, best known for coining the term "Artificial Intelligence" and his foundational work in developing the programming language Lisp.
 His research laid critical groundwork for AI through projects like the Stanford AI Lab, and his philosophical inquiries into the implications of artificial intelligence profoundly shaped academic and public discourse on the topic.
 McCarthy's theories on computing and human cognition opened new pathways for exploring machine learning, natural language processing, and autonomous robotic systems.
