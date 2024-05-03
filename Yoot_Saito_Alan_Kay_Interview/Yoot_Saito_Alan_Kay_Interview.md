@@ -385,7 +385,7 @@ The Alto didn't exist yet.
 **Yoot Saito:** So you think something in your brain and describe...
 
 **Alan Kay:** 
-Yeah, so it was very similar to what McCarthy did when he wrote the first Lisp interpreter just to show that you could, and a graduate student turned it into a real program.
+Yeah, so it was very similar to what John McCarthy did when he wrote the first Lisp interpreter just to show that you could, and a graduate student turned it into a real program.
 Partly because I knew that McCarthy had done that, so I just did.
 So this is kind of an example of ...
 You can think of these things ...
@@ -1085,6 +1085,12 @@ He played a crucial role in implementing features in Smalltalk that demonstrated
 ### *Bill English* (Xerox PARC)
 Bill English, co-inventor of the mouse with Douglas Engelbart, is mentioned in passing as part of the influential figures at Xerox PARC.
 His work on input devices is a part of the legacy of innovations in human-computer interaction.
+
+#### *John McCarthy* (Artificial Intelligence Pioneer)
+John McCarthy was a pioneering computer scientist, best known for coining the term "Artificial Intelligence" and his foundational work in developing the programming language Lisp.
+His research laid critical groundwork for AI through projects like the Stanford AI Lab, and his philosophical inquiries into the implications of artificial intelligence profoundly shaped academic and public discourse on the topic.
+McCarthy's theories on computing and human cognition opened new pathways for exploring machine learning, natural language processing, and autonomous robotic systems.
+His influence extends beyond his technological innovations, inspiring generations of researchers to explore the ethical and practical dimensions of AI.
 
 ### *Niklaus Wirth* (Programming Languages)
 Mentioned for his work before developing Pascal, influencing Alan Kay's thoughts on programming languages.
