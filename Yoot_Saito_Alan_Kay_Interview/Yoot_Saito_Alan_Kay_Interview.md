@@ -94,7 +94,7 @@ Wes Clark's notion of it, he had a grant partially from the National Institute o
 ### Development of Early Personal Computers
 
 **Alan Kay:** So Wes had been the designer of some fairly large, he was associated with the National Institute of Health for some bio-medical experiments.
-He had been the designer of some fairly large, he was associated with the Whirlwind computer, a very famous old computer, and he was also the designer of this big computer that Ivan Sutherland used for sketchpad, and then he decided that he would do a little computer, almost as a kit.
+He had been the designer of some fairly large, he was associated with the Whirlwind computer, a very famous old computer, and he was also the designer of this big computer that Ivan Sutherland used for Sketchpad, and then he decided that he would do a little computer, almost as a kit.
 
 **Alan Kay:** That first summer in 1962 I think 20 people, master of fact that's in the book as well, 20 people that were in the biomedical sciences came out and assembled their own machines.
 So the idea was that if they could put the machine together and get it running, then they could take care of it.
@@ -1312,8 +1312,8 @@ This index organizes the events and concepts discussed by Alan Kay, providing a 
 ### Development of Early Computers and Programming
 - **Whirlwind Computer (Early 1950s):** Developed at MIT, one of the first computers to operate in real-time using video displays. Influenced early computer development.
 - **ALGOL (Mid-1950s):** Algorithmic Language, foundational to many programming languages, influenced development of simpler, powerful languages.
-- **Sketchpad by Ivan Sutherland (1963):** Pioneering computer program at MIT, early graphical interface influencing interactive computing.
 - **Link Machine by Wes Clark (1962):** Early personal computer for biomedical research, impacting Alan Kay's views on personal computing.
+- **Sketchpad by Ivan Sutherland (1963):** Pioneering computer program at MIT, early graphical interface influencing interactive computing.
 - **Simula Programming Language (Mid-1960s):** First object-oriented programming language, directly influenced Kay's development of Smalltalk.
 
 ### Mid to Late 20th Century Technological Innovations
@@ -1323,10 +1323,10 @@ This index organizes the events and concepts discussed by Alan Kay, providing a 
 - **Xerox PARC Establishment (Early 1970s):** Research division of Xerox focusing on advanced computing technologies, developed the Alto and many foundational technologies.
 
 ### Personal Computing Revolution
-- **Introduction of Xerox Alto (1973):** First computer with a mouse-driven graphical user interface, significant impact on personal computing.
-- **Development of Ethernet (1973):** Networking technology essential for local area networks, co-invented at PARC by David Boggs and others.
 - **Invention of Laser Printer (Early 1970s):** At PARC, fundamentally changing document production.
 - **Smalltalk Programming Language (1972):** Developed at Xerox PARC by Alan Kay and others, influencing object-oriented programming and GUIs.
+- **Introduction of Xerox Alto (1973):** First computer with a mouse-driven graphical user interface, significant impact on personal computing.
+- **Development of Ethernet (1973):** Networking technology essential for local area networks, co-invented at PARC by David Boggs and others.
 
 ### Apple's Incorporation of PARC Innovations
 - **Steve Jobs' Visit to Xerox PARC (1979):** Led to significant technology transfers to Apple, shaping the development of the Lisa and Macintosh computers.
