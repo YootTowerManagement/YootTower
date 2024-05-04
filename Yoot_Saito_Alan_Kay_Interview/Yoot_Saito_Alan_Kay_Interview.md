@@ -6,7 +6,7 @@
 
 # Description
 
-In this captivating interview from the early '90s, recently unearthed and previously published only in Japan, renowned game designer Yutaka "Yoot" Saito of MACWORLD Japan engages with computing pioneer Alan Kay in a deep exploration of technology's past and future. This dialogue, captured on a cassette tape, spans the evolution of personal computing, highlighting groundbreaking advancements and visionary ideas that have shaped modern technology. Yoot Saito, celebrated for his innovative approach to game design, and Alan Kay, known for his seminal contributions such as the development of the graphical user interface and the concept of the Dynabook, offer profound insights into both the historical trajectory and the potential futures of the digital world. This interview serves as a treasure trove of historical anecdotes, philosophical reflections, and forward-looking innovations, capturing a moment when two brilliant minds discussed the dynamics of technological progress.
+In this captivating interview from 1993, recently unearthed and previously published only in Japan, renowned game designer Yutaka "Yoot" Saito of MACWORLD Japan engages with computing pioneer Alan Kay in a deep exploration of technology's past and future. This dialogue, captured on a cassette tape, spans the evolution of personal computing, highlighting groundbreaking advancements and visionary ideas that have shaped modern technology. Yoot Saito, celebrated for his innovative approach to game design, and Alan Kay, known for his seminal contributions such as the development of the graphical user interface and the concept of the Dynabook, offer profound insights into both the historical trajectory and the potential futures of the digital world. This interview serves as a treasure trove of historical anecdotes, philosophical reflections, and forward-looking innovations, capturing a moment when two brilliant minds discussed the dynamics of technological progress.
 
 # Summary
 
@@ -28,9 +28,9 @@ The conversation also explores the intersection of technology with other fields,
 
 Concluding on a forward-looking note, the interview encapsulates both reflective and visionary perspectives, making it a vital read for those interested in the historical and future landscapes of technology. This dialogue between Saito and Kay is not merely a recount of past achievements but a contemplation on the enduring impact of these technologies and the endless possibilities they hold for reshaping our digital future.
 
-## Interview Context and Overview
+## Beginning of Yoot Saito's Interview with Alan Kay
 
-### Introduction to the Special Issue
+### MACWORLD Japan 1994 Special Issue for Macintosh Ten Year Anniversary
 
 **Yoot Saito:** MACWORLD Japan, special issue.
 Special means the ten year anniversary of Macintosh or something.
