@@ -1218,7 +1218,7 @@ Intel's bi-polar technology refers to a type of semiconductor technology used in
 The development of the laser printer at Xerox PARC underlines another significant technological advance discussed in the interview. The laser printer was a revolutionary product that stemmed from the research and innovation at PARC, fundamentally changing the way that documents are produced and printed in both business and personal environments.
 
 ### *Link Machine*
-The Link machine, developed by Wes Clark, was one of the inspirations for personal computing as discussed by Alan Kay. It was designed as a small, user-friendly computer for biomedical research, demonstrating early concepts of what would become personal computers.
+The [Link machine](https://whatishappening.org/alan-kay-vpri-nov-2012/#:~:text=Developments%20in%20Computing%20During%20the%201960s), created by Wes Clark in 1962, was the first machine with essential attributes of a personal computer, designed for biomedical engineers. Approximately 2,000 Link machines were built and utilized in the 1960s. The B5000, released in 1962 by Bob Barton, was a highly advanced computer, surpassing even modern personal computer chips. J.C.R. Licklider envisioned a universally networked world of interactive computers, leading to the development of the ARPANET. Dave Evans and Alan Kay, arriving at the University of Utah in the mid-1960s, emphasized collaboration and innovation. Licklider’s funding supported Engelbart’s groundbreaking NLS research, showcasing technologies like hypertext and the mouse. The University of Utah became one of the first ARPANET nodes, with Wes Clark and Lenny Kleinrock contributing to the network’s development.
 
 ### *Lisa*
 The Apple Lisa was one of the first personal computers to offer a graphical user interface in a market dominated by command-line interfaces. Released in 1983, it incorporated a number of advanced features such as a built-in screen, a mouse, and the ability to run multiple applications simultaneously. While not commercially successful, the Lisa introduced several key concepts that would be refined and popularized by the Macintosh.
@@ -1295,9 +1295,11 @@ This index organizes the events and concepts discussed by Alan Kay, providing a 
 - **Copernican Astronomy (1543):** Heliocentric model proposed by Nicolaus Copernicus, asserting Earth and planets orbit the sun. Used by Kay to illustrate paradigm shifts in computing at PARC.
 
 ### Development of Early Computers and Programming
-- **Whirlwind Computer (Early 1950s):** Developed at MIT, one of the first computers to operate in real-time using video displays. Influenced early computer development.
-- **ALGOL (Mid-1950s):** Algorithmic Language, foundational to many programming languages, influenced development of simpler, powerful languages.
+
+- **Whirlwind Computer (1951):** Developed at MIT, one of the first computers to operate in real-time using video displays. Influenced early computer development.
+- **ALGOL (1958):** Algorithmic Language, foundational to many programming languages, influenced development of simpler, powerful languages.
 - **Link Machine by Wes Clark (1962):** Early personal computer for biomedical research, impacting Alan Kay's views on personal computing.
+- **Spacewar! (1962):**  one of the first video games, is developed at MIT on the PDP-1 by Steve Russell and colleagues.
 - **Sketchpad by Ivan Sutherland (1963):** Pioneering computer program at MIT, early graphical interface influencing interactive computing.
 - **Simula Programming Language (Mid-1960s):** First object-oriented programming language, directly influenced Kay's development of Smalltalk.
 
