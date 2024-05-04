@@ -1149,6 +1149,9 @@ MIT's environment fostered significant technological innovations that contribute
 The NIH funded part of Wes Clark's work on the Link machine, one of the earliest personal computers, which was designed to meet the needs of biomedical research.
 This support highlights the NIH's role in fostering technological innovation that intersects with public health research.
 
+### [National Science Foundation (NSF)](https://whatishappening.org/alan-kay-vpri-nov-2012/#:~:text=Government%20Agencies%20and%20Vacuum%20Tube%20Computers)
+The 1950s saw the establishment of the National Science Foundation (NSF) to foster research and development. In response to the Sputnik crisis, the Advanced Research Projects Agency (ARPA) was created in the late 1950s, with the Information Processing Techniques Office (IPTO) established in the early 1960s. IPTO played a crucial role in the development of key technologies, channeling funding to MIT, Carnegie Mellon, and the University of Utah.
+
 ### SRI International (Stanford Research Institute)
 Douglas Engelbart's base of operations, where he developed the oN-Line System (NLS) and the computer mouse.
 SRI was a hub for early innovations in interactive computing, significantly influencing the work done at Xerox PARC.
@@ -1217,8 +1220,8 @@ Intel's bi-polar technology refers to a type of semiconductor technology used in
 ### *Laser Printer*
 The development of the laser printer at Xerox PARC underlines another significant technological advance discussed in the interview. The laser printer was a revolutionary product that stemmed from the research and innovation at PARC, fundamentally changing the way that documents are produced and printed in both business and personal environments.
 
-### *Link Machine*
-The [Link machine](https://whatishappening.org/alan-kay-vpri-nov-2012/#:~:text=Developments%20in%20Computing%20During%20the%201960s), created by Wes Clark in 1962, was the first machine with essential attributes of a personal computer, designed for biomedical engineers. Approximately 2,000 Link machines were built and utilized in the 1960s. The B5000, released in 1962 by Bob Barton, was a highly advanced computer, surpassing even modern personal computer chips. J.C.R. Licklider envisioned a universally networked world of interactive computers, leading to the development of the ARPANET. Dave Evans and Alan Kay, arriving at the University of Utah in the mid-1960s, emphasized collaboration and innovation. Licklider’s funding supported Engelbart’s groundbreaking NLS research, showcasing technologies like hypertext and the mouse. The University of Utah became one of the first ARPANET nodes, with Wes Clark and Lenny Kleinrock contributing to the network’s development.
+### *[Link Machine](https://whatishappening.org/alan-kay-vpri-nov-2012/#:~:text=Developments%20in%20Computing%20During%20the%201960s)*
+The Link machine, created by Wes Clark in 1962, was the first machine with essential attributes of a personal computer, designed for biomedical engineers. Approximately 2,000 Link machines were built and utilized in the 1960s. The B5000, released in 1962 by Bob Barton, was a highly advanced computer, surpassing even modern personal computer chips. J.C.R. Licklider envisioned a universally networked world of interactive computers, leading to the development of the ARPANET. Dave Evans and Alan Kay, arriving at the University of Utah in the mid-1960s, emphasized collaboration and innovation. Licklider’s funding supported Engelbart’s groundbreaking NLS research, showcasing technologies like hypertext and the mouse. The University of Utah became one of the first ARPANET nodes, with Wes Clark and Lenny Kleinrock contributing to the network’s development.
 
 ### *Lisa*
 The Apple Lisa was one of the first personal computers to offer a graphical user interface in a market dominated by command-line interfaces. Released in 1983, it incorporated a number of advanced features such as a built-in screen, a mouse, and the ability to run multiple applications simultaneously. While not commercially successful, the Lisa introduced several key concepts that would be refined and popularized by the Macintosh.
