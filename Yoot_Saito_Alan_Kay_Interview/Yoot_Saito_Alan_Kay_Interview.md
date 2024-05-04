@@ -1,14 +1,8 @@
-# Alternative Titles
-## Creative Titans in Conversation: Yoot Saito and Alan Kay Discuss Technology's Past and Future
-## Masterminds of Innovation: Yoot Saito's Dialogues with Computing Pioneer Alan Kay
-## From Gaming to Computing: Yoot Saito Interviews Visionary Alan Kay
-## A Meeting of Creative Minds: Yoot Saito and Alan Kay on the Evolution of Technology
-## When Creativity Converges: Renowned Game Designer Yoot Saito in Dialogue with Alan Kay
-## Crossroads of Innovation: Yoot Saito Discusses Technology's Future with Alan Kay
-## Bridging Worlds: Game Innovator Yoot Saito Interviews Tech Pioneer Alan Kay
-## Pioneers in Play and Programming: Yoot Saito and Alan Kay on Crafting the Future
-## Dialogues with Giants: Yoot Saito Explores the Digital Frontier with Alan Kay
-## Inventive Dialogues: Yoot Saito's Insightful Conversations with Alan Kay
+# Yoot Saito Interviews Alan Kay for MACWORLD Japan
+
+> Yoot towers wisely,  
+> Alan constructs the future—  
+> foundations of change.
 
 # Description
 
