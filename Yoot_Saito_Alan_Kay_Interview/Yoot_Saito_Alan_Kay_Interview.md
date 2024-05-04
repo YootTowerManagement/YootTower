@@ -409,7 +409,7 @@ That was a really good idea, and he actually came up with a very nice way of rec
 **Yoot Saito:** Ethernet was developed through these periods?
 
 **Alan Kay:** Same period.
-McCafferty ***(Who?)*** and David Boggs, and, I think it started working at the end of, the Alto started working April '73.
+Robert Metcalfe and David Boggs, and, I think it started working at the end of, the Alto started working April '73.
 And the laser printer was already working by then.
 Laser printer was working in '72.
 
@@ -1067,7 +1067,7 @@ John McCarthy was a pioneering computer scientist, best known for coining the te
 ### [Niklaus Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth)
 Niklaus Wirth, known for developing several influential programming languages including Pascal, is mentioned in the context of his work prior to Pascal, which influenced Alan Kay's thoughts on programming languages. Wirth's early contributions were instrumental in shaping the concepts of structured programming and the development of compact, efficient code, which resonated with Kay's own developments in programming language design at Xerox PARC.
 
-### [Bob Barton (Burroughs Corporation)](https://news.ycombinator.com/item?id=11839876)
+### [Bob Barton](https://news.ycombinator.com/item?id=11839876) (Burroughs Corporation)
 Bob Barton was a significant figure in early computing, known particularly for his work at Burroughs Corporation on the development of stack machines, which are inherently easier to compile for than traditional accumulator-based designs.
 His philosophy and perspectives on systems programming were influential, famously summarizing that "Systems programmers are high priests of a low cult." He also valued the sharing of ideas and the collective excitement of discovery in the field of computing, echoing Goethe's sentiment that priority should not overshadow the joy of innovation.
 Barton’s views often emphasized the importance of understanding and revising the hardware to better support software developments, arguing against the notion that hardware should constrain software design.
@@ -1076,6 +1076,10 @@ He liked to quote Goethe, that we should "share in the excitement of discovery w
 
 ### [David Boggs (Xerox PARC)](https://en.wikipedia.org/wiki/David_Boggs)
 David Boggs, alongside Robert Metcalfe, is credited with the co-invention of Ethernet at Xerox PARC, a pivotal development in computer networking technology. Boggs brought valuable experience as an amateur radio operator to the project, which influenced his understanding and implementation of networking concepts. Through their collaborative efforts, they developed several Ethernet interfaces for the Xerox Alto and later published the seminal paper, "Ethernet: Distributed Packet Switching for Local Computer Networks," which laid the foundation for modern local area networks. His work at Xerox also included the development of the PARC Universal Packet protocol, further establishing his influence in the field of computer networking. After Xerox, Boggs continued his work at Stanford University, where he earned advanced degrees and contributed to early Internet protocol research, including concepts that would evolve into IP multicasting.
+
+
+### [Robert Metcalfe (PARC, 3COM)](https://en.wikipedia.org/wiki/Robert_Metcalfe)
+Robert "Bob" Metcalfe is an influential American engineer and entrepreneur, recognized for his seminal work in computer networking and the co-invention of Ethernet alongside David Boggs at Xerox PARC. Metcalfe's career extends beyond this pivotal innovation; he founded 3Com, a major company in network technology, and formulated Metcalfe's Law, which posits that the value of a telecommunications network is proportional to the square of the number of users connected to the system. His contributions have been acknowledged with numerous awards, including the IEEE Medal of Honor and the National Medal of Technology. Metcalfe also ventured into academia as a professor of innovation and entrepreneurship, shaping future engineers and tech entrepreneurs with his vast industry experience. His work continues to influence the technological landscape, particularly in the development of networked systems and enterprise networking solutions.
 
 ### [Steve Capps (Apple Inc.)](https://en.wikipedia.org/wiki/Steve_Capps)
 Steve Capps was a key figure at Apple Inc., where he significantly contributed to the development of the original Macintosh computer, particularly in implementing its user interface. His early exposure to graphical user interfaces at Xerox Corporation profoundly influenced his work, enabling him to integrate pioneering concepts from Xerox PARC into Apple's systems. Capps also led the development of the Apple Newton PDA and later contributed to Microsoft's Internet Explorer. Beyond his technical contributions, Capps has been an innovator in online and mobile payment systems through his work with PayNearMe, holding over 65 patents across various technology domains. His efforts have consistently focused on making digital technology more accessible and user-friendly.
@@ -1088,9 +1092,6 @@ Marshall McLuhan, a pioneering Canadian philosopher and communication theorist, 
 
 ### Dr. Hubbert ***(Unknown)***
 Dr. Hubbert is mentioned in the context of Japanese writings about the Flex Machine Project. Little is known about Dr. Hubbert from the interview alone, including his full name or his exact contributions. It is indicated that he has written about the Flex Machine Project, possibly providing translations or interpretations relevant to Japanese audiences.
-
-### McCafferty ***(Unknown)***
-McCafferty is referenced briefly in the discussion of Ethernet development at Xerox PARC. The context or full identity of McCafferty is unclear from the interview, and further details would be needed to fully understand his role or contributions to the project.
 
 ### van Weingarten ***(Unknown)***
 Van Weingarten is mentioned by Alan Kay as an influence in the simplification of programming languages, particularly in the development of a language called Oiler, which preceded Klaus Wirth's work on Pascal. The exact identity and contributions of van Weingarten remain vague within the interview, requiring additional verification and context to accurately assess his impact on programming language development.
