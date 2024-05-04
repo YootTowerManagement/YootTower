@@ -66,9 +66,9 @@ It was done with Ed Cheetal.
 **Yoot Saito:** He proposed the desktop computer concept right?
 
 **Alan Kay:** Yes, you never know who was the first.
-You know, I show in here Wes Clark's Link machine was maybe the first.
+You know, I show in here Wes Clark's LINC machine was maybe the first.
 Ivan Sutherland, we think of that as being the first time of something like personal computing.
-Here is the Link.
+Here is the LINC.
 So that was a desk top machine as well and that was 1962.
 
 **Yoot Saito:** The year I was born.
@@ -248,7 +248,7 @@ That's it.
 
 **Alan Kay:** It was about the summer of '71 that was designed.
 This is not a dynabook, but this is an attempt to take existing technology and do something that I thought we could cover a lot of the ground that Seymour Papert had been doing.
-This also is influenced by Wes Clark's Link.
+This also is influenced by Wes Clark's LINC.
 More than the Flex machine.
 
 **Alan Kay:** The Flex machine was too complicated.
@@ -1045,8 +1045,8 @@ He is mentioned in relation to his role in supporting innovative research withou
 Ed Cheetal worked with Alan Kay on the Flex machine project in 1967, which was an early exploration into personal computing concepts.
 This project is noted as part of the lineage that led to more sophisticated developments at Xerox PARC.
 
-### *Wes Clark* (Link Machine)
-Wes Clark designed the Link machine, considered by some as the first personal computer.
+### *Wes Clark* (LINC Machine)
+Wes Clark designed the LINC machine, considered by some as the first personal computer.
 Kay mentions him in the context of early computing innovations that influenced his own thinking about personal and accessible computing devices.
 
 ### *Ivan Sutherland* (Sketchpad, MIT)
@@ -1146,11 +1146,11 @@ MIT is where Ivan Sutherland developed Sketchpad, an early graphical interface t
 MIT's environment fostered significant technological innovations that contributed broadly to the field of computing.
 
 ### National Institute of Health (NIH)
-The NIH funded part of Wes Clark's work on the Link machine, one of the earliest personal computers, which was designed to meet the needs of biomedical research.
+The NIH funded part of Wes Clark's work on the LINC machine, one of the earliest personal computers, which was designed to meet the needs of biomedical research.
 This support highlights the NIH's role in fostering technological innovation that intersects with public health research.
 
 ### [National Science Foundation (NSF)](https://whatishappening.org/alan-kay-vpri-nov-2012/#:~:text=Government%20Agencies%20and%20Vacuum%20Tube%20Computers)
-The 1950s saw the establishment of the National Science Foundation (NSF) to foster research and development. In response to the Sputnik crisis, the Advanced Research Projects Agency (ARPA) was created in the late 1950s, with the Information Processing Techniques Office (IPTO) established in the early 1960s. IPTO played a crucial role in the development of key technologies, channeling funding to MIT, Carnegie Mellon, and the University of Utah.
+The National Science Foundation (NSF) was instrumental in supporting the foundational research and development that led to major advances in early computing and the internet, particularly influencing pioneers like Alan Kay. Established in the 1950s, the NSF, along with the Advanced Research Projects Agency (ARPA), provided critical funding to institutions such as MIT, Carnegie Mellon, and the University of Utah—where innovators like Kay were educated and began their groundbreaking work. This investment was crucial for the development of fields such as computer graphics, network systems, and object-oriented programming. Kay's subsequent work at Xerox PARC, including the creation of the Smalltalk programming language and the Dynabook concept, was profoundly shaped by the innovative environments fostered by NSF and ARPA’s funding, highlighting their significant role in advancing the frontiers of science and technology.
 
 ### SRI International (Stanford Research Institute)
 Douglas Engelbart's base of operations, where he developed the oN-Line System (NLS) and the computer mouse.
@@ -1220,8 +1220,8 @@ Intel's bi-polar technology refers to a type of semiconductor technology used in
 ### *Laser Printer*
 The development of the laser printer at Xerox PARC underlines another significant technological advance discussed in the interview. The laser printer was a revolutionary product that stemmed from the research and innovation at PARC, fundamentally changing the way that documents are produced and printed in both business and personal environments.
 
-### *[Link Machine](https://whatishappening.org/alan-kay-vpri-nov-2012/#:~:text=Developments%20in%20Computing%20During%20the%201960s)*
-The Link machine, created by Wes Clark in 1962, was the first machine with essential attributes of a personal computer, designed for biomedical engineers. Approximately 2,000 Link machines were built and utilized in the 1960s. The B5000, released in 1962 by Bob Barton, was a highly advanced computer, surpassing even modern personal computer chips. J.C.R. Licklider envisioned a universally networked world of interactive computers, leading to the development of the ARPANET. Dave Evans and Alan Kay, arriving at the University of Utah in the mid-1960s, emphasized collaboration and innovation. Licklider’s funding supported Engelbart’s groundbreaking NLS research, showcasing technologies like hypertext and the mouse. The University of Utah became one of the first ARPANET nodes, with Wes Clark and Lenny Kleinrock contributing to the network’s development.
+### *[LINC Machine](https://whatishappening.org/alan-kay-vpri-nov-2012/#:~:text=Developments%20in%20Computing%20During%20the%201960s)*
+In the 1962 MIT workshop, Wes Clark created the Link machine, regarded as the first personal computer with attributes essential for biomedical engineers, fundamentally influencing early computing. Its inception and utility in laboratories prefigured the environment where Alan Kay would later work and conceptualize groundbreaking innovations like the Dynabook. Kay’s later contributions at Xerox PARC, including developments in object-oriented programming and graphical user interfaces, traced conceptual roots back to the collaborative and interactive computing principles first embodied by the Link machine. This early model of personal computing set the stage for the ARPANET and subsequent networking advancements, illustrating the intertwined evolution of computing technologies and their profound societal impact.
 
 ### *Lisa*
 The Apple Lisa was one of the first personal computers to offer a graphical user interface in a market dominated by command-line interfaces. Released in 1983, it incorporated a number of advanced features such as a built-in screen, a mouse, and the ability to run multiple applications simultaneously. While not commercially successful, the Lisa introduced several key concepts that would be refined and popularized by the Macintosh.
@@ -1301,7 +1301,7 @@ This index organizes the events and concepts discussed by Alan Kay, providing a 
 
 - **Whirlwind Computer (1951):** Developed at MIT, one of the first computers to operate in real-time using video displays. Influenced early computer development.
 - **ALGOL (1958):** Algorithmic Language, foundational to many programming languages, influenced development of simpler, powerful languages.
-- **Link Machine by Wes Clark (1962):** Early personal computer for biomedical research, impacting Alan Kay's views on personal computing.
+- **LINC Machine by Wes Clark (1962):** Early personal computer for biomedical research, impacting Alan Kay's views on personal computing.
 - **Spacewar! (1962):**  one of the first video games, is developed at MIT on the PDP-1 by Steve Russell and colleagues.
 - **Sketchpad by Ivan Sutherland (1963):** Pioneering computer program at MIT, early graphical interface influencing interactive computing.
 - **Simula Programming Language (Mid-1960s):** First object-oriented programming language, directly influenced Kay's development of Smalltalk.
