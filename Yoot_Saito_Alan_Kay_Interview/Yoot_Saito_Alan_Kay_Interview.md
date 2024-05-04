@@ -1067,7 +1067,7 @@ John McCarthy was a pioneering computer scientist, best known for coining the te
 ### [Niklaus Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth)
 Niklaus Wirth, known for developing several influential programming languages including Pascal, is mentioned in the context of his work prior to Pascal, which influenced Alan Kay's thoughts on programming languages. Wirth's early contributions were instrumental in shaping the concepts of structured programming and the development of compact, efficient code, which resonated with Kay's own developments in programming language design at Xerox PARC.
 
-### [Bob Barton](https://news.ycombinator.com/item?id=11839876) (Burroughs Corporation)
+### [Bob Barton (Burroughs Corporation)](https://news.ycombinator.com/item?id=11839876)
 Bob Barton was a significant figure in early computing, known particularly for his work at Burroughs Corporation on the development of stack machines, which are inherently easier to compile for than traditional accumulator-based designs.
 His philosophy and perspectives on systems programming were influential, famously summarizing that "Systems programmers are high priests of a low cult." He also valued the sharing of ideas and the collective excitement of discovery in the field of computing, echoing Goethe's sentiment that priority should not overshadow the joy of innovation.
 Barton’s views often emphasized the importance of understanding and revising the hardware to better support software developments, arguing against the notion that hardware should constrain software design.
