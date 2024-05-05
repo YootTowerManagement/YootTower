@@ -134,6 +134,7 @@ It is indicated that he has written about the Flex Machine Project, possibly pro
 ### van Weingarten ***(Unknown)***
 Van Weingarten is mentioned by Alan Kay as an influence in the simplification of programming languages, particularly in the development of a language called Euler, which preceded Klaus Wirth's work on Pascal.
 The exact identity and contributions of van Weingarten remain vague within the interview, requiring additional verification and context to accurately assess his impact on programming language development.
+Could this be Helmut Weber (badly transcribed from noisy audio recording)?
 
 ## Institutions
 
