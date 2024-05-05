@@ -126,12 +126,9 @@ He is best known for coining the terms "the medium is the message" and "global v
 McLuhan argued that the characteristics of each medium affect how information is delivered and perceived, thereby influencing societal interactions and cognitive processes.
 His theories highlight the transformative impact of media, particularly emphasizing the role of computers as powerful tools for communication in shaping contemporary society.
 
-### Dr.
-Hubbert ***(Unknown)***
-Dr.
-Hubbert is mentioned in the context of Japanese writings about the Flex Machine Project.
-Little is known about Dr.
-Hubbert from the interview alone, including his full name or his exact contributions.
+### Dr. Hubbert ***(Unknown)***
+Dr. Hubbert is mentioned in the context of Japanese writings about the Flex Machine Project.
+Little is known about Dr. Hubbert from the interview alone, including his full name or his exact contributions.
 It is indicated that he has written about the Flex Machine Project, possibly providing translations or interpretations relevant to Japanese audiences.
 
 ### van Weingarten ***(Unknown)***
