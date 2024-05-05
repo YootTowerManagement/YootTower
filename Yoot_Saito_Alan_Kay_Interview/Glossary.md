@@ -40,8 +40,7 @@ This project aimed to create a computer for non-computer professionals, emphasiz
 Despite JOSS's limitations in speed and functionality, they explored enhancements inspired by Niklaus Wirth's EULER and concepts from van Wijngaarden, moving towards dynamic simulation capabilities and advanced procedural integrations.
 This early work in personal computing at the University of Utah influenced later, more complex developments, particularly Kay's contributions at Xerox PARC.
 
-### [Wesley A.
-Clark (LINC Machine)](https://en.wikipedia.org/wiki/Wesley_A._Clark)
+### [Wesley A. Clark (LINC Machine)](https://en.wikipedia.org/wiki/Wesley_A._Clark)
 Wes Clark was the designer of the LINC machine, often recognized as the first personal computer.
 Alan Kay discusses Clark's influence on early computing in the context of innovations that shaped Kay's own visions for personal and accessible computing devices.
 Clark's work on the LINC exemplifies the pioneering efforts in making technology more user-friendly and directly impactful on individual users, setting a foundational precedent for the development of personal computing.
