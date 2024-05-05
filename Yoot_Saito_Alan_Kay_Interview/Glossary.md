@@ -284,9 +284,9 @@ The development of the laser printer at Xerox PARC underlines another significan
 The laser printer was a revolutionary product that stemmed from the research and innovation at PARC, fundamentally changing the way that documents are produced and printed in both business and personal environments.
 
 ### [LINC Machine](https://en.wikipedia.org/wiki/LINC)
-In the 1962 MIT workshop, Wes Clark created the Link machine, regarded as the first personal computer with attributes essential for biomedical engineers, fundamentally influencing early computing.
+In the 1962 MIT workshop, Wes Clark created the LINC machine, regarded as the first personal computer with attributes essential for biomedical engineers, fundamentally influencing early computing.
 Its inception and utility in laboratories prefigured the environment where Alan Kay would later work and conceptualize groundbreaking innovations like the Dynabook.
-Kay’s later contributions at Xerox PARC, including developments in object-oriented programming and graphical user interfaces, traced conceptual roots back to the collaborative and interactive computing principles first embodied by the Link machine.
+Kay’s later contributions at Xerox PARC, including developments in object-oriented programming and graphical user interfaces, traced conceptual roots back to the collaborative and interactive computing principles first embodied by the LINC machine.
 This early model of personal computing set the stage for the ARPANET and subsequent networking advancements, illustrating the intertwined evolution of computing technologies and their profound societal impact.
 
 ### [Lisa](https://en.wikipedia.org/wiki/Apple_Lisa)
