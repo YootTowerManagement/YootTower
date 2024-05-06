@@ -40,7 +40,7 @@ Also, you will find we can do this interview, but you will also find a lot of ma
 ### Impact of Flex Machine Project
 
 **Yoot Saito:** Also Dr. Hubbert <?> ***[inaudible]*** writes about that in Japanese.
-And at that time, maybe in 1966 or 67, you were involved in the flex machine project?
+And at that time, maybe in 1966 or 67, you were involved in the Flex Machine project?
 
 **Alan Kay:** 1966, that's right.
 That started in early 1967.
@@ -49,10 +49,10 @@ It was done with Ed Cheadle.
 **Yoot Saito:** He proposed the desktop computer concept right?
 
 **Alan Kay:** Yes, you never know who was the first.
-You know, I show in here Wes Clark's LINC machine was maybe the first.
+You know, I show in here Wes Clark's LINC Machine was maybe the first.
 Ivan Sutherland, we think of that as being the first time of something like personal computing.
 Here is the LINC.
-So that was a desk top machine as well and that was 1962.
+So that was a desktop machine as well and that was 1962.
 
 **Yoot Saito:** The year I was born.
 
