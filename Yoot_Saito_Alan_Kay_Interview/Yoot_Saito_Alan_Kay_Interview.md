@@ -172,8 +172,8 @@ We wanted to be able to share a variety of computer resources in various ways.
 
 ### Integrating Engelbart's NLS into Distributed Systems
 
-**Alan Kay:** So one of the earliest projects at PARC, that some of the Berkeley people wanted to do, was to take Engelbart's NLS, in fact we had a joint project with Engelbart's group for a while, we wanted to take Engelbart's system and put it on t distributive computing system.
-In other words, take it off the main frame and put it on a distributive minis.
+**Alan Kay:** So one of the earliest projects at PARC, that some of the Berkeley people wanted to do, was to take Engelbart's NLS, in fact we had a joint project with Engelbart's group for a while, we wanted to take Engelbart's system and put it on a distributed computing system.
+In other words, take it off the mainframe and put it on the distributed minis.
 
 **Alan Kay:** In fact, that was done, or something like that was done.
 It turned out that the Alto was actually over that architecture.
