@@ -164,7 +164,7 @@ Everybody there, again you have to realize a lot of this stuff came from Xerox n
 
 **Alan Kay:** So, one of the things that everybody agreed on was that things were going to be networked.
 A lot of us had worked on the ARPANET.
-Networking was going to be important, and more than that, distributive computing, which is a phrase I think Butler Amson made up, but distributive computing was going to be the way computing was going to be done.
+Networking was going to be important, and more than that, distributive computing, which is a phrase I think Butler Lampson made up, but distributive computing was going to be the way computing was going to be done.
 
 **Alan Kay:** So the computers were getting cheaper.
 We wanted to have them on fast networks.
