@@ -869,27 +869,23 @@ Completed and isolated from other things.
 
 **Alan Kay:** Well I don't know, I wasn't there when that was going on.
 There was a concept that the Mac should be like an appliance.
-
-**Alan Kay:** Like a toaster.
+Like a toaster.
 Completely self-contained machine.
 
 **Alan Kay:** What was interesting, one of the reasons some people didn't buy the Mac was because it didn't have slots.
 This was in spite of the fact that most of the things you use slots for on the IBM PC were built into the Mac.
-
-**Alan Kay:** The network was built into the Mac and serial stuff was built into the Mac.
+The network was built into the Mac and serial stuff was built into the Mac.
 But the Mac didn't start selling until we made the Mac II which had slots.
 
 ### Market Perceptions of the Mac II
 
 **Alan Kay:** The most interesting thing is that almost nobody who bought a Mac II ever put anything into the slots.
 Because it was already built in there.
-
-**Alan Kay:** It was one of these weird perception things in the buyers, they thought, well, just in case I need to put something in.
+It was one of these weird perception things in the buyers, they thought, well, just in case I need to put something in.
 So they were willing to spend a lot more money, and these machines still get obsolete every two or three years, right.
 
 **Alan Kay:** Actually a better thing is to buy a machine that you need and if you need another machine later on, you just buy, part of it.
-
-**Alan Kay:** Anyway.
+Anyway.
 Who knows why people buy things.
 
 ## The Rise of the Newton and the Concept of the Dynabook
