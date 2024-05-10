@@ -845,23 +845,19 @@ The basic thing that is thought of as the Mac user interface was done on the Lis
 
 **Alan Kay:** That was one of the things they did best.
 I think it came out really well because [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) was intensely visual.
-
-**Alan Kay:** He really cared about what things looked like on the screen.
+He really cared about what things looked like on the screen.
 He did a lot of criticism and got them to think of better ways of doing it.
 
 **Alan Kay:** And the things that were bad about the Lisa and especially the Mac were the stuff that you don't see, like the network.
 The absences of a hard disk.
-
-**Alan Kay:** Those happen I think because [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) was not a systems person, so he didn't think of those things as being important, he just wanted to do MacDraw.
+Those happen I think because Steve Jobs was not a systems person, so he didn't think of those things as being important, he just wanted to do MacDraw.
 I mean MacPaint.
-
-**Alan Kay:** That was another thing that was very unpopular when I came in, and I told them that MacDraw was the best thing that was on the Macintosh.
+That was another thing that was very unpopular when I came in, and I told them that MacDraw was the best thing that was on the Macintosh.
 Steve hated MacDraw.
 
 **Alan Kay:** He liked MacPaint because it was...
 The thing is that MacDraw was the way to do it.
-
-**Alan Kay:** If you look today what do people use, they use object-oriented graphics systems because those are the kinds of things that give you the most range.
+If you look today what do people use, they use object-oriented graphics systems because those are the kinds of things that give you the most range.
 The painting systems are sort of a secondary thing.
 
 ## Isolation and Integration in Product Design
