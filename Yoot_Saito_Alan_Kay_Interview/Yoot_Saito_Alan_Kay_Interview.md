@@ -703,8 +703,8 @@ Apple technical people.
 
 **Yoot Saito:** After that they came again and again.
 
-**Alan Kay:** Yeah, it was a little complicated because Xerox was a stockholder, and I think Steve tried to actually buy the stuff.
-[Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) tried to get the stuff officially from Xerox, and Xerox didn't want to sell it to him either.
+**Alan Kay:** Yeah, it was a little complicated because Xerox was a stockholder, and I think [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) tried to actually buy the stuff.
+Steve tried to get the stuff officially from Xerox, and Xerox didn't want to sell it to him either.
 
 **Alan Kay:** And, then the next year, 1980, [Larry Tesler](https://en.wikipedia.org/wiki/Larry_Tesler) decided to leave to go to Apple, and that was when I actually decided to take a sabbatical, because I was kind of fed up with Xerox too.
 
