@@ -786,42 +786,35 @@ How about the Lisa?
 
 **Alan Kay:** The thing with the Lisa was, I still have a couple of them.
 I used the Lisa for the first couple of years until pretty much the Mac II was...
-
-**Alan Kay:** The Lisa was a system that had a lot of good ideas, and it had a couple of fatal compromises.
+The Lisa was a system that had a lot of good ideas, and it had a couple of fatal compromises.
 I had nothing to do with that machine.
 
 **Alan Kay:** But basically, the right ideas it had, it had real memory protection, so that processes were protected from each other.
 It had quite a number of pixels on the display.
 It was programmed in an object-oriented form.
-
-**Alan Kay:** Just lots of good, excellent ideas in it.
+Just lots of good, excellent ideas in it.
 Then the compromises that were fatal on the thing were twofold.
 
 **Alan Kay:** One is that for various reasons Apple wanted to always be able to sell a machine that did not require a hard disk.
 Now all the PARC machines had the equivalent, they had a swapping disk on them.
 It just turns out you need to be able to use the disk as a resource.
-
-**Alan Kay:** Even the software today doesn't do much swapping, or doesn't do swapping in a very useful way.
+Even the software today doesn't do much swapping, or doesn't do swapping in a very useful way.
 The truth was when you had a Lisa you had to have a five megabyte disk on top.
 Or somewhere else.
 
 **Alan Kay:** The thing I think was the fatal flaw, and I don't know who made the decision, but it was not to use a fast bit slice processor like Xerox PARC had used.
 Like I think one of the options was to the MD, American Micro Devices, 2901 bit slice processor.
-
-**Alan Kay:** I think the reason they decided not to use it is they didn't think AMD would stay in business.
+I think the reason they decided not to use it is they didn't think AMD would stay in business.
 It's still in business.
-
-**Alan Kay:** Somebody, who didn't know very much, liked the 68000.
+Somebody, who didn't know very much, liked the 68000.
 They liked the 68000 I think because they had programmed PDP-11s.
 
 **Alan Kay:** The 68000 looks kind of like a DEC architecture, when in fact it is a very bad architecture for running object oriented.
 Once they decided they were going to use the Motorola architecture, they were running about a factor of five slower than they needed to run, and all of a sudden they couldn't use Smalltalk anymore.
-
-**Alan Kay:** They had to go to Pascal.
+They had to go to Pascal.
 They made an object-oriented version of Pascal.
 Pascal is a static language, not a dynamic language, and all of a sudden there were things you couldn't do anymore that were easy to do in Smalltalk.
-
-**Alan Kay:** And the thing was slower and the code was bigger.
+And the thing was slower and the code was bigger.
 So the Lisa had twice as much memory as this machine and didn't run as well.
 
 ### Matching Hardware to Software Needs
