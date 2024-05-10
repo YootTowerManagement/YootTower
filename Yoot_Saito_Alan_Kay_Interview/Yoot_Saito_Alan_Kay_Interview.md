@@ -1,4 +1,4 @@
-# A Journey Through Computing History with Yoot Saito and Alan Kay
+# A Journey Through Computing History with [Yoot Saito](https://en.wikipedia.org/wiki/Yoot_Saito) and [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay)
 
 > Yoot towers wisely,  
 > Alan constructs the future—  
@@ -6,12 +6,12 @@
 
 ## Introduction
 
-In this captivating interview from 1993, recently unearthed and previously published only in Japan, renowned game designer Yutaka "Yoot" Saito of MACWORLD Japan engages with computing pioneer Alan Kay in a deep exploration of technology's past and future.
+In this captivating interview from 1993, recently unearthed and previously published only in Japan, renowned game designer [Yutaka "Yoot" Saito](https://en.wikipedia.org/wiki/Yoot_Saito) of MACWORLD Japan engages with computing pioneer [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay) in a deep exploration of technology's past and future.
 This dialogue, captured on a cassette tape and transcribed, spans the evolution of personal computing, highlighting groundbreaking advancements and visionary ideas that have shaped modern technology.
-Yoot Saito, celebrated for his innovative approach to game design, and Alan Kay, known for his seminal contributions such as the development of the graphical user interface and the concept of the Dynabook, offer profound insights into both the historical trajectory and the potential futures of the digital world.
+Yoot Saito, celebrated for his innovative approach to game design, and [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay), known for his seminal contributions such as the development of the graphical user interface and the concept of the Dynabook, offer profound insights into both the historical trajectory and the potential futures of the digital world.
 This interview serves as a treasure trove of historical anecdotes, philosophical reflections, and forward-looking innovations, capturing a moment when two brilliant minds discussed the dynamics of technological progress.
 
-## Beginning of Yoot Saito's Interview with Alan Kay
+## Beginning of [Yoot Saito's](https://en.wikipedia.org/wiki/Yoot_Saito) Interview with [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay)
 
 ### MACWORLD Japan 1994 Special Issue for Macintosh Ten Year Anniversary
 
@@ -21,7 +21,7 @@ Special means the ten year anniversary of Macintosh or something.
 **Alan Kay:** That's right, next year.
 
 ### Purpose of the Interview
-**Yoot Saito:** Next year January, we would like to put Mr. Engelbart's interviews for a special issue for the computer itself.
+**Yoot Saito:** Next year January, we would like to put [Mr. Engelbart's](https://en.wikipedia.org/wiki/Douglas_Engelbart) interviews for a special issue for the computer itself.
 So in this interview, I would like to ask you for past things, not only the future but past things, perspective so...
 
 **Alan Kay:** Sure.
@@ -44,25 +44,25 @@ And at that time, maybe in 1966 or 67, you were involved in the Flex Machine pro
 
 **Alan Kay:** 1966, that's right.
 That started in early 1967.
-It was done with Ed Cheadle.
+It was done with [Ed Cheadle](https://en.wikipedia.org/wiki/University_of_Utah_School_of_Computing#Programming_Languages_and_Personal_Computers).
 
 **Yoot Saito:** He proposed the desktop computer concept right?
 
 **Alan Kay:** Yes, you never know who was the first.
-You know, I show in here Wes Clark's LINC Machine was maybe the first.
-Ivan Sutherland, we think of that as being the first time of something like personal computing.
+You know, I show in here [Wes Clark's](https://en.wikipedia.org/wiki/Wesley_A._Clark) LINC Machine was maybe the first.
+[Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland), we think of that as being the first time of something like personal computing.
 Here is the LINC.
 So that was a desktop machine as well and that was 1962.
 
 **Yoot Saito:** The year I was born.
 
 **Alan Kay:** Yeah, so people were thinking about personal computing very early.
-Wes Clark's notion of it, he had a grant partially from the National Institutes of Health, and they needed something that would be much more responsive for doing bio-medical experiments.
+[Wes Clark's](https://en.wikipedia.org/wiki/Wesley_A._Clark) notion of it, he had a grant partially from the National Institutes of Health, and they needed something that would be much more responsive for doing bio-medical experiments.
 
 ### Development of Early Personal Computers
 
 **Alan Kay:** So Wes had been the designer of some fairly large, he was associated with the National Institutes of Health for some bio-medical experiments.
-He had been the designer of some fairly large, he was associated with the Whirlwind computer, a very famous old computer, and he was also the designer of this big computer that Ivan Sutherland used for Sketchpad, and then he decided that he would do a little computer, almost as a kit.
+He had been the designer of some fairly large, he was associated with the Whirlwind computer, a very famous old computer, and he was also the designer of this big computer that [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland) used for Sketchpad, and then he decided that he would do a little computer, almost as a kit.
 
 **Alan Kay:** That first summer in 1962 I think 20 people, master of fact that's in the book as well, 20 people that were in the biomedical sciences came out and assembled their own machines.
 So the idea was that if they could put the machine together and get it running, then they could take care of it.
@@ -77,20 +77,20 @@ It was very cute.
 
 **Yoot Saito:** Was maybe 1966, 1967, and it was a title concept, it was not an existing computer but just raised the concept, is that right.
 
-**Alan Kay:** Yeah, well, in what Cheadle, Cheadle had a little machine.
+**Alan Kay:** Yeah, well, in what [Cheadle](https://en.wikipedia.org/wiki/University_of_Utah_School_of_Computing#Programming_Languages_and_Personal_Computers) had a little machine.
 You could really call it a calculator.
 
 **Alan Kay:** That he had made out of a little television set and some logic, and he wanted it to be more programmable.
 He and I became good friends, so I got interested in doing a very compact language for it.
 
-**Alan Kay:** And I had already seen Simula, and Klaus Wirth, you know, the guy who did Pascal, he had, before he did Pascal, he did one nice language, which was a language called Euler.
+**Alan Kay:** And I had already seen Simula, and [Klaus Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth), you know, the guy who did Pascal, he had, before he did Pascal, he did one nice language, which was a language called Euler.
 Euler was done around 1965 and was based on some work by a guy by the name of van Weingarten, which is not particularly important, but he was the guy who had the original, essentially it was to take ALGOL and try to be able to do everything that ALGOL could do without having to be without having to use as many features.
 
 **Alan Kay:** So what it turned out to be was a language a lot like Lisp, but coming from the other direction.
 So it was a very simple language, but it had the same power as ALGOL, in fact, a little more power than ALGOL.
 It was very small and easy to compile.
 
-**Alan Kay:** The other influence was a guy named Bob Barton who had done the early Burroughs stack machines.
+**Alan Kay:** The other influence was a guy named [Bob Barton](https://en.wikipedia.org/wiki/Robert_S._Barton) who had done the early Burroughs stack machines.
 Again, these machines were very easy to compile higher level language code.
 
 **Alan Kay:** So I got the idea of trying to, instead of taking ALGOL and simplifying it, of taking simulants and simplifying it.
@@ -135,7 +135,7 @@ They were making a lot of money and diversifying in many areas.
 
 ### Funding Philosophy at PARC
 
-**Yoot Saito:** So Dr. Bob Taylor called you, and what did he say to begin with, Mr. Kay, please do this, or ...
+**Yoot Saito:** So [Dr. Bob Taylor](https://en.wikipedia.org/wiki/Robert_Taylor_%28computer_scientist%29) called you, and what did he say to begin with, Mr. Kay, please do this, or ...
 
 **Alan Kay:** Oh no, it didn't work that way because ARPA had a tradition of just funding people, not projects.
 So generally speaking, you, at the worst you went to them with a project.
@@ -145,7 +145,7 @@ That was it.
 **Yoot Saito:** So it means whatever you like?
 
 **Alan Kay:** Yeah.
-So when I was talking to Taylor about the stuff, I said education is a big thing, Xerox is doing stuff in education, we should really, I want to do this, dynabook thing.
+So when I was talking to [Taylor](https://en.wikipedia.org/wiki/Robert_Taylor_%28computer_scientist%29) about the stuff, I said education is a big thing, Xerox is doing stuff in education, we should really, I want to do this, dynabook thing.
 That was it.
 We won't bother.
 That happened.
@@ -164,7 +164,7 @@ Everybody there, again you have to realize a lot of this stuff came from Xerox n
 
 **Alan Kay:** So, one of the things that everybody agreed on was that things were going to be networked.
 A lot of us had worked on the ARPANET.
-Networking was going to be important, and more than that, distributive computing, which is a phrase I think Butler Lampson made up, but distributive computing was going to be the way computing was going to be done.
+Networking was going to be important, and more than that, distributive computing, which is a phrase I think [Butler Lampson](https://en.wikipedia.org/wiki/Butler_Lampson) made up, but distributive computing was going to be the way computing was going to be done.
 
 **Alan Kay:** So the computers were getting cheaper.
 We wanted to have them on fast networks.
@@ -172,7 +172,7 @@ We wanted to be able to share a variety of computer resources in various ways.
 
 ### Integrating Engelbart's NLS into Distributed Systems
 
-**Alan Kay:** So one of the earliest projects at PARC, that some of the Berkeley people wanted to do, was to take Engelbart's NLS, in fact we had a joint project with Engelbart's group for a while, we wanted to take Engelbart's system and put it on a distributed computing system.
+**Alan Kay:** So one of the earliest projects at PARC, that some of the Berkeley people wanted to do, was to take [Engelbart's](https://en.wikipedia.org/wiki/Douglas_Engelbart) NLS, in fact we had a joint project with Engelbart's group for a while, we wanted to take Engelbart's system and put it on a distributed computing system.
 In other words, take it off the mainframe and put it on the distributed minis.
 
 **Alan Kay:** In fact, that was done, or something like that was done.
@@ -230,8 +230,8 @@ There is a picture in there of it.
 That's it.
 
 **Alan Kay:** It was about the summer of '71 that was designed.
-This is not a dynabook, but this is an attempt to take existing technology and do something that I thought we could cover a lot of the ground that Seymour Papert had been doing.
-This also is influenced by Wes Clark's LINC.
+This is not a dynabook, but this is an attempt to take existing technology and do something that I thought we could cover a lot of the ground that [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert) had been doing.
+This also is influenced by [Wes Clark's](https://en.wikipedia.org/wiki/Wesley_A._Clark) LINC.
 More than the Flex machine.
 
 **Alan Kay:** The Flex machine was too complicated.
@@ -280,10 +280,10 @@ There was a design for a language called Smalltalk '71, but it wasn't implemente
 And so then, as I tell them, two things happened in September.
 
 **Alan Kay:** One was...
-Bob Taylor and Butler Lampson came over and asked me if I had any money, and I said well I have about two hundred and thirty-thousand, and they said, well, how would you like us to build your little machine for you.
+[Bob Taylor](https://en.wikipedia.org/wiki/Robert_Taylor_%28computer_scientist%29) and [Butler Lampson](https://en.wikipedia.org/wiki/Butler_Lampson) came over and asked me if I had any money, and I said well I have about two hundred and thirty-thousand, and they said, well, how would you like us to build your little machine for you.
 I thought that would be great.
 
-**Alan Kay:** So I gave them all this information, what the pixel size should be, and here's how fast it has to be to do animation, and the music and all this stuff, and it turned out that Thacker had a bet with another Xerox executive that you could do a significant hardware project in just a few months.
+**Alan Kay:** So I gave them all this information, what the pixel size should be, and here's how fast it has to be to do animation, and the music and all this stuff, and it turned out that [Chuck Thacker](https://en.wikipedia.org/wiki/Charles_P._Thacker) had a bet with another Xerox executive, [Bill Vitic](https://dl.acm.org/doi/pdf/10.1145/234286.1057828), that you could do a significant hardware project in just a few months.
 
 **Alan Kay:** So I forget what the terms were, but it was something that he decided that he would win the bet on this in three months.
 So he decided that he would win the bet on this machine, that was part of the deal.
@@ -308,7 +308,7 @@ These were the first really cheap mini-computers.
 You could get them for like ten thousand dollars.
 They were fast and cheap.
 
-**Alan Kay:** Thacker thought he could build a much faster one using the new bipolar technology, and Lamson had gotten interested in exploring, because of what silicon was going to happen.
+**Alan Kay:** [Thacker](https://en.wikipedia.org/wiki/Charles_P._Thacker) thought he could build a much faster one using the new bipolar technology, and Lamson had gotten interested in exploring, because of what silicon was going to happen.
 He wanted to build what he called a five hundred dollar PDP-10.
 So these three sets of desires sort of coalesced in the Alto.
 
@@ -323,7 +323,7 @@ Part of the way the design worked out in order for its description, which is in 
 It's basically an all object oriented language written in itself.
 That was all done for fun.
 
-**Alan Kay:** What happened was I went away on a trip and came back and Dan Ingalls had gotten that working, so all of a sudden we had a programming language.
+**Alan Kay:** What happened was I went away on a trip and came back and [Dan Ingalls](https://en.wikipedia.org/wiki/Dan_Ingalls) had gotten that working, so all of a sudden we had a programming language.
 So it happened that when the Alto got done, in April of 1972, Smalltalk was working too.
 It was all done very quickly, just in a few months.
 People could hardly believe this today, it seems to take years.
@@ -353,7 +353,7 @@ The Alto didn't exist yet.
 **Yoot Saito:** So you think something in your brain and describe...
 
 **Alan Kay:** 
-Yeah, so it was very similar to what John McCarthy did when he wrote the first Lisp interpreter just to show that you could, and a graduate student turned it into a real program.
+Yeah, so it was very similar to what [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_%28computer_scientist%29) did when he wrote the first Lisp interpreter just to show that you could, and a graduate student turned it into a real program.
 Partly because I knew that McCarthy had done that, so I just did.
 So this is kind of an example of ...
 You can think of these things ...
@@ -369,7 +369,7 @@ You can read about that.
 
 **Yoot Saito:** Yes I will.
 
-**Alan Kay:** But it was in part because the thing was described that way that Dan Ingalls could implement it in about a month or so.
+**Alan Kay:** But it was in part because the thing was described that way that [Dan Ingalls](https://en.wikipedia.org/wiki/Dan_Ingalls)) could implement it in about a month or so.
 And he got a practical version going in just a couple of months, and when the Alto started working we were able to put Smalltalk on it in another month, and all of a sudden we had a system that was not just a programming system, but also active as the operating system of this machine.
 
 ## Development of the Alto Operating System
@@ -379,7 +379,7 @@ And he got a practical version going in just a couple of months, and when the Al
 **Yoot Saito:** Who did the operating system of Alto?
 What was the name?
 
-**Alan Kay:** Well on of the great ideas, and I think this was an idea that Butler Lampson had, was that we shouldn't try to make everybody, that the thing with software was everybody at Park had their own software ideas.
+**Alan Kay:** Well on of the great ideas, and I think this was an idea that [Butler Lampson](https://en.wikipedia.org/wiki/Butler_Lampson) had, was that we shouldn't try to make everybody, that the thing with software was everybody at Park had their own software ideas.
 So Lampson's idea was let's not standardize, let's not make people work anyway, we will just standardize basically on two things.
 
 **Alan Kay:** We will standardize on what the disk format is going to be, and the reason for that is so that we only have to write one recovery program for disk crashes.
@@ -392,7 +392,7 @@ That was a really good idea, and he actually came up with a very nice way of rec
 **Yoot Saito:** Ethernet was developed through these periods?
 
 **Alan Kay:** Same period.
-Robert Metcalfe and David Boggs, and, I think it started working at the end of, the Alto started working April '73.
+[Robert Metcalfe](https://en.wikipedia.org/wiki/Robert_Metcalfe) and [David Boggs](https://en.wikipedia.org/wiki/David_Boggs), and, I think it started working at the end of, the Alto started working April '73.
 And the laser printer was already working by then.
 Laser printer was working in '72.
 
@@ -453,7 +453,7 @@ So whenever Thacker was working on the machine, whenever the chip count got too 
 Papers.
 
 **Alan Kay:** Okay, I was, the bitmap thing was my idea to use the bitmap as a string.
-The white on black, the black characters on, that was something Douglas Engelbart was already doing.
+The white on black, the black characters on, that was something [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) was already doing.
 
 **Alan Kay:** Engelbart did not have a bitmap display.
 He had a very weird display which was a little line drawing display.
@@ -487,13 +487,13 @@ In fact, the right size for the Alto screen was actually this big rather than th
 
 **Alan Kay:** We wound up using one display casing from the Alto was a back ***[inaudible]*** project, and the display casing from the Alto actually came from another project, and this was the project of former people from NLS.
 That project was called the Polos project.
-And the co-inventor of the mouse, Bill English, was at PARC.
+And the co-inventor of the mouse, [Bill English](https://en.wikipedia.org/wiki/Bill_English_%28computer_engineer%29), was at PARC.
 
 ## Innovations in Input Devices
 
 ### Engelbart's Influence on Input Devices
 
-**Yoot Saito:** Dr. Douglas Engelbart's mouse is using the Feels <?> ***[inaudible]***.
+**Yoot Saito:** [Dr. Douglas Engelbart's](https://en.wikipedia.org/wiki/Douglas_Engelbart) mouse is using the Feels <?> ***[inaudible]***.
 
 **Alan Kay:** Yes.
 
@@ -513,7 +513,7 @@ I thought things went downhill when they went to the ball mice.
 
 **Yoot Saito:** Also you created some keyboards?
 
-**Alan Kay:** Yes, that was from Douglas Engelbart.
+**Alan Kay:** Yes, that was from [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart).
 
 **Yoot Saito:** Yes, but which can be connected to Alto, right?
 
@@ -531,7 +531,7 @@ We just borrowed it, and that was why the display was actually too large in the 
 **Alan Kay:** And after the Alto hardware is completed, you tried to do something very interesting with keys.
 
 **Alan Kay:** Yes, we started...
-We brought in Adele Goldberg and Steve Weyer to set up the program with the kids, and we started that fall, the fall of '73 when we did our first kids' stuff.
+We brought in [Adele Goldberg](https://en.wikipedia.org/wiki/Adele_Goldberg_%28computer_scientist%29) and [Steve Weyer](https://worrydream.com/EarlyHistoryOfSmalltalk/) to set up the program with the kids, and we started that fall, the fall of '73 when we did our first kids' stuff. 
 
 **Yoot Saito:** That is called Vivarium, right?
 
@@ -546,7 +546,7 @@ The Altos they are using, the displays are still in cardboard boxes.
 **Yoot Saito:** Yeah, well sometimes kids can write the scores and related to the instrument, so it is my guess that you were trying to provide some environments to describe some things which could never be described before by text.
 Is that right?
 
-**Alan Kay:** Yeah, basically the idea, and this is an idea Marshall McLuhan had talked about, that every medium has its own special things that it is really good at, and you should try and find out what those are.
+**Alan Kay:** Yeah, basically the idea, and this is an idea [Marshall McLuhan](https://en.wikipedia.org/wiki/Marshall_McLuhan) had talked about, that every medium has its own special things that it is really good at, and you should try and find out what those are.
 
 **Yoot Saito:** Represent the media message or something?
 
@@ -595,7 +595,7 @@ You may know Dr. Timothy Leary for example, the concept of this movement was to 
 **Yoot Saito:** Yeah, so the way of thinking you were trying, what you were trying to do was very similar to the counter-culture way.
 
 **Alan Kay:** I think that the counter-culture was very heavy in Palo Alto at this time.
-Some of the people at Engelbart's, ask him about it, and some of the people at PARC were very heavily into the counter-culture stuff, and there were a number of us who weren't particularly, but it still was in the air.
+Some of the people at [Engelbart's](https://en.wikipedia.org/wiki/Douglas_Engelbart), ask him about it, and some of the people at PARC were very heavily into the counter-culture stuff, and there were a number of us who weren't particularly, but it still was in the air.
 
 **Alan Kay:** I think that the radicalism just helped.
 I think that it was easier to do things like what we did at Xerox PARC in California than in, to do it around MIT at that time.
@@ -659,17 +659,17 @@ If they had realized what we were doing, then I don't think it would have been a
 
 **Yoot Saito:** Could you tell us what kind of scene was there?
 
-**Alan Kay:** Well, we gave a lot of demos over the years to other people, and at some point when they were starting to work on what was going to be the Lisa, some of the people at Apple, I think Steve Capps was one of them, I'm not sure exactly.
-Maybe even Bill Atkinson.
+**Alan Kay:** Well, we gave a lot of demos over the years to other people, and at some point when they were starting to work on what was going to be the Lisa, some of the people at Apple, I think [Steve Capps](https://en.wikipedia.org/wiki/Steve_Capps) was one of them, I'm not sure exactly.
+Maybe even [Bill Atkinson](https://en.wikipedia.org/wiki/Bill_Atkinson).
 
 **Alan Kay:** But some of the people who were at Apple had seen the stuff that we were doing and they kept on saying to Steve, you should come over and see this.
 So it was a little complicated actually.
 
 **Alan Kay:** Adele Goldberg and I did the politics for getting the Apple people in.
-Adele and I stood in the back of the room, and Larry Tesler gave the demo.
+Adele and I stood in the back of the room, and [Larry Tesler](https://en.wikipedia.org/wiki/Larry_Tesler) gave the demo.
 
 **Alan Kay:** Somewhere I have a movie of a demo almost identical to the one Tesler.
-I think Tesler gave part of the demo and I think Dan Ingalls gave the other part of it.
+I think Tesler gave part of the demo and I think [Dan Ingalls](https://en.wikipedia.org/wiki/Dan_Ingalls)) gave the other part of it.
 They came over more than once.
 
 ### Steve Jobs' Reaction to the Alto
@@ -679,14 +679,14 @@ They came over more than once.
 **Alan Kay:** No, I didn't.
 I gave lots of demos, but that particular demo, I think they had contacted Tesler.
 
-**Yoot Saito:** Do you remember that Jobs said the first time he saw the Alto demonstration.
-Were you there.
+**Yoot Saito:** Do you remember that [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) said the first time he saw the Alto demonstration.
+Were you there?
 
 **Alan Kay:** Yeah, I was there.
 
 **Yoot Saito:** What did he say?
 
-**Alan Kay:** He, I think the thing, one of the things I recall from the demonstration, it is hard to remember any of it because we did so many things, but I just remember the one thing that really impressed me, I don't know if it impressed Steve or not, was I think Tesler, somebody, whoever was giving the demo at the particular time, said this stuff is all dynamically programmed.
+**Alan Kay:** He, I think the thing, one of the things I recall from the demonstration, it is hard to remember any of it because we did so many things, but I just remember the one thing that really impressed me, I don't know if it impressed Steve or not, was I think [Tesler](https://en.wikipedia.org/wiki/Larry_Tesler), somebody, whoever was giving the demo at the particular time, said this stuff is all dynamically programmed.
 
 **Alan Kay:** So one of the Apple people challenged whoever it was, I think it was Dan, no, Dan was the one who did it, but we had been, the way we did highlighting was the way it is pretty much done today, which is that was reverse video through the text, and they actually didn't like it.
 
@@ -704,9 +704,9 @@ Apple technical people.
 **Yoot Saito:** After that they came again and again.
 
 **Alan Kay:** Yeah, it was a little complicated because Xerox was a stockholder, and I think Steve tried to actually buy the stuff.
-Steve Jobs tried to get the stuff officially from Xerox, and Xerox didn't want to sell it to him either.
+[Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) tried to get the stuff officially from Xerox, and Xerox didn't want to sell it to him either.
 
-**Alan Kay:** And, then the next year, 1980, Larry Tesler decided to leave to go to Apple, and that was when I actually decided to take a sabbatical, because I was kind of fed up with Xerox too.
+**Alan Kay:** And, then the next year, 1980, [Larry Tesler](https://en.wikipedia.org/wiki/Larry_Tesler) decided to leave to go to Apple, and that was when I actually decided to take a sabbatical, because I was kind of fed up with Xerox too.
 
 ## Decision to Join Atari
 
@@ -752,7 +752,7 @@ So when you are a small company you want people who are willing to work on expli
 That's not me.
 
 **Alan Kay:** But when Apple got larger, Apple was around $900 million in '83, '84.
-Steve Jobs and I started having lunch during the period I was at Atari, then in '84 he said, why don't you come over to Apple.
+[Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) and I started having lunch during the period I was at Atari, then in '84 he said, why don't you come over to Apple.
 
 ## Looking Back at Atari and Forward to Apple
 
@@ -767,7 +767,7 @@ We had done, again in here, this is the last machine we did before we left Xerox
 CUT
 
 **Yoot Saito:** So give me fifteen minutes more.
-So you went to Apple and mentioned about the first Macintosh judgment and Mr. Steve Jobs was not happy about that.
+So you went to Apple and mentioned about the first Macintosh judgment and [Mr. Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) was not happy about that.
 
 **Alan Kay:** Yeah, but what could he say?
 
@@ -844,7 +844,7 @@ The basic thing that is thought of as the Mac user interface was done on the Lis
 ### Influence of Steve Jobs on User Interface Design
 
 **Alan Kay:** That was one of the things they did best.
-I think it came out really well because Steve Jobs was intensely visual.
+I think it came out really well because [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) was intensely visual.
 
 **Alan Kay:** He really cared about what things looked like on the screen.
 He did a lot of criticism and got them to think of better ways of doing it.
@@ -852,7 +852,7 @@ He did a lot of criticism and got them to think of better ways of doing it.
 **Alan Kay:** And the things that were bad about the Lisa and especially the Mac were the stuff that you don't see, like the network.
 The absences of a hard disk.
 
-**Alan Kay:** Those happen I think because Steve Jobs was not a systems person, so he didn't think of those things as being important, he just wanted to do MacDraw.
+**Alan Kay:** Those happen I think because [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) was not a systems person, so he didn't think of those things as being important, he just wanted to do MacDraw.
 I mean MacPaint.
 
 **Alan Kay:** That was another thing that was very unpopular when I came in, and I told them that MacDraw was the best thing that was on the Macintosh.
@@ -868,7 +868,7 @@ The painting systems are sort of a secondary thing.
 
 ### Steve Jobs' Vision for the Macintosh
 
-**Yoot Saito:** Did Mr. Jobs seem to want a completed one?
+**Yoot Saito:** Did [Mr. Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) seem to want a completed one?
 Completed and isolated from other things.
 
 **Alan Kay:** Well I don't know, I wasn't there when that was going on.
@@ -965,7 +965,7 @@ That, to me, is what a Dynabook is.
 
 **Yoot Saito:** Last question is how do you see the key of Macintosh has been getting in the market, and how are they go where?
 
-**Alan Kay:** I think the difference is the Moore's law says that margins are going to decrease, so everybody who is in the hardware business, eventually the financial model for making money is essentially consumer electronics.
+**Alan Kay:** I think the difference is the [Moore's](https://en.wikipedia.org/wiki/Gordon_Moore) law says that margins are going to decrease, so everybody who is in the hardware business, eventually the financial model for making money is essentially consumer electronics.
 People make money in consumer electronics.
 
 **Alan Kay:** Sony makes money in consumer electronics, Sanyo makes money in consumer electronics.

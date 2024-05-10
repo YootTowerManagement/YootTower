@@ -50,7 +50,6 @@ Larry Clark, a member of a group at Xerox PARC, assisted with the Smalltalk proj
 
 ### [Wesley A. Clark (UC Berkeley, LINC, MIT, MIT Lincoln Laboratory, Washington University, Clark, Rockoff and Associates)](https://en.wikipedia.org/wiki/Wesley_A._Clark):
 Wesley A. Clark, known for his work at UC Berkeley, MIT, and Washington University, was instrumental in the development of the LINC computer in 1962. Often recognized as the first personal computer, the LINC was one of the earliest examples of a minicomputer designed for individual use, demonstrating the feasibility and value of small, powerful computing devices.
-
 Alan Kay credits Clark's influence on early computing as pivotal to his own vision for personal and accessible computing devices. Clark's work on the LINC set a foundational precedent for making technology more user-friendly and impactful on individual users, ultimately shaping the future of personal computing.
 
 ### [Melvin E. Conway (Case Western Reserve University, California Institute of Technology, Burroughs)](https://en.wikipedia.org/wiki/Melvin_Conway):
@@ -291,6 +290,10 @@ Thacker's collaborative work with figures like Butler Lampson and Alan Kay was i
 
 ### [Bill Vitic (Xerox PARC)](https://dl.acm.org/doi/pdf/10.1145/234286.1057828):
 Bill Vitic, during his time at Xerox PARC in 1972, was notably involved in a bet with Chuck Thacker regarding the feasibility of building an entire machine within just three months. While the specific details of Vitic's contributions are not widely documented beyond this bet, his involvement suggests a role that likely supported significant technical challenges and innovations at PARC. This instance highlights the collaborative and ambitious spirit at PARC during this era, driving technological advancements and rapid prototyping that were critical to the development of pioneering computing technologies.
+
+### [Steve Weyer (Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
+Steve Weyer and Adele Goldberg set up the program with kids to learn Smalltalk in the fall of 1973.
+He and Alan Kay devised a "retrieval by example" system called "Findit" that was used for many years by the PARC library.
 
 ### [Niklaus Wirth (ETH Zurich, UC Berkeley, Stanford University, Xerox PARC)](https://en.wikipedia.org/wiki/Niklaus_Wirth):
 Niklaus Wirth, a prominent figure in computer science, made significant contributions to the field of software engineering and programming languages. In 1966, he developed several influential programming languages, including Pascal, which played a pivotal role in advancing structured programming concepts. His work is renowned for emphasizing compactness and efficiency in code, principles that became foundational to software engineering.
