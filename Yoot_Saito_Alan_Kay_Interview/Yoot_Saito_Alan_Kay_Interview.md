@@ -828,18 +828,15 @@ So the Lisa had twice as much memory as this machine and didn't run as well.
 
 **Alan Kay:** The biggest problem, I think the reason why the PARC stuff worked out, is, just in PARC, because everything was kind of matched.
 We did the hardware to be really fast, and the software was done to be really small.
-
-**Alan Kay:** The software, the way you make small software is by having a lot happen on each instruction.
+The software, the way you make small software is by having a lot happen on each instruction.
 So you have very high-level instructions.
 In order to do that in a reasonable amount of time you have to have very fast hardware.
 
 **Alan Kay:** So the two things go together.
 If you try to do high-level things on slow hardware, inadequate hardware, all of a sudden you are behind the eight ball and things don't work as well.
-
-**Alan Kay:** Now aside from that there were many wonderful things done.
+Now aside from that there were many wonderful things done.
 The basic thing that is thought of as the Mac user interface was done on the Lisa.
-
-**Alan Kay:** To me, it was a vast improvement over the version of the windows interface that we had done at PARC.
+To me, it was a vast improvement over the version of the windows interface that we had done at PARC.
 
 ### Influence of Steve Jobs on User Interface Design
 
