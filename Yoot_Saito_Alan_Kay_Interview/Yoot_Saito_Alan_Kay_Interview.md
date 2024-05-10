@@ -895,14 +895,12 @@ So these years, for example Newton comes out from Apple.
 
 **Alan Kay:** Yeah, but remember, the Dynabook had a keyboard on it.
 The reason is that even when you have really good hand-written character recognition, and actually the Newton's is quite good if you are willing to train it and be trained by it, the...
-
-**Alan Kay:** My feeling is that, what the Newton, if you look at how...
+My feeling is that, what the Newton, if you look at how...
 I think the Newton was brought to market a little early.
 
 **Alan Kay:** Because if you look at, Apple is thinking about it in the right way.
 It is called the communicator and the message pad, but when they brought it to the market originally, they brought it out before the wireless paging was available.
-
-**Alan Kay:** See, the differentiating feature of this kind of hardware is basically wireless.
+See, the differentiating feature of this kind of hardware is basically wireless.
 It's the ability to get messages for sure, anywhere, and to start being able to send them.
 
 **Alan Kay:** So I think the Newton came to market a couple of months early.
@@ -923,8 +921,7 @@ It's very fast, has many possibilities, and I think that Newton is actually goin
 
 **Alan Kay:** A state of mind.
 It's like looking at a comic book and wondering if you could actually put a Shakespeare play in there, or something.
-
-**Alan Kay:** So what I am saying is a Dynabook, in the way I thought about it, particularly for children, is one that before anything else, it is a really sympathetic authoring system.
+So what I am saying is a Dynabook, in the way I thought about it, particularly for children, is one that before anything else, it is a really sympathetic authoring system.
 This duo we could make into a Dynabook if we had a really great authoring system for kids.
 
 **Alan Kay:** Because the whole theory behind doing the Dynabook, which I still think is a good theory, I keep on trying it out on people, that one of the most important things about printing and learning to read and write, is not just to exchange information, but we actually wind up thinking differently by getting those skills.
@@ -932,8 +929,7 @@ People think differently in western culture after the printing press, after the 
 
 **Alan Kay:** The whole structure of society was different.
 People thought about their place in society as being different than afterwards.
-
-**Alan Kay:** So printing also gives you a different point of view, being able to write things inserts you into the information stream.
+So printing also gives you a different point of view, being able to write things inserts you into the information stream.
 So lots more people started writing opinions.
 
 **Alan Kay:** All of those things to me are what make a Dynabook, so a Dynabook has to have a form of authoring that can be learned by a fairly young child and then get progressively stronger as the child grows older, so it actually becomes a powerful tool for them.
