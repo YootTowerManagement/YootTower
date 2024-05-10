@@ -8,7 +8,7 @@
 
 In this captivating interview from 1993, recently unearthed and previously published only in Japan, renowned game designer [Yutaka "Yoot" Saito](https://en.wikipedia.org/wiki/Yoot_Saito) of MACWORLD Japan engages with computing pioneer [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay) in a deep exploration of technology's past and future.
 This dialogue, captured on a cassette tape and transcribed, spans the evolution of personal computing, highlighting groundbreaking advancements and visionary ideas that have shaped modern technology.
-Yoot Saito, celebrated for his innovative approach to game design, and [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay), known for his seminal contributions such as the development of the graphical user interface and the concept of the Dynabook, offer profound insights into both the historical trajectory and the potential futures of the digital world.
+Yoot Saito, celebrated for his innovative approach to game design, and Alan Kay, known for his seminal contributions such as the development of the graphical user interface and the concept of the Dynabook, offer profound insights into both the historical trajectory and the potential futures of the digital world.
 This interview serves as a treasure trove of historical anecdotes, philosophical reflections, and forward-looking innovations, capturing a moment when two brilliant minds discussed the dynamics of technological progress.
 
 ## Beginning of [Yoot Saito's](https://en.wikipedia.org/wiki/Yoot_Saito) Interview with [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay)
