@@ -308,7 +308,7 @@ These were the first really cheap mini-computers.
 You could get them for like ten thousand dollars.
 They were fast and cheap.
 
-**Alan Kay:** [Thacker](https://en.wikipedia.org/wiki/Charles_P._Thacker) thought he could build a much faster one using the new bipolar technology, and Lamson had gotten interested in exploring, because of what silicon was going to happen.
+**Alan Kay:** [Thacker](https://en.wikipedia.org/wiki/Charles_P._Thacker) thought he could build a much faster one using the new bipolar technology, and [Lampson](https://en.wikipedia.org/wiki/Butler_Lampson) had gotten interested in exploring, because of what silicon was going to happen.
 He wanted to build what he called a five hundred dollar PDP-10.
 So these three sets of desires sort of coalesced in the Alto.
 
