@@ -4,7 +4,7 @@ His innovative work extended to creating HyperCard, a precursor to the World Wid
 Atkinson's exposure to ideas during Apple's visits to Xerox PARC greatly influenced his contributions, particularly in integrating advanced features such as overlapping windows and drag-and-drop functionality.
 These innovations significantly advanced user interface design, making complex software environments more accessible to the general public.
 
-o### [Ronald M. Baecker (MIT, University of Toronto, Columbia University)](https://en.wikipedia.org/wiki/Ronald_Baecker):
+### [Ronald M. Baecker (MIT, University of Toronto, Columbia University)](https://en.wikipedia.org/wiki/Ronald_Baecker):
 (1969) Noted for his Ph.D. thesis on interactive computer-mediated animation at MIT, which contributed to the development of computer graphics and user interfaces.
 A visitor to the Smalltalk project. The exact nature of Ron Baecker's contribution is not specified in the text, but his involvement suggests engagement with the developmental or evaluative aspects of the project at PARC. Specifics of his professional background or contributions during the visit are not detailed.
 
