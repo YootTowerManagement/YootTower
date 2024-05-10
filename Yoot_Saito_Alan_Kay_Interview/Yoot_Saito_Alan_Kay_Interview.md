@@ -649,7 +649,7 @@ If they had realized what we were doing, then I don't think it would have been a
 
 **Yoot Saito:** And before that in 1979?
 
-**Alan Kay:** [Steve](https://en.wikipedia.org/wiki/Steve_Jobs) was the guy from Apple.
+**Alan Kay:** [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) was the guy from Apple.
 
 **Yoot Saito:** Were you there at the time?
 
