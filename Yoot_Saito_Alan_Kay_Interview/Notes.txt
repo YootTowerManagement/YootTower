@@ -1,0 +1,177 @@
+----
+
+https://www.historyofcg.com/pages/xerox-parc/
+
+----
+
+https://www.vice.com/en/article/wnpqnm/the-1970s-graphics-program-that-spurred-space-exploration-computer-picassos-and-pixar
+
+The 1970s Graphics Program That Spurred Space Exploration, Computer Picassos and Pixar
+Richard Shoup
+Alvy Ray Smith
+Larry Clark
+Bob Flegal
+Patrick Baudelaire
+
+----
+
+https://rmozone.com/snapshots/2015/05/Innocent_in_Palo_Alto.pdf
+
+----
+
+https://www.alexanderjarvis.com/why-alto/
+
+----
+
+https://worrydream.com/refs/Kay_1976_-_Personal_Dynamic_Media_(LRG).pdf
+
+----
+
+https://worrydream.com/refs/Ingalls_2020_-_The_Evolution_of_Smalltalk.pdf
+
+----
+
+https://michaelnotebook.com/notes/kay/Personal_Computing_1975.pdf
+
+----
+
+https://www.computerhistory.org/revolution/input-output/14/348
+
+----
+
+https://bitsavers.org/pdf/xerox/smalltalk/Smalltalk-72_Instruction_Manual_Mar76.pdf
+
+----
+
+https://www.tech-insider.org/star/research/acrobat/8108.pdf
+
+----
+
+https://en.wikipedia.org/wiki/Light_of_Other_Days
+
+----
+
+https://tinlizzie.org/IA/index.php/Alan_Kay_at_OOPSLA_1997:_The_Computer_Revolution_has_not_Happened_Yet
+
+----
+
+"There is no information content in Alan Kay." -Alan Kay
+
+https://www.youtube.com/watch?v=XnFWlU5Gv8A
+
+A former professional jazz guitarist and composer, he is now an amateur classical pipe-organist.
+
+"You have to form the habit of not being right for very long." -Marvin Minsky
+
+----
+
+The Early History of Smalltalk
+
+SIGPLAN, most complete, including appendix:
+
+https://www.researchgate.net/publication/221501755_The_Early_History_of_Smalltalk
+
+Brett Victor's page:
+
+https://worrydream.com/EarlyHistoryOfSmalltalk/
+
+Spacewar, 1962
+
+One of the first video games, developed at MIT on the PDP-1 by Steve Russell and colleagues.
+
+https://www.masswerk.at/spacewar
+
+https://www.wheels.org/spacewar/stone/rolling_stone.html
+
+SPACEWAR: Fanatic Life and Symbolic Death Among the Computer Bums,
+by Stewart Brand.
+
+[...]
+
+I’m guessing that Alan Kay at Xerox Research Center (more on them
+shortly) has a line on it, defining the standard Computer Bum: “About
+as straight as you’d expect hotrodders to look. It’s that kind of
+fanaticism. A true hacker is not a group person. He’s a person who
+loves to stay up all night, he and the machine in a love-hate
+relationship... They’re kids who tended to be brilliant but not very
+interested in conventional goals. And computing is just a fabulous
+place for that, because it’s a place where you don't have to be a
+Ph.D. or anything else. It’s a place where you can still be an
+artisan. People are willing to pay you if you're any good at all, and
+you have plenty of time for screwing around.”
+
+The hackers are the technicians of this science - “It’s a term of
+derision and also the ultimate compliment.” They are the ones who
+translate human demands into code that the machines can understand and
+act on. They are legion. Fanatics with a potent new toy. A mobile
+new-found elite, with its own apparat, language and character, its own
+legends and humor. Those magnificent men with their flying machines,
+scouting a leading edge of technology which has an odd softness to it;
+outlaw country, where rules are not decree or routine so much as the
+starker demands of what’s possible.
+
+[...]
+
+Low-rent ... but pervasive. Alan Kay: “The game of Spacewar blossoms
+spontaneously wherever there is a graphics display connected to a
+computer.”
+
+[...]
+
+The beauty was, that being at the very top of the Defense
+Establishment, the agency had little Congressional scrutiny had little
+bureaucratic responsibility, able to take creative chances and protect
+long-term deep-goal projects. Alan Kay: "90 percent of all good things
+that I can think of that have been done in computer science have been
+done funded by that agency. Chances that they would have been funded
+elsewhere are very low. The basic ARPA idea is that you find good
+people and you give them a lot of money and then you step back. If
+they don't do good things in three years they get dropped - where
+'good' is very much related to new or interesting."
+
+Legends abound from early ARPA days, full of freedom and weirdness.
+Here's one of many from Project MAC (Multiple Access Computer) days -
+Alan Kay: "They had a thing on the PDP-l called 'The Unknown Glitch'
+["Glitch" - a kink, a less-than-fatal but irritating fuck-up]. They
+used to program the thing either in direct machine code, direct octal,
+or in DDT, In the early days it was a paper-tape machine. It was
+painful to assemble stuff, so they never listed out the programs. The
+programs and stuff just lived in there, just raw seething octal code.
+And one of the guys wrote a program called 'The Unknown Glitch,' which
+at random intervals would wake up, print out I AM THE UNKNOWN GLITCH.
+CATCH ME IF YOU CAN, and then it would relocate itself somewhere else
+in core memory, set a clock interrupt, and go back to sleep. There was
+no way to find it."
+
+[...]
+
+I asked Alan Kay if Spacewar had been played over the Net. He said
+it's possible. I asked if there'd been international Spacewar yet, and
+was told a story. "There's. a problem there of sending code groups,
+When Greenblatt's chess program reigned supreme, they tried to play
+one of. the Russian chess œ programs. Instead of doing it by mail or
+using an international phone call ' they decided to do it by amateur
+radio. i There's this federal statute against ' transmitting code
+groups of any kind,; including chess moves. It took a long time to
+straighten that out. There was eventual communication with the
+Russians through a ham link in Switzerland."
+
+[...]
+
+Alan Kay, 32, child prodigy (National Quiz Kid at ten), former
+musician and artist, worked with Ivan Sutherland and Dave Evans at
+Utah, presently a researcher at Xerox. Alan shifts comfortably in his
+office bean-bag chair and appraises his colleagues. "This is really a
+frightening group, by far the best I know of as far as talent and
+creativity. The people here all have track records and are used to
+dealing lightning with both hands."
+
+Peter Deutsch, bearded and intent, 26, veteran of the early days at
+Project MAC, has served on every major front in computer science, now
+has a cubicle near Kay's at Xerox Research Center. Alan remarks on his
+neighbor, "Peter is in my opinion the world's greatest programmer.
+He's much more than a hacker, although he has some of that style. He's
+a virtuoso; his programs have very few mistakes. He has probably more
+written code running than anybody in the ARPA community."
+
+[...]

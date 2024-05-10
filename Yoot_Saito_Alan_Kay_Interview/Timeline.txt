@@ -1,0 +1,139 @@
+History of Smalltalk:
+
+Timeline of Early OOP and Influential Ideas (1960-1966)
+
+Early 1960s: Introduction to OOP concepts through experiences with the B220 and B5000 systems, emphasizing modular programming and encapsulation.
+1961: Air Force programming experience with the Burroughs 220 system showcasing an early modular file management approach.
+1965: Encounter with Moore's Law through a publication by Gordon Moore, predicting rapid advancements in integrated circuits.
+1966: Entry into graduate school at the University of Utah, exposure to ARPA-funded projects, and first interactions with the Sketchpad system developed by Ivan Sutherland. This period marks significant exposure to ideas around interactive graphics and object-oriented programming.
+Fall 1966: Introduction to Simula and its object-oriented features during graduate coursework, deeply influencing subsequent views on programming and system design.
+
+Timeline of the FLEX Machine Development and Influences (1967-1969)
+
+1967: Start of the FLEX machine project, influenced by previous experiences with JOSS and other languages. The FLEX machine was intended to be a dynamic simulation system, emphasizing user interaction and high-level language capabilities.
+Early 1967: Meeting with Ed Cheadle, leading to collaboration on the FLEX machine, aiming to make it accessible for non-computer professionals and programmable in a higher-level language.
+1968: Exposure to Doug Engelbart’s NLS system during a visit to Utah, which profoundly impacted Kay's vision of interactive computing and personal computing paradigms.
+1969: During his graduate studies, exposure to the PLANNER programming language and interaction with systems like GRail and early versions of LOGO further shaped Kay's thoughts on interactive and object-oriented programming.
+
+Timeline of Early Developments at Xerox PARC and the Birth of Smalltalk (1970-1972)
+
+1970: Xerox decides to set up the Palo Alto Research Center (PARC) under the direction of George Pake, with the goal of pioneering research in computer science and other fields.
+July 1970: Official establishment of Xerox PARC.
+September 1970: Recruitment of Bob Taylor to lead the Computer Science Laboratory at PARC.
+Early 1971: Conceptualization of the KiddiKomp, a precursor to the Dynabook, aimed at enabling children to interact with computers in educational settings.
+1971: Introduction of the miniCOM concept, a small personal computer prototype emphasizing ease of use and accessibility for non-technical users.
+1972: Development of Smalltalk-71, the early version of the Smalltalk programming language, designed to be simple and accessible for educational purposes.
+
+Timeline (Post-1972 Developments)
+
+1973-1974: Development of Smalltalk-72, which introduced new programming paradigms and significantly advanced the usability of the language.
+1973: Introduction of overlapping windows in the user interface, a crucial innovation for graphical user interfaces.
+1974-1976: Evolution of Smalltalk into more robust versions, including Smalltalk-74 and later Smalltalk-76, each adding features and improving system performance.
+Mid-1970s: Extensive work on developing the programming environment and user interface of Smalltalk, including tools for text and graphics.
+
+Timeline (Post-1976 Developments)
+1976-1980: Further evolution of Smalltalk into Smalltalk-76, which introduces true object-oriented capabilities, improved graphical user interface, and more efficient memory management.
+Late 1970s: Development of additional tools and applications within the Smalltalk environment, such as text editing and graphic design tools.
+1980-1983: Release of Smalltalk-80, the first version to be widely available outside of Xerox and which solidified many of the language’s core features. Smalltalk-80 included portable architecture, which allowed it to be used on various hardware platforms.
+
+Timeline of Smalltalk Development and Innovations (1972-1976)
+
+1972:
+
+September: Alan Kay, Butler Lampson, and Chuck Thacker discuss building a machine tailored to their visions, leading to a significant bet and the conceptualization of the Kiddicomp.
+Late 1972: Development of Smalltalk-72 begins, influenced by Alan Kay's challenge to define the most powerful language in just a page of code, sparking innovation in programming language design.
+1973:
+
+Early April: Introduction of the first "Interim Dynabook" known as 'Bilbo,' showcasing the first bitmap picture of the Muppets' Cookie Monster.
+November: Alan Kay presents Smalltalk ideas and the interpretation scheme at the MIT AI Lab, influencing Carl Hewitt's Actor model and future AI research.
+Late 1973: Development of various applications within Smalltalk, enhancing its multimedia and interactive capabilities.
+1974:
+
+Spring: Efforts focus on user interface innovations, including the development of overlapping windows, and multimedia documents within the Smalltalk environment.
+Fall: Further enhancements to the Smalltalk system, with significant contributions to the programming language and user interface development.
+1975:
+
+Throughout the Year: Continuous development and refinement of Smalltalk-72, leading to the more sophisticated Smalltalk-74 version.
+Late 1975: A comprehensive reevaluation of Smalltalk’s capabilities and limitations, prompting discussions about the future direction of the project.
+1976:
+
+January: The "Let’s Burn Our Disk Packs" meeting at Pajaro Dunes, reflecting on the achievements and future challenges for the Smalltalk project.
+Throughout the Year: Incremental improvements to Smalltalk-74, focusing on optimizing its performance and enhancing its programming environment.
+Late 1976: Transition from Smalltalk-74 to the development of Smalltalk-76, introducing more advanced object-oriented features and a more efficient graphical user interface.
+
+
+
+
+
+Appendix I:
+
+January 1972: Development of "The Reading Machine" initiated. This project at Xerox PARC, involving Butler Lampson, Chuck Thacker, Bill English, Jerry Elkind, and George Pake, focuses on addressing the challenges of a personal computer, particularly in custom chip design and display technology innovation.
+May 15, 1972: Alan Kay sends the "KiddiKomputer" memo to Butler Lampson, Chuck Thacker, Bill English, Jerry Elkind, and George Pake. The memo outlines the concept and utility of the KiddiKomputer as a multifunctional personal computing device suitable for both educational purposes for children and functional uses for adults.
+Outlined in May 15, 1972 Memo:
+Utility Specifications: The KiddiKomputer is described as potentially exceeding the capabilities of a PDP-10, suggesting it could become a powerful tool for adults by simply adding more memory.
+Educational Project Ideas:
+Teaching "thinking" through programming to enhance strategic and model visualization skills.
+Teaching "models" through simulations, with initial projects focusing on music and programming.
+Teaching "interface" skills, with projects on visual and auditory processing skills.
+Exploring children's unofficial use during non-school hours to understand spontaneous interactions with technology.
+Second-Level Projects Proposed in May 15, 1972 Memo:
+Emphasis on evaluation and algorithmic thinking extension.
+Development of an iconic programming language aimed at children below age 8, to make programming more accessible than existing systems like GRAIL and AMBIT/G.
+Discussion on Viability of minicoM:
+Alan Kay discusses the limited portability of minicoM and its potential future as a functional testbed for children and adults within Xerox PARC.
+Several rationalizations for building multiple minicoMs are listed, including benefits to human perception research, educational experimentation, and small computer system design innovations.
+The KiddiKomputer is also proposed as a useful "take home" editor and terminal for PARC staff, and as a node in a future office system network.
+
+Appendix II:
+
+1970: Dave Fisher's innovative approach to control structures is published, providing a new method to access and change the relationships between static and dynamic environments in programming. His work lays the groundwork for later developments in Smalltalk's interpreter design by allowing control structures to be defined within an object-oriented framework.
+Early Development Phases of Smalltalk Interpreter:
+Conceptualization: The design of the Smalltalk interpreter began with the intent to finesse many details explicitly stated in other programming languages like Lisp (developed by John McCarthy). This included simplifying how conditional structures (COND) were handled, aiming to integrate them as ordinary subparts within the programming language rather than as special forms.
+Implementation Strategy: The Smalltalk design philosophy emphasized that all elements, including classes, should exist at runtime as "first-class" objects. This extended to creating a "class-class" whose instances were classes themselves, allowing for a highly dynamic and reflective system.
+Syntax and Evaluation:
+The design sought to achieve a more intuitive and less syntactically cumbersome interface than Lisp. For instance, rather than using extensive parentheses and manual control over evaluation orders, the idea was to let objects themselves handle the interpretation and execution of code, thus simplifying syntax and making the programming model more natural.
+A specific focus was placed on how expressions like a+b and c[i] <- d*e were to be interpreted, using past experiences with the FLEX machine to inform these decisions. This included a reinterpretation of operations like addition and multiplication to be handled by the objects themselves, allowing them to determine the context and meaning of these operations dynamically.
+Operational Semantics:
+The operational semantics of Smalltalk's interpreter were redefined to accommodate a message-passing paradigm where "eval" was distributed among the objects participating in the computation. This shift allowed for a more modular and decentralized approach to programming.
+The interpretation process was described in terms of moving from left to right, where the first element in an expression would be the receiver of a message, and the subsequent elements would constitute the message itself. This approach was aimed at simplifying the programming model and reducing the need for explicit control structures.
+Final Design Realization:
+The culmination of these ideas led to a system where the syntax and semantics of the language were deeply intertwined with the objects' behavior, allowing for a flexible and powerful programming environment. This included advanced features like message receipt handling by the objects themselves and the simulation of traditional programming constructs like loops and conditionals as object interactions.
+Overall Impact:
+The design and development of the Smalltalk interpreter marked a significant advancement in the field of object-oriented programming. It showcased a shift from procedural to object-oriented paradigms, emphasizing encapsulation, message passing, and dynamic computation as core principles.
+
+Appendix III:
+
+1962 - Wes Clark's LINC is developed, which later influences the Dynabook concept.
+1961 - Introduction of the Burroughs B5000, which features many advanced design ideas.
+1963 - Introduction of software coroutines by Conway, influencing SIMULA.
+1964 - Tony Hoare introduces ideas about record classes, influencing SIMULA.
+1965 & 1967 - SIMULA '65 and '67 are developed, incorporating ideas from ALGOL-60 and Conway's software coroutines.
+1967-1969 - Development of the FLEX machine and its language, which take inspiration from SIMULA and move forward the concepts of "type" and "coprocesses".
+1968 - R.S. Barton gives an influential talk at Alta Ski Lodge on computers as communication devices, contributing to the conceptual foundation of Smalltalk.
+1970 - Dave Fisher develops the Control Definition Language, which later influences Smalltalk.
+1971 - Introduction of the interim Dynabook, known as the ALTO, designed by Chuck Thacker and Ed McCreight at PARC.
+1971-1972 - Chris Jeffers is mentioned as part of the Learning Research Group.
+1972 - Significant year for Smalltalk development with contributions from John Shoch, Steve Purcell, Bob Shur, Bonny Tennenbaum, and Barbara Deutsch.
+1972 - Dan Ingalls, Henry Fuchs, Ted Kaehler, and John Shoch help in discussions that shape Smalltalk through the summer and early fall.
+November 1972 - A talk on Smalltalk is given at the AI lab at MIT, discussing its process structure and new views on properties, messages, and operators.
+1973 - Publication of the formal "actors model of computation" by Hewitt et al., which discusses concepts relevant to Smalltalk.
+
+Appendix VI:
+
+1959-1963: Early non-OOP systems contribute important ideas and stylistic directions.
+1960-1964: Early conceptions of end-user interaction and protection, including classes, instances, and coroutines.
+1960-1969: A broad span of innovation including the first true personal computer (LINC) and significant advancements in operating systems (GENIE), programming for children (LOGO), and general programming language evolution.
+1961-1966: Exploration and development of operating systems and user interfaces.
+1962: Development of the LINC, which heavily influenced personal computing metaphors.
+1964-1967: Development of the programming language LOGO, emphasizing ease of end-user authoring, which influenced educational approaches in computing.
+1967-1969: Introduction of concepts like dataless programming and the first OO desktop PC. Innovations in gesture and modeless GUI and iconic programming began to take shape.
+1969-1971: Development of capability operating systems, notably CAL-TSS, showcasing kernel elegance and self-describing systems.
+1970: LISP's influence continues, promoting ease of end-user authoring.
+Early 1970s: Introduction of time-sharing, computer graphics, and advanced networking, largely driven by ARPA funding and other sources such as ONR and NIH.
+1972: A critical year for Smalltalk development, including its presentation to MIT and influences from discussions with various collaborators like Dan Ingalls and others.
+1973-1975: A period marked by extensive documentation and evolution of Smalltalk, including video tapes and various presentations and publications by Alan Kay and collaborators.
+1975: The lifting of a publication blackout and further promotion of Smalltalk through various mediums.
+1976: Significant documentation and publication efforts, encapsulating the progress made on Smalltalk to that point.
+1977-1979: Continued development and implementation of Smalltalk-76, including detailed documentation and the introduction of new programming paradigms.
+1979-1981: Widespread recognition and influence of Smalltalk, as it begins to permeate through various sectors of computing and education.
+

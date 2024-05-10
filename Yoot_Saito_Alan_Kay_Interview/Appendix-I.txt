@@ -1,0 +1,36 @@
+APPENDIX I: PERSONAL COMPUTER MEMO
+Smalltalk Program Evolution From a Memo on the "KiddiKomputer":
+To: Butler Lampson, Chuck Thacker, Bill English, Jerry Elkind, George Pake
+Subject: "KiddiKomputer"
+Date: May 15, 1972 ****
+4. January 1972
+The Reading Machine. Another attempt ot work on the actual problem of a personal computer. Every part of this gadget (except display) is buildable now but requires some custom chip design and fabrication. This is discussed more completely later on. Ameeting was held with all three labs to try to stimulate invention of the display.
+B. Utility
+.1 I think the uses for a personal gadget as an editor, reader, take-home-context, intelligent terminal, etc. are fairly obvious and greatly needed by adults. The idea of having kids use it implies (possibly) a few more constraints having to do with size, weight, cost, and capacity. I have been begging this question under the assumptions that a size and weight that are good for kids will be
+super acceptable to adults, and that the gadget will almost inescapably have CPU power to burn (more than PDP-10): implies larger scale use by adults can be gotten by buying more memory and maybe a cache.
+2. Although there are many "educational" things that can be done once the device is built, I have had four basic projects in mind from the start.
+a. Teaching "thinking' (à la Papert) through giving the kids a franchise for the strategies, tactics, and model visualization that are the fun (and important) part of the design and debugging of programs. Fringe b e n e fi t s include usage as a medium for symbols allowing editing of text and pictures.
+b. Teaching "models" through "simulation" of systems with similar semantics and different syntax. This could be grouped with (a) although the emphasis is a bit different. The initial two systems would be music and programming and would be an extension of some stuff I did at Utah in 1969-1970 with the organ/computer there.
+c. Teaching "interface" s kills such as "seeing" and "hearing." The initial "seeing" project would be an investigation into how reading might be taught via combining iconic and audible representation of works in a manner reminiscent of Bloomfield and Moore. This would
+require a corollary inquiry into why good readers do so much better than average readers. A farther off project in the domain of sight would be an investigation into the nature and topology of kids' internal models for objects and an effort to perserve iconic imagery from being totally replaced by a relational model.
+d. Finding out what children would do (if anything) "unofficially" during non-school hours with such a gadget through invisible 'demons", which are little processes that watch surreptitiously.
+.3 Second Level Projects
+a. The notion of evaluation (partly an extension of 2.a.) represents an important plateau in "algorithmic thinking."
+b. Iconic programming. If we believe Piaget and Bruner, kids deal
+mostly with icons before the age of 8 rather than symbolic references. Most people who teach programming say there is a remarkable difference between 3rd and 4th grades. Whatever an iconic programming language
+is, it had better be considerably more stylish and viable than GRAIL and AMBIT/G. I feel that this is a way to reach very young kids and si tremendously important.
+****
+C. The Viability Of minicoM
+It was noted earlier that minicoM is only barely portable for achila. Does it have a future for adults and/or as a functional testbed for kids? If only one is needed, the answer seems to be no since ~$15k
+will simulate its function in a non-portable fashion. If more than one is necessary (say 10 or more), then the cheapest way to get functions
+of this kind is to design and build it.
+Rationalizations for building a bunch of them:
+1. It will allow us to find out some things not predictable or discoverable by any other path.
+A perfect case in point is our character generator through which we have found some absolutely astounding and unsuspected things about human perception and raster scan television which will greatly further display design. It has paid its way already.
+2. The learning experiments not involving portability can be done for a reasonable cost and will allow us to get into the real world which is absolutely necessary for the future of learning research at PARC.
+3. It will foster some new thoughts ni small computer system design.
+It has already sparked the original "jaggies" investigation. The minimal nice serifed character fonts were done because of cost and space limitations. There are some details which have been handwaved into the woodwork which really neeed to be solved seriously: philosophy of instruction set, compile or interpret, mapping, and I/O
+4. It will be a useful "take home" editor and terminal for PARC people. It is absurd to think of using a multidimensional medium during the day (NLS, etc.), then at night going home to a 1D AJ or worse: dumping structured ideas on paper.
+.5 tI is not unreasonable to think of hte gadget as an attempt at a cost-effective node for a future office system. As such, it should be developed in parallel with the more exotic and greatly more expensive
+luxury system.
+6. It is not clear that the more ideal device (A.4.), requiring custom chip design, can be done well without us knowing quite a bit more about this kind of system.

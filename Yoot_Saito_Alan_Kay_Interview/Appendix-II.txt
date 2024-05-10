@@ -1,0 +1,158 @@
+APPENDIX II: SMALLTALK INTERPRETER DESIGN
+When I set out to win the bet, I realized that many of the details that have to be stated explicitly in McCarthy's elegant scheme can be finessed. For example, if there were objects that could handle various kinds of partial message receipt, such as evaluated, unevaluated, literal, and the like, then there would be no need to put any of those details in the eval. This is analogous to not having cond as a "special form," but instead to finding a basic building block in which COND can be defined like any other subpart.
+One way to do this was to use the approach of Dave Fisher, in which the no-man's land of control structures is made accessable by providing a protected way to access and change the relationships of the static and dynamic environment [Fisher 1970]. In an object-based scheme, the protection can be provided by the objects themselves and many of Fisher's techniques are even easier to use. The effect of all this is to extend the eval by distributing it: both to the individual objects that participate in it and dynamically as the language is extended.
+I also decided to ignore the metaphysics of objects even though it was clear that, unlike Simula, in a full blown OOPL classes had to exist at run-time as "first-class" objects—indeed, there should be nothing but first-class objects. So there had to be a "class-class" whose instances were classes, class-class had to be an instance of itself, there had to be a "class-object" that would terminate any subclassing that might be done, and so forth. All of this could be part of the argument concerning what I didn't have to show to win the bet.
+The biggest problem remaining was that I wanted to have a much nicer syntax than LISP and I did not want to use any of my precious "half-page" to write even a simple translator. Somehow the eval had to be designed so that syntax got specified as part of the use of the system, not in its basic definition.
+I wanted the interpretation to go from left to right. In an OOP, we can choose to interpret the syntax rule for expressions as meaning: the first element will be evaluated into the instance that will receive the message, and everything that follows will be the message. What should expressions like a+b and ci <- de mean? From past experience with FLEX, the second of these had a clear rendering in object-oriented terms. The c should be bound to an object, and all of ; <- de would be thought of as the message to it. Subscripting and multiplication are implicit in standard mathematical orthography—we need explicit symbols, say "o" and "*". This gives us:
+receiver | message
+1° i<-d*e
+The message is made up of a literal token "o"
+, an expression to be evaluated in the sender's context (in this
+case i), another literal token <-, followed by an expression to be evaluated in the sender's context (d*e). "LISP" pairs are made from two element objects and can be indexed more simply: c hd, c tl, and c hd <- foo, and so forth.
+The expression 3+4 seemed more troublesome at first. Did it really make sense to think of it as:
+receiver I message
+3
+1+4
+We are so used to thinking of "+" and "*" as operators, function machines. On the other hand, there are many senses of "+" and "*" that go beyond simple APLish generalizations of scalar operators to arrays—for example in matrix and string algebras. From this standpoint it makes great sense to let the objects in question decide what the token "+" means in a particular context. This means that 3+4*5... should be thought of as 31+4*5..., and that the way class number chooses to receive messages should be arranged so that the next subexpression is handled properly. For example, 3 could check to see if a token (like +, or *) follows and then ask to have the rest of the message evaluated to get its next input. This would force 4*5... to be the new sending, as 41*5, and so on. Not only are fewer parentheses needed but proglike sequential evaluation is a byproduct.
+By this point I had been able to finesse and argue away most of the programming that seemed to be required of the eval. To summarize:
+• message receipt would be done by objects in the midst of normal code
+• control structures would be handled by objects that could addess the context objects
+• the context objects (that acted like stack frames, schedulers, and so on) could be simulated by standard objects and thus wouldn't have to be specified in the eval
+• variable dereferencing and storage would be done by having variables be objects and sending them the messages value and <-.
+• the evaluation of a code body would be done by starting evaluation of its first item
+• methods would be realized by the control structure in the cl6.alss code body. This would implement protection, would make the externals of an object entirely virtual, and permit very flexible messaging schemes
+• Smalltalk's metaphysics would be covered by making everything an object, and didn't have to be specified now
+• and so forth
+This also means that useful elements such as lists, atoms, control structures, quote, receivers (such as "receive evaluated," "is the next token this?," and so on), and the like do not have to be defined in the kernel interpreter, as they can be realized quite simply as instances of normal classes with escapes to metacode.
+What seemed to remain for the eval was simply to show of what a message send actually consisted. For this system a send is the equivalent not of a postman delivering a letter, but simply delivering a notice of where the letter was to be found. It is up to the receiving object to do something about it. In fact, it could ignore the request, complain about it, invoke inferential processes elsewhere, or simply handle it with one of its own messages. The final thing I had to do was to extend the uniform syntax idea of receiver message to cover all cases, including message receipt and simple control structures. So, we need some objects to pattern match and evaluate, to return and define, and so on.
+The "LISP" code body would not need any escapes to lower-level code and could look something like:
+(ahd
+» (a<- (^:h)^h)
+atl
+» (a<- (:t)^t)
+disPair » (^true)
+alength » (t isPair (^1+t length) 1)
+... )
+"etc"
+"replaca and car where h is an instance variable"
+"replaca and cdr where t is an instance variable"
+I hope this is clear enough. For example, if c is bound to a cons pair,
+chd <- 3+4
+FIGURE 11A.1 Used in the first interpreter definition
+a
+eyeball
+looks to see if its message is a literal token in the message stream
+
+evl-bind
+evals the next part of message and binds result to its message
+:
+unval-bind
+picks up next part of message unevaled and binds to its message
+A
+send-back
+returns its value to the sender
+•
+quote
+overides any metainterpretation of its message
+would be dealt with as follows: Control is passed to that object and the first test is to see if the symbol hd appears in the message (ahd »). It does. The next check is for an "assignment" token (<-»). It is there. Last, we want to evaluate the rest of the message (we get 7), bind the value to the internal instance variable t and, finally, return this value to the sender (^:t). So this is like: (REPLACA C (PLUS 3 4)).
+This is getting a little ahead of the story in that not all of these ideas were thought out in this detail, but I want to show the context in which I was thinking, and it seemed quite clear at the time that things would come out all right if I pushed in this direction. This stuff is similar to mathematical or musical thinking where many things can be done "ahead of time" if one's intuition whispers that "you're on the right track." The compass setting felt right; I could "see" that all these things would eventually work out just because of "what objects were." To motivate the next part, let us examine the classic evaluation of 3+4 using a nonrecursive evaluator. For code, we use arrays of pointers and expect that some of the pointers will be encoded for literal objects (an old LISP trick). We need good old program counters "PC" that we can bump along over the code. The wrinkle of delayed receipt of message (not evaling and passing arguments at send time) will require us to manipulate both the program counter of the sender and the receiver as the message is reeled in. One way I worked it out was as a before-after diagram for "3+4"
+We start in the middle of a method of some class of objects and we need to evaluate "3+4". The essentials of the eval are those that successfully take us into the method of "3" in class integer. Because all methods are only in terms of sends and all sends are done in a similar manner, this is enough. It is like an induction proof in which we assume "n" and show how to get to "n+l"
+Note that the various auxiliary objects (such as 'peek') have to responsibly move the sender's program counter when receiving part of the message.
+I have hand-evaluated this nonrecursive version in a number of cases and it seems to work pretty well, but there are probably some bugs. If a reader feels prompted to come up with an even nicer, tidier, and smaller scheme, I would be glad to look at it.
+FIGURE 11A.2 Defined when the first "real" implementation was done
+to
+define
+likeLOGO, except can make a class from it message
+ISNEW
+testinst
+is true if a new instance has been created
+=
+equals
+true only if its receiver and parameter are the same object
+
+then
+receiver=true: evals next part of message and exits
+receiver=false: skips over the next part of message and continues evaling
+
+fence
+"statement" separator. Quits applying its receiver; starts evaling its arg
+e (the environment) will be bound to the current Messenger object result holds the result of a send, usually to be applied to next part of message
+eval: if null (•MSG)
+then 'reuslt ‹- nil; goto apply;
+if escale (eMSG)
+then goto escapes:
+if atom (•MSG)
+the 'result <- lookupvalue (e, e•MSG) ; goto apply;
+if notlist (eMSG) the 'result <- e•MSG; goto apply:
+evlist: 'e <- Table (CLASS, MESSENGER,
+SENDER, e,
+GLOBAL, e•GLOBAL,
+SELF,
+e•SELF,
+PC,
+1,
+MSG,
+e®MSG®PC)
+RTN,
+APPLY) :
+goto eval;
+apply: 'e <- e•SENDER;
+e•PC <- e•PC + 1
+if e•PC › length(MSG) then goto dispathrtn; if e•MSG•PC = '.
+then e•PC <- e•PC + 1; goto evlist;
+if e•MSG•PC = '»
+then if result = 'false
+then e•PC <- e•PC + 2; goto evlist;
+else e•PC <- e•PC + 1;
+
+'e <- Table (CLASS
+MESSENGER,
+SENDER, e,
+
+GLOBAL, GLOBAL,
+
+SELF
+result,
+PC,
+ヒ，
+MSG,
+e•MSG®PC,
+RTN,
+FROMTTRUE) :
+goto eval:
+'e <- Table ( CLASS, MESSENGER,
+SENDER, e,
+GLOBAL, GLOBAL, SELF, reusit,
+PC,
+1,
+MSG,
+reusit®CLASS•CODE,
+RTN,
+APPLY);
+fromTURE: 'e <- e•SENDER•SENDER; goto dispatchrtn;
+fromEYE: putvalue (E•GLOBAL, ep, reusit); goto apply:
+dispatchrtn: select e®RTN
+case APPLY: goto apply; case FROMTRUE: goto fromTRUE; case FROMEYE: goto fromEYE;
+escapes: select e•MSG•PC+1
+etc...
+to a (metacodefor (if e•SNDReMSG (PC) = e•SNDR•SNDR•MSG (PC)
+
+
+then bump (e•SNDR•SNDR•PC); result <- TRUE
+
+else result <- FALSE;
+
+goto apply) )
+
+to : p (: p. metacodefor(set up a new context and eval sender) )
+to : p v (metacodefor('v <- e•SNDR•SNDR®MSG•PC ;
+
+
+if nille'p <- e•SNDR•MSG•PC)
+
+then result <- v
+
+else eep <- result <- v;
+
+goto apply: /
+to ^ b (: b. metacodefor ('return <- eeb; goto apply))
