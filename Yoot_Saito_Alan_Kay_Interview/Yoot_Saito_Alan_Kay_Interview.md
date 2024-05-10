@@ -287,8 +287,7 @@ I thought that would be great.
 
 **Alan Kay:** So I forget what the terms were, but it was something that he decided that he would win the bet on this in three months.
 So he decided that he would win the bet on this machine, that was part of the deal.
-
-**Alan Kay:** Also, he was very interested in making a Nova that was ten times as fast, because he wanted to use the new ...
+Also, he was very interested in making a Nova that was ten times as fast, because he wanted to use the new ...
 
 ### Faster and More Powerful Computing
 
@@ -301,8 +300,7 @@ So he decided that he would win the bet on this machine, that was part of the de
 **Alan Kay:** Data General.
 It's a company that's still around.
 Called Data General.
-
-**Alan Kay:** The machines that they used to sell back then were called Novas.
+The machines that they used to sell back then were called Novas.
 These were really great.
 These were the first really cheap mini-computers.
 You could get them for like ten thousand dollars.
