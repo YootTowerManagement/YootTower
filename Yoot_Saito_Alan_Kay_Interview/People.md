@@ -1,4 +1,4 @@
-### [Bill Atkinson (UC San Diego, University of Washington, Apple Inc.)](https://en.wikipedia.org/wiki/Bill_Atkinson)
+b### [Bill Atkinson (UC San Diego, University of Washington, Apple Inc.)](https://en.wikipedia.org/wiki/Bill_Atkinson)
 Bill Atkinson played a crucial role at Apple Inc., where he was instrumental in developing the graphical user interfaces for both the Apple Lisa and the Macintosh.
 His innovative work extended to creating HyperCard, a precursor to the World Wide Web, which allowed users to craft interactive, multimedia-rich pages linked together in a card-based layout.
 Atkinson's exposure to ideas during Apple's visits to Xerox PARC greatly influenced his contributions, particularly in integrating advanced features such as overlapping windows and drag-and-drop functionality.
@@ -195,7 +195,7 @@ After his time at Xerox PARC, Kay had stints at Atari and Apple, where he contin
 In the interview, he discusses his early influences, work on the Flex machine project, and the development of the Smalltalk programming language.
 He also touches upon his tenure at Atari and later involvement with Apple.
 
-### [Ralph Kimball (Xerox PARC)](https://en.wikipedia.org/wiki/Ralph_Kimball, Metaphor):
+### [Ralph Kimball (Xerox PARC, Metaphor)](https://en.wikipedia.org/wiki/Ralph_Kimball):
 Another PARC staff member who assisted the Smalltalk project. Specific contributions are not detailed, but his assistance was part of the collective effort from various PARC teams that supported the Smalltalk development.
 
 ### [Butler Lampson (Harvard, UC Berkeley, MIT, Microsoft, Xerox PARC, DEC SRC)](https://en.wikipedia.org/wiki/Butler_Lampson)
