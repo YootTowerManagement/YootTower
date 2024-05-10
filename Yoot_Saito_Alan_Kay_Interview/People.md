@@ -148,7 +148,7 @@ Years of Involvement: 1973
 Affiliation: MIT AI Lab
 Contributions: His work on the "Actor" model was influenced by the ideas presented by Alan Kay, impacting further research in concurrent computing paradigms.
 
-### [Bruce Horn (CMU, Xerox PARC, Apple Inc., Powerset, Intel](https://en.wikipedia.org/wiki/Bruce_Horn):
+### [Bruce Horn (CMU, Xerox PARC, Apple Inc., Powerset, Intel)](https://en.wikipedia.org/wiki/Bruce_Horn):
 Listed as a child intern, aged 15, in the Smalltalk project. Horn's participation as an intern indicates the project's innovative approach to involving young people directly in technology development, potentially focusing on user interface design or user experience feedback.
 
 ### [Dan Ingalls (Harvard, Stanford, Xerox PARC, Apple Inc., Interval Research Corporation)](https://en.wikipedia.org/wiki/Dan_Ingalls)
