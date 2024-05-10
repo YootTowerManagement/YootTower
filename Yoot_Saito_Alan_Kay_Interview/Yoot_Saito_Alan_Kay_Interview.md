@@ -688,7 +688,7 @@ Were you there?
 
 **Alan Kay:** He, I think the thing, one of the things I recall from the demonstration, it is hard to remember any of it because we did so many things, but I just remember the one thing that really impressed me, I don't know if it impressed Steve or not, was I think [Tesler](https://en.wikipedia.org/wiki/Larry_Tesler), somebody, whoever was giving the demo at the particular time, said this stuff is all dynamically programmed.
 
-**Alan Kay:** So one of the Apple people challenged whoever it was, I think it was [Dan](https://en.wikipedia.org/wiki/Dan_Ingalls), no, Dan was the one who did it, but we had been, the way we did highlighting was the way it is pretty much done today, which is that was reverse video through the text, and they actually didn't like it.
+**Alan Kay:** So one of the Apple people challenged whoever it was, I think it was [Dan Ingalls](https://en.wikipedia.org/wiki/Dan_Ingalls), no, Dan was the one who did it, but we had been, the way we did highlighting was the way it is pretty much done today, which is that was reverse video through the text, and they actually didn't like it.
 
 **Alan Kay:** So they asked Dan whether he could change it so it would be an outline, and Dan was able to make that change in a about twenty-five seconds or so, to go into Smalltalk without stopping the machine or reloading or anything, just going in and making the change.
 
