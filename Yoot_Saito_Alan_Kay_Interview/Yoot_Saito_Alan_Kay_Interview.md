@@ -665,7 +665,7 @@ Maybe even [Bill Atkinson](https://en.wikipedia.org/wiki/Bill_Atkinson).
 **Alan Kay:** But some of the people who were at Apple had seen the stuff that we were doing and they kept on saying to Steve, you should come over and see this.
 So it was a little complicated actually.
 
-**Alan Kay:** Adele Goldberg and I did the politics for getting the Apple people in.
+**Alan Kay:** [Adele Goldberg](https://en.wikipedia.org/wiki/Adele_Goldberg_%28computer_scientist%29) and I did the politics for getting the Apple people in.
 Adele and I stood in the back of the room, and [Larry Tesler](https://en.wikipedia.org/wiki/Larry_Tesler) gave the demo.
 
 **Alan Kay:** Somewhere I have a movie of a demo almost identical to the one Tesler.
