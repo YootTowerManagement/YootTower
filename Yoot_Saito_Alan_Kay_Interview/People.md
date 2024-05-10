@@ -1,4 +1,4 @@
-b### [Bill Atkinson (UC San Diego, University of Washington, Apple Inc.)](https://en.wikipedia.org/wiki/Bill_Atkinson)
+### [Bill Atkinson (UC San Diego, University of Washington, Apple Inc.)](https://en.wikipedia.org/wiki/Bill_Atkinson)
 Bill Atkinson played a crucial role at Apple Inc., where he was instrumental in developing the graphical user interfaces for both the Apple Lisa and the Macintosh.
 His innovative work extended to creating HyperCard, a precursor to the World Wide Web, which allowed users to craft interactive, multimedia-rich pages linked together in a card-based layout.
 Atkinson's exposure to ideas during Apple's visits to Xerox PARC greatly influenced his contributions, particularly in integrating advanced features such as overlapping windows and drag-and-drop functionality.
