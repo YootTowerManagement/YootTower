@@ -40,7 +40,7 @@ Also, you will find we can do this interview, but you will also find a lot of ma
 ### Impact of Flex Machine Project
 
 **Yoot Saito:** Also Dr. Hubbert <?> ***[inaudible]*** writes about that in Japanese.
-And at that time, maybe in 1966 or 67, you were involved in the flex machine project?
+And at that time, maybe in 1966 or 67, you were involved in the Flex Machine project?
 
 **Alan Kay:** 1966, that's right.
 That started in early 1967.
@@ -49,10 +49,10 @@ It was done with Ed Cheadle.
 **Yoot Saito:** He proposed the desktop computer concept right?
 
 **Alan Kay:** Yes, you never know who was the first.
-You know, I show in here Wes Clark's LINC machine was maybe the first.
+You know, I show in here Wes Clark's LINC Machine was maybe the first.
 Ivan Sutherland, we think of that as being the first time of something like personal computing.
 Here is the LINC.
-So that was a desk top machine as well and that was 1962.
+So that was a desktop machine as well and that was 1962.
 
 **Yoot Saito:** The year I was born.
 
@@ -164,7 +164,7 @@ Everybody there, again you have to realize a lot of this stuff came from Xerox n
 
 **Alan Kay:** So, one of the things that everybody agreed on was that things were going to be networked.
 A lot of us had worked on the ARPANET.
-Networking was going to be important, and more than that, distributive computing, which is a phrase I think Butler Amson made up, but distributive computing was going to be the way computing was going to be done.
+Networking was going to be important, and more than that, distributive computing, which is a phrase I think Butler Lampson made up, but distributive computing was going to be the way computing was going to be done.
 
 **Alan Kay:** So the computers were getting cheaper.
 We wanted to have them on fast networks.
@@ -172,8 +172,8 @@ We wanted to be able to share a variety of computer resources in various ways.
 
 ### Integrating Engelbart's NLS into Distributed Systems
 
-**Alan Kay:** So one of the earliest projects at PARC, that some of the Berkeley people wanted to do, was to take Engelbart's NLS, in fact we had a joint project with Engelbart's group for a while, we wanted to take Engelbart's system and put it on t distributive computing system.
-In other words, take it off the main frame and put it on a distributive minis.
+**Alan Kay:** So one of the earliest projects at PARC, that some of the Berkeley people wanted to do, was to take Engelbart's NLS, in fact we had a joint project with Engelbart's group for a while, we wanted to take Engelbart's system and put it on a distributed computing system.
+In other words, take it off the mainframe and put it on the distributed minis.
 
 **Alan Kay:** In fact, that was done, or something like that was done.
 It turned out that the Alto was actually over that architecture.
