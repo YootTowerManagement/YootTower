@@ -151,7 +151,7 @@ Contributions: His work on the "Actor" model was influenced by the ideas present
 ### [Bruce Horn (CMU, Xerox PARC, Apple Inc., Powerset, Intel)](https://en.wikipedia.org/wiki/Bruce_Horn):
 Listed as a child intern, aged 15, in the Smalltalk project. Horn's participation as an intern indicates the project's innovative approach to involving young people directly in technology development, potentially focusing on user interface design or user experience feedback.
 
-### [Dan Ingalls (Harvard, Stanford, Xerox PARC, Apple Inc., Interval Research Corporation)](https://en.wikipedia.org/wiki/Dan_Ingalls)
+### [Dan Ingalls (Harvard, Stanford, Xerox PARC, Apple Inc., Interval Research Corporation)](https://en.wikipedia.org/wiki/Dan_Ingalls):
 Noted as the implementor of Smalltalk at PARC and a key figure in the discussions that shaped the language during the summer and early fall of 1972. Ingalls' contributions were vital in addressing design flaws and providing quick implementations that helped refine the programming language's capabilities and performance.
 Played a central role in the implementation of Smalltalk. His contributions to the language and its environment were fundamental in realizing the vision of an easy-to-use, powerful programming tool.
 Years of Involvement: 1972-1976
@@ -169,7 +169,7 @@ A child intern, aged 12, who contributed to the Smalltalk project. Like other ch
 Mentioned multiple times, in 1971 and 1972, as a member of the Learning Research Group. Jeffers’ role likely involved contributing to the development and testing phases of Smalltalk, particularly in aspects that interfaced with educational objectives and user experience.
 https://tinlizzie.org/IA/index.php/Alan_Kay_at_OOPSLA_1997:_The_Computer_Revolution_has_not_Happened_Yet
 
-### [Steve Jobs (Reed College, Apple Inc., NeXT)](https://en.wikipedia.org/wiki/Steve_Jobs)
+### [Steve Jobs (Reed College, Apple Inc., NeXT)](https://en.wikipedia.org/wiki/Steve_Jobs):
 Steve Jobs, the co-founder of Apple Inc., is frequently mentioned for his seminal visits to Xerox PARC, where he encountered innovative technologies like the graphical user interface.
 These visits profoundly influenced his vision, playing a crucial role in shaping the development of Apple's groundbreaking products such as the Lisa and Macintosh computers.
 His experiences at Xerox PARC underscored the significance of intuitive, user-friendly interfaces in personal computing.
@@ -198,7 +198,7 @@ He also touches upon his tenure at Atari and later involvement with Apple.
 ### [Ralph Kimball (Xerox PARC, Metaphor)](https://en.wikipedia.org/wiki/Ralph_Kimball):
 Another PARC staff member who assisted the Smalltalk project. Specific contributions are not detailed, but his assistance was part of the collective effort from various PARC teams that supported the Smalltalk development.
 
-### [Butler Lampson (Harvard, UC Berkeley, MIT, Microsoft, Xerox PARC, DEC SRC)](https://en.wikipedia.org/wiki/Butler_Lampson)
+### [Butler Lampson (Harvard, UC Berkeley, MIT, Microsoft, Xerox PARC, DEC SRC)](https://en.wikipedia.org/wiki/Butler_Lampson):
 (1964-1966) Worked on modern operating systems and contributed significantly to the development of network and computer security systems.
 A key figure in computer science, known for his work on operating systems and network technologies. Lampson's recruitment to PARC brought significant expertise in systems design and was crucial for the development of PARC's innovative projects.
 A recipient of the memo, Lampson was a significant figure in computer science, known for his contributions to the development of personal computing systems at Xerox PARC and his work on operating systems.
@@ -224,7 +224,7 @@ Also a child intern, aged 12, involved with the project. Mansfield's engagement 
 ### [Eric Martin (Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/):
 Listed as a visitor to the Smalltalk project. While the specific details of Martin’s visit are not provided, visitors often contributed through consultations, providing external perspectives, or assisting in specific technical or theoretical aspects of the project.
 
-### [John McCarthy (Princeton, CIT, MIT, Dartmouth, Stanford AI Lab)](https://en.wikipedia.org/wiki/John_McCarthy_%28computer_scientist%29)
+### [John McCarthy (Princeton, CIT, MIT, Dartmouth, Stanford AI Lab)](https://en.wikipedia.org/wiki/John_McCarthy_%28computer_scientist%29):
 (1960) Pioneer of artificial intelligence and creator of LISP, which introduced many concepts that underpin modern AI programming.
 Famous for developing Lisp, McCarthy's programming methods and schemes are mentioned as a point of contrast to the Smalltalk approach. The Smalltalk interpreter design sought to finesse some of the explicit details required in McCarthy's Lisp, aiming for a more streamlined and object-oriented approach.
 John McCarthy was a pioneering computer scientist, best known for coining the term "Artificial Intelligence" and his foundational work in developing the programming language Lisp.
@@ -232,7 +232,7 @@ His research laid critical groundwork for AI through projects like the Stanford 
 McCarthy's theories on computing and human cognition opened new pathways for exploring machine learning, natural language processing, and autonomous robotic systems.
 His influence extends beyond his technological innovations, inspiring generations of researchers to explore the ethical and practical dimensions of AI.
 
-### [Marshall McLuhan (University of Manitoba, Trinity Hall, Cambridge, St. Michael's College, Toronto)](https://en.wikipedia.org/wiki/Marshall_McLuhan)
+### [Marshall McLuhan (University of Manitoba, Trinity Hall, Cambridge, St. Michael's College, Toronto)](https://en.wikipedia.org/wiki/Marshall_McLuhan):
 Marshall McLuhan, a pioneering Canadian philosopher and communication theorist, is renowned for his influential ideas about how media technologies shape human experiences and social structures.
 He is best known for coining the terms "the medium is the message" and "global village," which encapsulate his view that communication technologies fundamentally alter the way societies operate and individuals perceive the world.
 McLuhan argued that the characteristics of each medium affect how information is delivered and perceived, thereby influencing societal interactions and cognitive processes.
@@ -251,7 +251,7 @@ https://www.hammertonail.com/reviews/casa-susanna/
 https://culturemixonline.com/tag/diana-merry-shapiro/
 https://culturemixonline.com/review-casa-susanna-starring-katherine-cummings-diana-merry-shapiro-betsy-wollheim-and-gregory-bagarozy/
 
-### [Robert Metcalfe (MIT, Harvard, Xerox PARC, 3COM)](https://en.wikipedia.org/wiki/Robert_Metcalfe)
+### [Robert Metcalfe (MIT, Harvard, Xerox PARC, 3COM)](https://en.wikipedia.org/wiki/Robert_Metcalfe):
 Acknowledged for providing help from other groups at PARC. Metcalfe's involvement, while not detailed in the text, likely related to his expertise in networking and communications technologies, which could have influenced the collaborative and networked aspects of Smalltalk.
 Robert "Bob" Metcalfe is an influential American engineer and entrepreneur, recognized for his seminal work in computer networking and the co-invention of Ethernet alongside David Boggs at Xerox PARC.
 Metcalfe's career extends beyond this pivotal innovation; he founded 3Com, a major company in network technology, and formulated Metcalfe's Law, which posits that the value of a telecommunications network is proportional to the square of the number of users connected to the system.
@@ -347,19 +347,19 @@ Credited with the design and implementation of the "Animator" alongside Steve Pu
 Provided assistance from other groups within PARC. His involvement, while not detailed, would have added valuable expertise, possibly in graphics or user interface design, contributing to the aesthetic and functional aspects of Smalltalk.
 SuperPaint.
 
-### [David Canfield Smith (Oberlin College, Stanford University, Xerox PARC, Stanford AI Lab, SRI, VisiCorp, Dest Systems, Cognition, Apple Inc., Stagecast, IBM](https://en.wikipedia.org/wiki/David_Canfield_Smith):
+### [David Canfield Smith (Oberlin College, Stanford University, Xerox PARC, Stanford AI Lab, SRI, VisiCorp, Dest Systems, Cognition, Apple Inc., Stagecast, IBM)](https://en.wikipedia.org/wiki/David_Canfield_Smith):
 Recognized as a student who contributed to the Smalltalk project. Like other students, Smith's role likely involved development, testing, and perhaps innovation in certain features of Smalltalk, contributing to its overall functionality and educational orientation.
 
 ### [Bob Sproull (Harvard, Stanford, CMU, Xerox PARC, Sun Microsystems)](https://en.wikipedia.org/wiki/Bob_Sproull):
 Part of the PARC team that offered help to the Smalltalk project. Sproull's participation, though not detailed in terms of specific tasks, would have included contributions that supported the technical or conceptual development of the system.
 
-### [Ivan Sutherland (University of Utah, CMU, Harvard, Portland State University, CIT, MIT, ARPA, Evans & Sutherland)](https://en.wikipedia.org/wiki/Ivan_Sutherland)
+### [Ivan Sutherland (University of Utah, CMU, Harvard, Portland State University, CIT, MIT, ARPA, Evans & Sutherland)](https://en.wikipedia.org/wiki/Ivan_Sutherland):
 (1963) Developed Sketchpad, a pioneering graphical interface system that introduced many concepts used in modern graphical user interfaces and CAD systems.
 Creator of Sketchpad, the pioneering graphical interface program that introduced concepts like objects and constraints in graphics, which had a profound impact on graphical user interfaces and object-oriented programming.
 Ivan Sutherland, famed for creating Sketchpad, one of the pioneering graphical computer interfaces, is highlighted in discussions about the community of innovators pivotal to the early evolution of interactive computing.
 Sutherland's Sketchpad not only advanced graphical interfaces but also significantly influenced future developments in user interaction and design, marking a key milestone in the history of computing technology.
 
-### [Bob Taylor (Southern Methodist University, University of Texas, Xerox PARC, ARPA, DEC)](https://en.wikipedia.org/wiki/Robert_Taylor_%28computer_scientist%29)
+### [Bob Taylor (Southern Methodist University, University of Texas, Xerox PARC, ARPA, DEC)](https://en.wikipedia.org/wiki/Robert_Taylor_%28computer_scientist%29):
 Appointed to lead the Computer Science Laboratory at PARC. Taylor was instrumental in shaping the research agenda that focused on personal computing and interactive systems.
 Bob Taylor was a pivotal figure in fostering the development of groundbreaking computing technologies both at ARPA and later at Xerox PARC.
 Known for his role in funding the ARPANET and other significant projects, Taylor's approach to supporting innovative research emphasized freedom and creativity without direct oversight of specific projects.
@@ -371,7 +371,7 @@ https://ed.stanford.edu/news/alumna-bonnie-tenenbaum-educator-and-philanthropist
 https://padailypost.com/2020/11/03/arlene-bonnie-tenenbaum/
 https://k12irc.org/dr-bonnie-tenenbaum/
 
-### [Larry Tesler (Stanford, Xerox PARC, Apple Inc., Amazon, Yahoo!)](https://en.wikipedia.org/wiki/Larry_Tesler)
+### [Larry Tesler (Stanford, Xerox PARC, Apple Inc., Amazon, Yahoo!)](https://en.wikipedia.org/wiki/Larry_Tesler):
 (1974) Worked at Xerox PARC during the development of Smalltalk and was known for his innovations in user interface design.
 Also helped from other groups at PARC. Tesler's involvement likely brought additional insights or technical skills to the project, enhancing its development and implementation.
 Known for his work on user interface design, Tesler's ideas influenced the development of interactive computing elements within Smalltalk.
@@ -399,7 +399,7 @@ Years of Involvement: 1972
 Affiliation: Xerox PARC
 Contributions: Chuck Thacker had a bet with him about being able to build a whole machine in just 3 months.
 
-### [Niklaus Wirth (ETH Zurich, UC Berkeley, Stanford, Xerox PARC)](https://en.wikipedia.org/wiki/Niklaus_Wirth)
+### [Niklaus Wirth (ETH Zurich, UC Berkeley, Stanford, Xerox PARC)](https://en.wikipedia.org/wiki/Niklaus_Wirth):
 (1966) Developed several important programming languages, including Pascal, and contributed to software engineering as a discipline.
 Niklaus Wirth, known for developing several influential programming languages including Pascal, is mentioned in the context of his work prior to Pascal, which influenced Alan Kay's thoughts on programming languages.
 Wirth's early contributions were instrumental in shaping the concepts of structured programming and the development of compact, efficient code, which resonated with Kay's own developments in programming language design at Xerox PARC.
