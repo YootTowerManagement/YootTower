@@ -145,7 +145,7 @@ That was it.
 **Yoot Saito:** So it means whatever you like?
 
 **Alan Kay:** Yeah.
-So when I was talking to [Taylor](https://en.wikipedia.org/wiki/Robert_Taylor_%28computer_scientist%29) about the stuff, I said education is a big thing, Xerox is doing stuff in education, we should really, I want to do this, dynabook thing.
+So when I was talking to Taylor about the stuff, I said education is a big thing, Xerox is doing stuff in education, we should really, I want to do this, dynabook thing.
 That was it.
 We won't bother.
 That happened.
