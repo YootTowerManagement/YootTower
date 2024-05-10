@@ -1,4 +1,4 @@
-### [Bill Atkinson (UC San Diego, University of Washington, Apple Inc.)](https://en.wikipedia.org/wiki/Bill_Atkinson)
+### [Bill Atkinson (UC San Diego, University of Washington, Apple Inc.)](https://en.wikipedia.org/wiki/Bill_Atkinson):
 Bill Atkinson played a crucial role at Apple Inc., where he was instrumental in developing the graphical user interfaces for both the Apple Lisa and the Macintosh.
 His innovative work extended to creating HyperCard, a precursor to the World Wide Web, which allowed users to craft interactive, multimedia-rich pages linked together in a card-based layout.
 Atkinson's exposure to ideas during Apple's visits to Xerox PARC greatly influenced his contributions, particularly in integrating advanced features such as overlapping windows and drag-and-drop functionality.
@@ -8,7 +8,7 @@ These innovations significantly advanced user interface design, making complex s
 (1969) Noted for his Ph.D. thesis on interactive computer-mediated animation at MIT, which contributed to the development of computer graphics and user interfaces.
 A visitor to the Smalltalk project. The exact nature of Ron Baecker's contribution is not specified in the text, but his involvement suggests engagement with the developmental or evaluative aspects of the project at PARC. Specifics of his professional background or contributions during the visit are not detailed.
 
-### [Bob Barton (State University of Iowa, University of Utah, Burroughs Corporation)](https://en.wikipedia.org/wiki/Robert_S._Barton)
+### [Bob Barton (State University of Iowa, University of Utah, Burroughs Corporation)](https://en.wikipedia.org/wiki/Robert_S._Barton):
 Main designer of the B5000 computer, known for its innovative approach to software architecture, including the use of stack mechanisms and a unique approach to handling subroutine calls and returns. His ideas on recursive design influenced the philosophical underpinnings of object-oriented programming.
 (1961) Credited with a new approach to the functional design of a digital computer, which played a role in advancing computer architecture and design.
 Bob Barton was a significant figure in early computing, known particularly for his work at Burroughs Corporation on the development of stack machines, which are inherently easier to compile for than traditional accumulator-based designs.
@@ -28,7 +28,7 @@ Years of Involvement: 1972
 Affiliation: Rolling Stone
 Contributions: Published an article on PARC that brought significant attention to the innovative work being done there, impacting Xerox's perception of PARC's projects.
 
-### [David Boggs (Princeton, Stanford, Xerox PARC, DEC, LAN Media Corporation)](https://en.wikipedia.org/wiki/David_Boggs)
+### [David Boggs (Princeton, Stanford, Xerox PARC, DEC, LAN Media Corporation)](https://en.wikipedia.org/wiki/David_Boggs):
 Credited as a member of another group at PARC who provided help with the Smalltalk project. His exact role and the nature of his contribution are not specified, but involvement from various PARC groups was crucial to the project's success.
 David Boggs, alongside Robert Metcalfe, is credited with the co-invention of Ethernet at Xerox PARC, a pivotal development in computer networking technology.
 Boggs brought valuable experience as an amateur radio operator to the project, which influenced his understanding and implementation of networking concepts.
@@ -43,14 +43,14 @@ Mentioned as part of the help received from other groups at PARC. Details regard
 Identified as a child intern, aged 12, who was part of the Smalltalk project. The inclusion of child interns was likely part of an effort to test the system’s usability and educational capabilities, reflecting the project's focus on simplicity and accessibility for young users.
 https://worrydream.com/refs/Kay_1976_-_Personal_Dynamic_Media_(LRG).pdf
 
-### [Steve Capps (RIT, Xerox PARC, Apple Inc., Microsoft, Kwedit)](https://en.wikipedia.org/wiki/Steve_Capps)
+### [Steve Capps (RIT, Xerox PARC, Apple Inc., Microsoft, Kwedit)](https://en.wikipedia.org/wiki/Steve_Capps):
 Steve Capps was a key figure at Apple Inc., where he significantly contributed to the development of the original Macintosh computer, particularly in implementing its user interface.
 His early exposure to graphical user interfaces at Xerox Corporation profoundly influenced his work, enabling him to integrate pioneering concepts from Xerox PARC into Apple's systems.
 Capps also led the development of the Apple Newton PDA and later contributed to Microsoft's Internet Explorer.
 Beyond his technical contributions, Capps has been an innovator in online and mobile payment systems through his work with PayNearMe, holding over 65 patents across various technology domains.
 His efforts have consistently focused on making digital technology more accessible and user-friendly.
 
-### [Ed Cheadle (Flex Machine Project, Memcor, Montec Corporation, University of Utah)](https://en.wikipedia.org/wiki/University_of_Utah_School_of_Computing#Programming_Languages_and_Personal_Computers)
+### [Ed Cheadle (Flex Machine Project, Memcor, Montec Corporation, University of Utah)](https://en.wikipedia.org/wiki/University_of_Utah_School_of_Computing#Programming_Languages_and_Personal_Computers):
 A hardware engineer who collaborated with Kay on the design of the FLEX machine. Their work together aimed to create a personal computer that was easy to use and capable of running high-level languages.
 In an early 1967 collaboration initiated by Dave Evans, Alan Kay was introduced to Ed Cheadle, a hardware expert from a local aerospace company, leading to their joint work on the Flex Machine.
 This project aimed to create a computer for non-computer professionals, emphasizing user-friendly programming in higher-level languages like BASIC, and later considering JOSS for its user-centric design.
@@ -61,7 +61,7 @@ This early work in personal computing at the University of Utah influenced later
 Another member of a group at PARC who assisted with the Smalltalk project. Like many others mentioned, specific details about his contributions or the nature of his work are not provided within the text.
 SuperPaint.
 
-### [Wesley A. Clark (UC Berkeley, LINC, MIT, MIT Lincoln Laboratory, Washington University, Clark, Rockoff and Associates)](https://en.wikipedia.org/wiki/Wesley_A._Clark)
+### [Wesley A. Clark (UC Berkeley, LINC, MIT, MIT Lincoln Laboratory, Washington University, Clark, Rockoff and Associates)](https://en.wikipedia.org/wiki/Wesley_A._Clark):
 (1962) Instrumental in the development of the LINC, one of the first minicomputers that influenced personal computing.
 Influential in the development of the LINC computer around 1962, which was one of the earliest examples of a personal computer. His work demonstrated the feasibility and value of small, powerful computing devices designed for individual use.
 Wes Clark was the designer of the LINC machine, often recognized as the first personal computer.
@@ -95,7 +95,7 @@ Douglas Engelbart, a pioneer of early computing, significantly influenced the fi
 As discussed in the interview, Engelbart's work on the oN-Line System (NLS) was foundational in developing advanced user interfaces and input devices, inspiring many interface innovations at Xerox PARC.
 His vision for computing as an enhancement of human capabilities is reflected in the design principles that shaped the development of personal computing, as acknowledged by computing pioneers like Alan Kay in their collaborative and conceptual advancements in technology.
 
-### [Bill English (Xerox PARC, SRI, Sun Microsystems)](https://en.wikipedia.org/wiki/Bill_English_%28computer_engineer%29)
+### [Bill English (Xerox PARC, SRI, Sun Microsystems)](https://en.wikipedia.org/wiki/Bill_English_%28computer_engineer%29):
 Co-inventor of the computer mouse and a key member of Doug Engelbart’s Augmentation Research Center team before joining PARC. English contributed to various hardware projects, including development tools for interactive systems.
 Mentioned in the memo to key individuals at Xerox PARC, Bill English was known for his pioneering work in the development of the computer mouse and graphical user interfaces.
 Recognized as part of the support from other groups at PARC for the Smalltalk project. The text does not detail his specific contributions or role within the project.
@@ -128,7 +128,7 @@ Affiliation: Xerox PARC
 Contributions: Participated in the early morning discussions and critiques that led to improvements in Smalltalk-72.
 https://cs.unc.edu/person/henry-fuchs/
 
-### [Adele Goldberg (University of Michigan, University of Chicago, Stanford, Xerox PARC, ACM)](https://en.wikipedia.org/wiki/Adele_Goldberg_%28computer_scientist%29)
+### [Adele Goldberg (University of Michigan, University of Chicago, Stanford, Xerox PARC, ACM)](https://en.wikipedia.org/wiki/Adele_Goldberg_%28computer_scientist%29):
 A key member of the Learning Research Group, Goldberg contributed to the development and documentation of Smalltalk, helping to formalize its concepts and promote its educational potential.
 Identified as a member of the Learning Research Group headed by Alan Kay. Goldberg's involvement would have been crucial in the research and development aspects of Smalltalk, focusing on educational methods, programming language design, and user interface considerations.
 Adele Goldberg was a prominent researcher at Xerox PARC, where she collaborated extensively with Alan Kay.
