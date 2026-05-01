@@ -73,7 +73,13 @@ https://www.researchgate.net/publication/221501755_The_Early_History_of_Smalltal
 
 Brett Victor's page:
 
+HTML page:
+
 https://worrydream.com/EarlyHistoryOfSmalltalk/
+
+Original PDF:
+
+https://raw.githubusercontent.com/worrydream/EarlyHistoryOfSmalltalk/master/SmalltalkHistoryHOPL-scanned-2015-07-16.pdf
 
 Spacewar, 1962
 
@@ -175,3 +181,115 @@ a virtuoso; his programs have very few mistakes. He has probably more
 written code running than anybody in the ARPA community."
 
 [...]
+
+----
+
+https://news.ycombinator.com/item?id=34308843
+
+morphle on Jan 9, 2023 | parent | context | favorite | on: Alan Kay on web browsers, document viewers, Smallt...
+
+Alan Kay made scathing comments [1] on the World Wide Web browser (reinventing a broken wheel) at length in a lecture "Normal Considered Harmful" for computer science students at University of Illinois Urbana-Champaign.
+For context: Alan himself invented WYSIWYG at Xerox PARC. He was present at "the mother of all demo's" by Douglas Englebart [9]. Ted Nelson who invented bidirectial hyperlinks 'outside of the file' and Xanadu [6,7] got Alan in touch with his future wife [2] and Alan was there at Apple when Bill Atkinson made Hypercard.
+
+He mentions that when he told Tim Berners Lee about the much better previous designs of Douglas Englebart, Ted Nelson and Alan's group at Xerox PARC, Tim was chagrined (that he had not read any of the papers about earlier and much better designs of 28, 25 and 20 years before the WWW browser in 1993).
+
+Of course Alan also discusses how the web should have been done. In short, it should be that when you click a hyperlink you load a virtual machine in a secure sandbox of a Operating System Kernel. The virtual machine would then render the (bitmap or vector) pages. Operating System 101, well known in 1965. Of course, Alan's team did implement this (several times). I can demo all this software if you contact me. I also give lectures on this.
+
+Email me at morphle [at] ziggo [dot] nl for a video where Alan Kay, Douglas Englebart and Tim Berners Lee meet and talk about this at a forum discussion. You can ask me about anything related to Alan, Ted or Douglas, I maintain an extensive archive with all scientific papers, emails, talks, interviews and lecture video's.
+
+Alan, Ted and Douglas worked closely together and where friends. TED's beautiful eulogy [3] for Douglas is a wonderful speech where he bitterly indirectly refers to the ignoring of Douglas' work by Tim.
+
+Alan made a demo with Apple in 1987 on what the WWW should be able to do [4,5].
+
+[1] Normal Considered Harmful https://youtu.be/FvmTSpJU-Xc?t=963
+
+[2] Alan Kay's tribute to Ted Nelson at "Intertwingled" Festival https://www.youtube.com/watch?v=AnrlSqtpOkw
+
+[3] Ted Nelson's Eulogy for Douglas Engelbart https://www.youtube.com/watch?v=yMjPqr1s-cg
+
+[4] https://www.youtube.com/watch?v=9bjve67p33E
+
+[5] https://www.youtube.com/watch?v=umJsITGzXd0
+
+[6] https://www.youtube.com/watch?v=En_2T7KH6RA
+
+[7] https://en.wikipedia.org/wiki/Project_Xanadu
+
+[8] https://golden.com/wiki/Project_Xanadu-P6JE4
+
+[9] https://www.youtube.com/watch?v=yJDv-zdhzMY
+
+----
+
+Alan Kay comments on books about PARC:
+
+https://news.ycombinator.com/item?id=22376568
+
+Aloha on Feb 20, 2020 | parent | context | favorite | on: Larry Tesler Has Died
+
+When I was 17-18, I read 'Dealers of Lightning' it clued me into the foundations laid for modern computing in the 60-70's in the Bay Area (between SRI, CSAIL and PARC), and markedly changed my own approach to information and computing.
+I've always wondered how those who were featured in the book felt about it?
+
+
+alankay on Feb 20, 2020 | parent | context | favorite | on: Larry Tesler Has Died
+
+The best book about the ARPA/Parc research community (Parc sprouted from ARPA) is "The Dream Machine" by Mitchell Waldrop: it is both the most complete and most accurate.
+"Dealers of Lightning" is at the next level but far from the bottom. Its flaws are too much "Heroes' Journey" and a very complex and confused jumping around timeline (I had trouble myself orienting in some of the spots). But it also has a lot of good stories, of which a reasonable number are "true enough".
+
+"Fumbling The Future" is extremely inaccurate.
+
+
+Aloha on Feb 21, 2020 [–]
+
+Thanks! I'll add that one onto my reading queue.
+I actually didn't have too much trouble following Dealers, because it (more or less) mostly followed each project separately, which while creating an interspersed timeline in the book, was mostly coherent within each section.
+
+I did read at least part of Fumbling, but I found it a hard book to thread the needle on, and it was in such stark factual disagreement with what else I'd read that I don't recall finishing it.
+
+I know too many who draw the same conclusions from the Alto and related technologies that fumbling does, so I try to get people to read more about PARC, because I'll hope that once they know more they'll draw much the same conclusions I have - My frustration with much of the traditional criticism of Xerox in failing to commercialize the PARC innovations is it completely ignores both the high cost of the technology (it was literally the technology of the future) and the sales culture of technology at the time.
+
+I don't think any large technology company (which Xerox was broadly) could have made something wondrous out of the innovations PARC created because the people who could recognize the value (and use) of this kind of technology were not the people being sold to, or for that matter doing the buying - nor did they have the budgets to buy a Alto, as was later seen with the Star when it came out.
+
+It took direct to consumer sales (allowing department managers to buy stuff), and lower cost products to allow personal computing to penetrate into the home and corporate america - also the traditional criticism completely ignores that the 9700 (and follow on products) paid for the money spent at PARC several times over.
+
+(incidentally, I believe that this sales culture issue is a prime reason why DEC no longer exists as a company because they failed to see that their market was shifting and could no longer be sold thru the same mechanisms they always had been)
+
+In the end, basic research and the undirected applied science that flows from it is important, even if it has no direct tie to your line of business, because it's the innovation that drives a company forward, and frankly drives humanity forward. I wish more people knew that modern interconnected the world we live in was built on billions spent with no firm idea of what would result from them, and how much of a debt we owe to PARC, Bell Labs and others.
+
+Also, thank you for taking the time to respond to my question!
+
+	
+alankay on Feb 21, 2020 | parent [–]
+
+Yes, the separate timelines of "Dealers" quite missed the cross fertilization and synergies of Parc (which were its main unusual features), so to me, this is a real drawback to this book. On the other hand, "systems" don't parse well into sequences, and Parc was a system, and thus needs something more like a 2D or 3D or 4D chart to do a decent explanation.
+There are at least two big issues regarding cost that many people miss: (a) the first is the difference between what should be spent on "prototypes for learning and vetting" and what can be done when designing for manufacturing, and (b) the second is the the difficulty most people had with valuing what personal computing might be for them.
+
+In the first public paper I wrote about the Dynabook I pointed out that Moore's Law meant that powerful tablet sized personal computers would likely wind up costing what a color TV set would cost (they would have pretty similar components, and most of the cost in electronics is in packaging).
+
+But we also had another analogy that we though could work via education: that of the personal automobile in the US. People value cars enough to be willing to pay quite a bit more for them than for most consumer devices. This was very interesting because the ARPA dream of an interactive personal computer connected to a world-wide network was a kind of "information and intelligence vehicle".
+
+If people could see this, then they might be willing to pay what they would pay for a car. Certainly most computer people and most scientists and engineers would be able to assign value in this way. We thought most knowledge workers would eventually be able to see this also, and that there would be an intermediate phase before getting to the TV set kind of technologies.
+
+An analysis of what happened to eventually quash this idea is beyond the scope of this note. (But, to make a point in talks, I've tried to get people to think about what "a car's worth" of personal computer could be like (the average car in the US a few years ago was a Toyota Avalon at $28K, so about 10 times what most personal computers go for).
+
+This is a different slant than the problem that DEC and similar companies had (which was to not be able to understand personal computing in any reasonable form).
+
+----
+
+https://blog.dshr.org/2021/03/history-of-window-systems.html
+
+Blissex2 said...
+«In 1967, Ed Cheadle and I were doing "The Flex Machine", a desktop personal computer that also had multiple windows»
+
+It is probably completely unknown in the USA, but in the UK in the 1970s there was another GUI based personal workstation called "The Flex Machine", a capability system with a networked OS whose base language was ALGOL 68 extended with persistent closures:
+
+https://en.wikipedia.org/wiki/Flex_machine
+
+I had an old one in a corner of my office for while, and even used booted it a couple of time, but I cannot really remember anything about the GUI details. Amusingly the GUI had an interactive language with some syntax elements reminiscent of "Smalltalk":
+
+https://www.mca-ltd.com/martin/Ten15/introduction.html
+
+April 17, 2021 at 2:11 AM
+
+----
+

@@ -6,9 +6,9 @@
 
 ## Introduction
 
-In this captivating interview from 1993, recently unearthed and previously published only in Japan, renowned game designer [Yutaka "Yoot" Saito](https://en.wikipedia.org/wiki/Yoot_Saito) of MACWORLD Japan engages with computing pioneer [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay) in a deep exploration of technology's past and future.
+In this captivating interview from 1993, recently unearthed and previously published only in Japan, renowned game designer [Yutaka "Yoot" Saito](https://en.wikipedia.org/wiki/Yoot_Saito) of [MACWORLD Japan](Institutions.md#macworld-japan) engages with computing pioneer [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay) in a deep exploration of technology's past and future.
 This dialogue, captured on a cassette tape and transcribed, spans the evolution of personal computing, highlighting groundbreaking advancements and visionary ideas that have shaped modern technology.
-Yoot Saito, celebrated for his innovative approach to game design, and Alan Kay, known for his seminal contributions such as the development of the graphical user interface and the concept of the Dynabook, offer profound insights into both the historical trajectory and the potential futures of the digital world.
+[Yoot Saito](People.md#yutaka-yoot-saito-waseda-university-macworld-japan-maxis-vivarium-openbook), celebrated for his innovative approach to game design, and Alan Kay, known for his seminal contributions such as the development of the graphical user interface and the concept of the Dynabook, offer profound insights into both the historical trajectory and the potential futures of the digital world.
 This interview serves as a treasure trove of historical anecdotes, philosophical reflections, and forward-looking innovations, capturing a moment when two brilliant minds discussed the dynamics of technological progress.
 
 ## Beginning of [Yoot Saito's](https://en.wikipedia.org/wiki/Yoot_Saito) Interview with [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay)
@@ -16,9 +16,9 @@ This interview serves as a treasure trove of historical anecdotes, philosophical
 ### MACWORLD Japan 1994 Special Issue for Macintosh Ten Year Anniversary
 
 **Yoot Saito:** MACWORLD Japan, special issue.
-Special means the ten year anniversary of Macintosh or something.
+Special means the ten year anniversary of [Macintosh](Technologies.md#macintosh) or something.
 
-**Alan Kay:** That's right, next year.
+**[Alan Kay](People.md#alan-kay-university-of-colorado-at-boulder-university-of-utah-xerox-parc-atari-apple-viewpoints-research-institute):** That's right, next year.
 
 ### Purpose of the Interview
 **Yoot Saito:** Next year January, we would like to put [Mr. Engelbart's](https://en.wikipedia.org/wiki/Douglas_Engelbart) interviews for a special issue for the computer itself.
@@ -34,13 +34,13 @@ So in this interview, I would like to ask you for past things, not only the futu
 
 **Alan Kay:** What my college history was I went to college for two years, then I went into the Air Force for a few years, and then I came out and went for another couple of years and graduated.
 Then I went to Utah.
-Utah was an ARPA project.
+Utah was an [ARPA](Institutions.md#arpa-advanced-research-projects-agency) project.
 Also, you will find we can do this interview, but you will also find a lot of material in that, because it has all of that.
 
 ### Impact of Flex Machine Project
 
 **Yoot Saito:** Also Dr. Hubbert <?> ***[inaudible]*** writes about that in Japanese.
-And at that time, maybe in 1966 or 67, you were involved in the Flex Machine project?
+And at that time, maybe in 1966 or 67, you were involved in the [Flex Machine](Technologies.md#flex-machine) project?
 
 **Alan Kay:** 1966, that's right.
 That started in early 1967.
@@ -49,20 +49,20 @@ It was done with [Ed Cheadle](https://en.wikipedia.org/wiki/University_of_Utah_S
 **Yoot Saito:** He proposed the desktop computer concept right?
 
 **Alan Kay:** Yes, you never know who was the first.
-You know, I show in here [Wes Clark's](https://en.wikipedia.org/wiki/Wesley_A._Clark) LINC Machine was maybe the first.
+You know, I show in here [Wes Clark's](https://en.wikipedia.org/wiki/Wesley_A._Clark) [LINC Machine](Technologies.md#linc-laboratory-instrument-computer) was maybe the first.
 [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland), we think of that as being the first time of something like personal computing.
-Here is the LINC.
+Here is the [LINC](Technologies.md#linc-laboratory-instrument-computer).
 So that was a desktop machine as well and that was 1962.
 
 **Yoot Saito:** The year I was born.
 
 **Alan Kay:** Yeah, so people were thinking about personal computing very early.
-[Wes Clark's](https://en.wikipedia.org/wiki/Wesley_A._Clark) notion of it, he had a grant partially from the National Institutes of Health, and they needed something that would be much more responsive for doing bio-medical experiments.
+[Wes Clark's](https://en.wikipedia.org/wiki/Wesley_A._Clark) notion of it, he had a grant partially from the [National Institutes of Health](Institutions.md#national-institutes-of-health-nih), and they needed something that would be much more responsive for doing bio-medical experiments.
 
 ### Development of Early Personal Computers
 
 **Alan Kay:** So Wes had been the designer of some fairly large, he was associated with the National Institutes of Health for some bio-medical experiments.
-He had been the designer of some fairly large, he was associated with the Whirlwind computer, a very famous old computer, and he was also the designer of this big computer that [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland) used for Sketchpad, and then he decided that he would do a little computer, almost as a kit.
+He had been the designer of some fairly large, he was associated with the Whirlwind computer, a very famous old computer, and he was also the designer of this big computer that [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland) used for [Sketchpad](Technologies.md#sketchpad), and then he decided that he would do a little computer, almost as a kit.
 
 **Alan Kay:** That first summer in 1962 I think 20 people, master of fact that's in the book as well, 20 people that were in the biomedical sciences came out and assembled their own machines.
 So the idea was that if they could put the machine together and get it running, then they could take care of it.
@@ -83,8 +83,8 @@ You could really call it a calculator.
 **Alan Kay:** That he had made out of a little television set and some logic, and he wanted it to be more programmable.
 He and I became good friends, so I got interested in doing a very compact language for it.
 
-**Alan Kay:** And I had already seen Simula, and [Klaus Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth), you know, the guy who did Pascal, he had, before he did Pascal, he did one nice language, which was a language called Euler.
-Euler was done around 1965 and was based on some work by a guy by the name of van Weingarten, which is not particularly important, but he was the guy who had the original, essentially it was to take ALGOL and try to be able to do everything that ALGOL could do without having to be without having to use as many features.
+**Alan Kay:** And I had already seen [Simula](Technologies.md#simula), and [Klaus Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth), you know, the guy who did Pascal, he had, before he did Pascal, he did one nice language, which was a language called Euler.
+Euler was done around 1965 and was based on some work by a guy by the name of van Weingarten, which is not particularly important, but he was the guy who had the original, essentially it was to take [ALGOL](Technologies.md#algol) and try to be able to do everything that ALGOL could do without having to be without having to use as many features.
 
 **Alan Kay:** So what it turned out to be was a language a lot like Lisp, but coming from the other direction.
 So it was a very simple language, but it had the same power as ALGOL, in fact, a little more power than ALGOL.
@@ -127,7 +127,7 @@ People looking at photo conductors, people doing optics.
 So these are all of the basic technologies in xerography.
 And then there was us.
 
-**Alan Kay:** Xerox, a couple of years before this, had bought themselves a computer company, and so they had a company called Xerox Data Systems, and they wanted to be in the computer business.
+**Alan Kay:** Xerox, a couple of years before this, had bought themselves a computer company, and so they had a company called [Xerox Data Systems](Institutions.md#xerox-data-systems), and they wanted to be in the computer business.
 So they hired some computer science researchers, I think partly because they were trying to be in lots of different businesses.
 But also had bought a bunch of education companies.
 They bought several education publishers, and so forth.
@@ -155,7 +155,7 @@ That was it.
 
 ### Introduction of Dynabook Concept
 
-**Yoot Saito:** Then you raised your ideas by the computer media, like well, Dynabook.
+**Yoot Saito:** Then you raised your ideas by the computer media, like well, [Dynabook](Technologies.md#dynabook).
 
 **Alan Kay:** Yeah, you know, basically there were a whole bunch of things going on.
 Everybody there, again you have to realize a lot of this stuff came from Xerox not knowing quite what it should do about computers, then there were ten years of ARPA research in the '60s, which is all about what people thought the destiny of computers was to be, which was to be an interactive complimentary partner.
@@ -163,7 +163,7 @@ Everybody there, again you have to realize a lot of this stuff came from Xerox n
 ### Networking and Distributed Computing at PARC
 
 **Alan Kay:** So, one of the things that everybody agreed on was that things were going to be networked.
-A lot of us had worked on the ARPANET.
+A lot of us had worked on the [ARPANET](Technologies.md#arpanet).
 Networking was going to be important, and more than that, distributive computing, which is a phrase I think [Butler Lampson](https://en.wikipedia.org/wiki/Butler_Lampson) made up, but distributive computing was going to be the way computing was going to be done.
 
 **Alan Kay:** So the computers were getting cheaper.
@@ -176,7 +176,7 @@ We wanted to be able to share a variety of computer resources in various ways.
 In other words, take it off the mainframe and put it on the distributed minis.
 
 **Alan Kay:** In fact, that was done, or something like that was done.
-It turned out that the Alto was actually over that architecture.
+It turned out that the [Alto](Technologies.md#xerox-alto) was actually over that architecture.
 
 **Alan Kay:** I'm just pointing out that the Alto won out over that as not an official project until it was already done.
 It was kind of done for fun and in secret a little bit.
@@ -185,7 +185,7 @@ It was kind of done for fun and in secret a little bit.
 
 **Yoot Saito:** So you were considered from XE, Xerox executive privilege.
 
-**Alan Kay:** Yeah, there was, the story on that is complicated, but actually the story is put forth in some detail in there so you get a chance to see it, but basically, the computer people wanted to have a PDP-10, which was made by DEC, because everybody else in the ARPANET, the ARPA group had PDP-10's and we wanted to be compatible.
+**Alan Kay:** Yeah, there was, the story on that is complicated, but actually the story is put forth in some detail in there so you get a chance to see it, but basically, the computer people wanted to have a [PDP-10](Technologies.md#pdp-10), which was made by DEC, because everybody else in the ARPANET, the ARPA group had PDP-10's and we wanted to be compatible.
 People wanted to use the Lisp which was on the PDP-10, which was done at <x> ***[inaudible]***.
 
 **Alan Kay:** Xerox didn't want the computer people to have a PDP-10, because they were selling Sigma 7's.
@@ -260,7 +260,7 @@ That's also described in there.
 ### Development of Creative Computing Tools
 
 **Alan Kay:** In order to do the early font stuff, we decided to build a high-resolution video character generator system.
-I decided I would get five more of those things built, and I would get Novas, that Data General Novas, and I would just put together five systems that I could do work on.
+I decided I would get five more of those things built, and I would get Novas, that [Data General](Institutions.md#data-general) Novas, and I would just put together five systems that I could do work on.
 I had about two hundred and thirty thousand dollars or so to do this.
 
 **Alan Kay:** That summer, we got, I was doing painting when I started working, the first painting system.
@@ -273,7 +273,7 @@ We could show a demo of what this thing was going to be like.
 
 ### Implementation of Smalltalk
 
-**Yoot Saito:** Was it done by Smalltalk functions?
+**Yoot Saito:** Was it done by [Smalltalk](Technologies.md#smalltalk) functions?
 
 **Alan Kay:** No, Smalltalk didn't exist yet.
 There was a design for a language called Smalltalk '71, but it wasn't implemented.
@@ -293,7 +293,7 @@ Also, he was very interested in making a Nova that was ten times as fast, becaus
 
 **Yoot Saito:** Nova was ten times as fast as what?
 
-**Alan Kay:** No, a machine that was ten times as fast as a Data General Nova.
+**Alan Kay:** No, a machine that was ten times as fast as a [Data General Nova](Technologies.md#data-general-nova).
 
 **Yoot Saito:** Nova, what is it short for?
 
@@ -387,7 +387,7 @@ That was a really good idea, and he actually came up with a very nice way of rec
 
 ### Development of Ethernet at PARC
 
-**Yoot Saito:** Ethernet was developed through these periods?
+**Yoot Saito:** [Ethernet](Technologies.md#ethernet) was developed through these periods?
 
 **Alan Kay:** Same period.
 [Robert Metcalfe](https://en.wikipedia.org/wiki/Robert_Metcalfe) and [David Boggs](https://en.wikipedia.org/wiki/David_Boggs), and, I think it started working at the end of, the Alto started working April '73.
@@ -474,7 +474,7 @@ So the idea of having a display biased towards black on...
 The Alto you could flip it either way too.
 
 **Alan Kay:** But we people, it was slightly biased toward the black on white because we were quite sure the people would like it better.
-So that idea we got pretty much from Douglas Engelbart's practice.
+So that idea we got pretty much from [Douglas Engelbart](People.md#douglas-engelbart-oregon-state-university-uc-berkeley-sri-tymshare-mcdonnell-douglas-bootstrap-institute-the-douglas-engelbart-institute)'s practice.
 
 ### Legacy of PARC's Projects
 
@@ -596,7 +596,7 @@ You may know Dr. Timothy Leary for example, the concept of this movement was to 
 Some of the people at [Engelbart's](https://en.wikipedia.org/wiki/Douglas_Engelbart), ask him about it, and some of the people at PARC were very heavily into the counter-culture stuff, and there were a number of us who weren't particularly, but it still was in the air.
 
 **Alan Kay:** I think that the radicalism just helped.
-I think that it was easier to do things like what we did at Xerox PARC in California than in, to do it around MIT at that time.
+I think that it was easier to do things like what we did at [Xerox PARC](Institutions.md#xerox-parc-palo-alto-research-center) in California than in, to do it around MIT at that time.
 
 **Yoot Saito:** West Coast is more heavy.
 
@@ -641,7 +641,7 @@ If they had realized what we were doing, then I don't think it would have been a
 
 ### Departure from Xerox PARC
 
-**Yoot Saito:** After that you left PARC to go to Atari.
+**Yoot Saito:** After that you left PARC to go to [Atari](Institutions.md#atari).
 
 **Alan Kay:** I left PARC in 1981.
 
@@ -838,7 +838,7 @@ He did a lot of criticism and got them to think of better ways of doing it.
 
 **Alan Kay:** And the things that were bad about the Lisa and especially the Mac were the stuff that you don't see, like the network.
 The absences of a hard disk.
-Those happen I think because Steve Jobs was not a systems person, so he didn't think of those things as being important, he just wanted to do MacDraw.
+Those happen I think because [Steve Jobs](People.md#steve-jobs-reed-college-apple-inc-next) was not a systems person, so he didn't think of those things as being important, he just wanted to do MacDraw.
 I mean MacPaint.
 That was another thing that was very unpopular when I came in, and I told them that MacDraw was the best thing that was on the Macintosh.
 Steve hated MacDraw.
