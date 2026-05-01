@@ -7,6 +7,7 @@ A cleaned-up, annotated transcript of Yoot Saito’s 1993 MACWORLD Japan intervi
 - [Introduction](Introduction.md)
 - [Full Interview Transcript](Yoot_Saito_Alan_Kay_Interview.md)
 - [Original Page Scans](Scans.md)
+- [Alan Kay Complete Paper + Appendices](EarlyHistoryOfSmalltalk-Complete.md)
 - [Alan Kay: The Early History Of Smalltalk](EarlyHistoryOfSmalltalk.md)
 - [Alan Kay Paper Index](EarlyHistoryOfSmalltalk-Index.md)
 - [People](People.md)
@@ -24,8 +25,9 @@ Credit and thanks to [Brett Victor](https://worrydream.com/) for creating and pu
 
 The local appendix files preserve additional material around the MACWORLD Japan interview, page scans, and appendix images/transcripts that are not all visible in that online rendering.
 
-## Alan Kay Paper Sections
+## Alan Kay Paper And Appendices
 
+- [Complete local paper + appendices guide](EarlyHistoryOfSmalltalk-Complete.md)
 - [Abstract](EarlyHistoryOfSmalltalk.md#abstract)
 - [Introduction](EarlyHistoryOfSmalltalk.md#introduction)
 - [I. 1960-66: Early OOP and formative ideas](EarlyHistoryOfSmalltalk.md#i-1960-66-early-oop-and-other-formative-ideas-of-the-sixties)
@@ -35,18 +37,13 @@ The local appendix files preserve additional material around the MACWORLD Japan 
 - [V. 1976-80: The first modern Smalltalk](EarlyHistoryOfSmalltalk.md#v-1976-80-the-first-modern-smalltalk-76-its-birth-applications-and-improvements)
 - [VI. 1980-83: Smalltalk-80 release version](EarlyHistoryOfSmalltalk.md#vi-1980-83-the-release-version-of-smalltalk-80)
 - [Coda](EarlyHistoryOfSmalltalk.md#coda)
-- [Complete paper index with subsections and figures](EarlyHistoryOfSmalltalk-Index.md)
-
-## Appendices
-
-These appendices preserve supporting material from Alan Kay’s papers and presentations, including figures and slides that are missing from some online versions.
-
 - [Appendix I: Personal Computer Memo](Appendix-I.md)
 - [Appendix II: Smalltalk Interpreter Design](Appendix-II.md)
 - [Appendix III: Acknowledgments](Appendix-III.md)
 - [Appendix IV: Event Driven Loop Example](Appendix-IV.md)
 - [Appendix V: Smalltalk-76 Internal Structures](Appendix-V.md)
 - [Appendix VI: Smalltalk Documentation, HOPL Talk, and Discussion](Appendix-VI.md)
+- [Detailed paper body index with subsections and figures](EarlyHistoryOfSmalltalk-Index.md)
 
 The original `.txt` files are kept alongside these Markdown renderings as raw OCR/source text.
 
@@ -54,6 +51,7 @@ The original `.txt` files are kept alongside these Markdown renderings as raw OC
 
 - `Appendix-I.txt` through `Appendix-VI.txt` now have Markdown companions.
 - Brett Victor’s `index.html` is rendered locally as `EarlyHistoryOfSmalltalk.md`.
+- `EarlyHistoryOfSmalltalk-Complete.md` introduces and indexes Alan Kay’s paper body plus the local appendices.
 - `EarlyHistoryOfSmalltalk-Index.md` provides a separate index for Alan Kay’s paper sections and figures.
 - Brett Victor’s source PNGs are rendered locally as `EarlyHistoryOfSmalltalk-*.png`.
 - `Linking-Index.md` documents the local index pages used to cross-link first mentions in the narrative documents.
