@@ -11,6 +11,8 @@ This dialogue, captured on a cassette tape and transcribed, spans the evolution 
 [Yoot Saito](People.md#yutaka-yoot-saito-waseda-university-macworld-japan-maxis-vivarium-openbook), celebrated for his innovative approach to game design, and Alan Kay, known for his seminal contributions such as the development of the graphical user interface and the concept of the Dynabook, offer profound insights into both the historical trajectory and the potential futures of the digital world.
 This interview serves as a treasure trove of historical anecdotes, philosophical reflections, and forward-looking innovations, capturing a moment when two brilliant minds discussed the dynamics of technological progress.
 
+> Context: Kay and Saito appear to be using Kay's HOPL paper, [The Early History Of Smalltalk](EarlyHistoryOfSmalltalk.md), and its appendix material as a shared reference during the conversation. When Kay says "in that," "in there," "in the book," or "in the appendix," the nearby links point to the relevant local paper section or restored appendix where possible.
+
 ## Beginning of [Yoot Saito's](https://en.wikipedia.org/wiki/Yoot_Saito) Interview with [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay)
 
 ### MACWORLD Japan 1994 Special Issue for Macintosh Ten Year Anniversary
@@ -35,7 +37,7 @@ So in this interview, I would like to ask you for past things, not only the futu
 **Alan Kay:** What my college history was I went to college for two years, then I went into the Air Force for a few years, and then I came out and went for another couple of years and graduated.
 Then I went to Utah.
 Utah was an [ARPA](Institutions.md#arpa-advanced-research-projects-agency) project.
-Also, you will find we can do this interview, but you will also find a lot of material in that, because it has all of that.
+Also, you will find we can do this interview, but you will also find a lot of material in [The Early History Of Smalltalk](EarlyHistoryOfSmalltalk.md), because it has all of that.
 
 ### Impact of Flex Machine Project
 
@@ -64,7 +66,7 @@ So that was a desktop machine as well and that was 1962.
 **Alan Kay:** So Wes had been the designer of some fairly large, he was associated with the National Institutes of Health for some bio-medical experiments.
 He had been the designer of some fairly large, he was associated with the Whirlwind computer, a very famous old computer, and he was also the designer of this big computer that [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland) used for [Sketchpad](Technologies.md#sketchpad), and then he decided that he would do a little computer, almost as a kit.
 
-**Alan Kay:** That first summer in 1962 I think 20 people, master of fact that's in the book as well, 20 people that were in the biomedical sciences came out and assembled their own machines.
+**Alan Kay:** That first summer in 1962 I think 20 people, master of fact that's in [the paper](EarlyHistoryOfSmalltalk.md#i-1960-66early-oop-and-other-formative-ideas-of-the-sixties) as well, 20 people that were in the biomedical sciences came out and assembled their own machines.
 So the idea was that if they could put the machine together and get it running, then they could take care of it.
 
 **Alan Kay:** Of course there wasn't any customer service back then.
@@ -185,7 +187,7 @@ It was kind of done for fun and in secret a little bit.
 
 **Yoot Saito:** So you were considered from XE, Xerox executive privilege.
 
-**Alan Kay:** Yeah, there was, the story on that is complicated, but actually the story is put forth in some detail in there so you get a chance to see it, but basically, the computer people wanted to have a [PDP-10](Technologies.md#pdp-10), which was made by DEC, because everybody else in the ARPANET, the ARPA group had PDP-10's and we wanted to be compatible.
+**Alan Kay:** Yeah, there was, the story on that is complicated, but actually the story is put forth in some detail in [the Xerox PARC section of the paper](EarlyHistoryOfSmalltalk.md#iii-1970-72xerox-parc-the-kiddikomp-minicom-and-smalltalk-71) so you get a chance to see it, but basically, the computer people wanted to have a [PDP-10](Technologies.md#pdp-10), which was made by DEC, because everybody else in the ARPANET, the ARPA group had PDP-10's and we wanted to be compatible.
 People wanted to use the Lisp which was on the PDP-10, which was done at <x> ***[inaudible]***.
 
 **Alan Kay:** Xerox didn't want the computer people to have a PDP-10, because they were selling Sigma 7's.
@@ -226,7 +228,7 @@ And when it came time to do the Alto, this technology was already understood and
 **Alan Kay:** Well the actual, the way that came about is I designed a computer I call mini-com.
 Mini-com was about the size of a small boom box.
 It was about this big.
-There is a picture in there of it.
+There is [a picture in there](EarlyHistoryOfSmalltalk-minicom.png) of it.
 That's it.
 
 **Alan Kay:** It was about the summer of '71 that was designed.
@@ -242,7 +244,7 @@ That’s what I wanted to do.
 
 ### Funding and Building Mini-Coms
 
-**Alan Kay:** Actually in the appendix of this thing, there is a memo that I wrote the next year saying that it is time to do this.
+**Alan Kay:** Actually in [the appendix of this thing](Appendix-I.md), there is a memo that I wrote the next year saying that it is time to do this.
 What happened was...
 I gave a whole bunch of reasons.
 
@@ -312,12 +314,12 @@ So these three sets of desires sort of coalesced in the Alto.
 
 ### Creation of Smalltalk Language
 
-**Yoot Saito:** The other thing that happened then was, also it's described in there, there is a conversation in the hallway about languages.
+**Yoot Saito:** The other thing that happened then was, also it's described in [the Smalltalk-72 section](EarlyHistoryOfSmalltalk.md#iv-1972-76the-first-real-smalltalk-72-its-birth-applications-and-improvements), there is a conversation in the hallway about languages.
 How powerful, how much work did you have to do to do a really powerful computer language, and I said, just a half a page.
 Half a page is all, because Lisp itself can be described in a half page.
 
 **Alan Kay:** So these guys in the hallway said, put up or shut up, so that's when I actually sat down and actually designed Smalltalk.
-Part of the way the design worked out in order for its description, which is in here in the appendix, right here, basically I spent about a week and a half figuring out this, and that is basically all of Smalltalk in itself.
+Part of the way the design worked out in order for its description, which is in here in [the interpreter-design appendix](Appendix-II.md), right here, basically I spent about a week and a half figuring out this, and that is basically all of Smalltalk in itself.
 It's basically an all object oriented language written in itself.
 That was all done for fun.
 
@@ -361,7 +363,7 @@ This is kind of like Newton's laws or Maxwell's equations.
 When you do one of these things, it's, one of the most interesting things about computers is that you can do a universal language, just like Maxwell's equations are just four equations and it's just about all the electromagnetic radiation in the universe.
 
 **Alan Kay:** So this is sort of an example of the application of science.
-You can read about that.
+You can read about that in [the Smalltalk interpreter design appendix](Appendix-II.md).
 
 ### Implementation and Impact of Smalltalk
 

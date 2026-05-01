@@ -299,3 +299,69 @@ He and Alan Kay devised a "retrieval by example" system called "Findit" that was
 Niklaus Wirth, a prominent figure in computer science, made significant contributions to the field of software engineering and programming languages. In 1966, he developed several influential programming languages, including Pascal, which played a pivotal role in advancing structured programming concepts. His work is renowned for emphasizing compactness and efficiency in code, principles that became foundational to software engineering.
 
 Wirth’s innovations prior to developing Pascal notably influenced Alan Kay’s thoughts on programming language design during Kay's tenure at Xerox PARC. This cross-pollination of ideas helped shape the structured programming approach that Kay implemented in his projects. Wirth’s early contributions are recognized for their instrumental role in defining the methodologies that underpin modern programming practices, reflecting his lasting impact on the discipline.
+
+### [Jerome Bruner (Duke University, Harvard University, University of Oxford, New York University)](https://en.wikipedia.org/wiki/Jerome_Bruner):
+Jerome Bruner is mentioned by Alan Kay as one of the thinkers whose work helped shape the educational and cognitive background for personal computing and Smalltalk.
+
+### [Robert Balzer (RAND, USC Information Sciences Institute)](https://en.wikipedia.org/wiki/Robert_Balzer):
+Robert Balzer is listed by Kay among the people and systems whose influence is difficult to fully allocate in a compact history of Smalltalk and object-oriented programming.
+
+### [Daniel G. Bobrow (RPI, Harvard, MIT, BBN, Xerox PARC, CSL, PARC)](https://en.wikipedia.org/wiki/Daniel_G._Bobrow):
+Daniel G. Bobrow was a major AI and programming-language researcher associated with BBN and Xerox PARC. Kay mentions him among the many contributors and influences surrounding the ARPA/PARC research community.
+
+### [Steve Carr (University of Utah)](https://en.wikipedia.org/wiki/Computer_Systems_Laboratory_(University_of_Utah)):
+Steve Carr is mentioned by Kay among the people whose work or presence influenced the early research environment around graphics, personal computing, and Smalltalk.
+
+### [Bill Duvall (SRI International)](https://en.wikipedia.org/wiki/SRI_International):
+Bill Duvall is mentioned by Kay among the broader ARPA/PARC community influences connected with interactive computing and networked systems.
+
+### [Laura Gould (Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/):
+Laura Gould is mentioned by Kay among the people whose contributions or influence are present in the early Smalltalk history but not fully elaborated in the paper.
+
+### [David Liddle (University of Michigan, University of Toledo, Xerox PARC, Metaphor Computer Systems, Interval Research Corporation, US Venture Partners)](https://en.wikipedia.org/wiki/David_Liddle):
+David Liddle was part of the Xerox PARC community and later worked on user-interface and personal-computing systems. Kay lists him among the people whose influence is part of the broader Smalltalk and PARC story.
+
+### [William Newman (University of Michigan, University of London, Xerox PARC, Rank Xerox EuroPARC)](https://en.wikipedia.org/wiki/William_Newman_(computer_scientist)):
+William Newman was a computer graphics and human-computer interaction researcher. Kay mentions him among the wider set of people whose work influenced the history around Smalltalk and personal computing.
+
+### [Bill Paxton (Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/):
+Bill Paxton is mentioned by Kay among the people connected with the PARC and Smalltalk research context.
+
+### [Douglas T. Ross (Oberlin College, MIT, SofTech)](https://en.wikipedia.org/wiki/Douglas_T._Ross):
+Douglas T. Ross was a pioneer in computer-aided design and programming-language work. Kay lists him among the important figures whose influence is part of the larger history.
+
+### [Paul Rovner (MIT Lincoln Laboratory, Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/):
+Paul Rovner worked on AMBIT/G and later at Xerox PARC. Kay mentions him among the broader programming-language and PARC influences.
+
+### [Daniel Swinehart (Carnegie Mellon University, Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/):
+Daniel Swinehart is mentioned by Kay among the broader group of researchers connected with the PARC and Smalltalk environment.
+
+### [Warren Teitelman (Caltech, MIT, BBN, Xerox PARC)](https://en.wikipedia.org/wiki/Warren_Teitelman):
+Warren Teitelman was a key Lisp and interactive-programming researcher. Kay lists him among the figures whose work shaped the intellectual background of Smalltalk.
+
+### [John Warnock (University of Utah, IBM, Xerox PARC, Adobe Systems)](https://en.wikipedia.org/wiki/John_Warnock):
+John Warnock, later co-founder of Adobe, is mentioned by Kay among the broader community of researchers and system builders around PARC and interactive computing.
+
+### [Michael S. Mahoney (Princeton University)](https://en.wikipedia.org/wiki/Michael_Sean_Mahoney):
+Michael S. Mahoney is thanked by Kay for comments and guidance that improved the historical essay.
+
+### [Jean Sammet (Mount Holyoke College, University of Illinois at Urbana-Champaign, IBM)](https://en.wikipedia.org/wiki/Jean_E._Sammet):
+Jean Sammet is thanked by Kay for pushing him to finish the historical account. She was also a major historian of programming languages.
+
+### Sherri McLoughlin (Apple Computer):
+Sherri McLoughlin is thanked by Kay for help getting the materials together for the Smalltalk history paper.
+
+### Kim Rose (Apple Computer, Viewpoints Research Institute):
+Kim Rose is thanked by Kay for help getting the materials together for the Smalltalk history paper and later worked with Kay on learning and computing projects.
+
+### [Alan Borning (Reed College, Stanford University, University of Washington)](https://en.wikipedia.org/wiki/Alan_Borning):
+Alan Borning created ThingLab, a constraint-oriented simulation laboratory implemented in Smalltalk and discussed in Kay's historical material.
+
+### [Jef Raskin (Stony Brook University, Pennsylvania State University, University of California San Diego, Apple Inc.)](https://en.wikipedia.org/wiki/Jef_Raskin):
+Jef Raskin was an Apple human-computer interaction designer and Macintosh project initiator. Kay mentions him in connection with the Apple audience that saw PARC ideas.
+
+### Dr. Hubbert (Unknown):
+Dr. Hubbert is mentioned in the Yoot Saito interview in connection with Japanese writing about the Flex Machine project. The exact identity and role are uncertain in the transcript.
+
+### van Weingarten (Unknown):
+Van Weingarten is mentioned in the Yoot Saito interview as an influence connected with simplifying programming languages around the time of Euler. The transcript is uncertain; this may need verification.

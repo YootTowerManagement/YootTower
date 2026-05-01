@@ -14,12 +14,12 @@ Credit and thanks to [Brett Victor](https://worrydream.com/) for publishing the 
 
 - [Abstract](EarlyHistoryOfSmalltalk.md#abstract)
 - [Introduction](EarlyHistoryOfSmalltalk.md#introduction)
-- [I. 1960-66: Early OOP and formative ideas](EarlyHistoryOfSmalltalk.md#i-1960-66-early-oop-and-other-formative-ideas-of-the-sixties)
-- [II. 1967-69: The FLEX Machine](EarlyHistoryOfSmalltalk.md#ii-1967-69-the-flex-machine-a-first-attempt-at-an-oop-based-personal-computer)
-- [III. 1970-72: Xerox PARC, KiddiKomp, miniCOM, Smalltalk-71](EarlyHistoryOfSmalltalk.md#iii-1970-72-xerox-parc-the-kiddikomp-minicom-and-smalltalk-71)
-- [IV. 1972-76: The first real Smalltalk-72](EarlyHistoryOfSmalltalk.md#iv-1972-76-the-first-real-smalltalk-72-its-birth-applications-and-improvements)
-- [V. 1976-80: The first modern Smalltalk-76](EarlyHistoryOfSmalltalk.md#v-1976-80-the-first-modern-smalltalk-76-its-birth-applications-and-improvements)
-- [VI. 1980-83: Smalltalk-80 release version](EarlyHistoryOfSmalltalk.md#vi-1980-83-the-release-version-of-smalltalk-80)
+- [I. 1960-66: Early OOP and formative ideas](EarlyHistoryOfSmalltalk.md#i-1960-66early-oop-and-other-formative-ideas-of-the-sixties)
+- [II. 1967-69: The FLEX Machine](EarlyHistoryOfSmalltalk.md#ii-1967-69the-flex-machine-a-first-attempt-at-an-oop-based-personal-computer)
+- [III. 1970-72: Xerox PARC, KiddiKomp, miniCOM, Smalltalk-71](EarlyHistoryOfSmalltalk.md#iii-1970-72xerox-parc-the-kiddikomp-minicom-and-smalltalk-71)
+- [IV. 1972-76: The first real Smalltalk-72](EarlyHistoryOfSmalltalk.md#iv-1972-76the-first-real-smalltalk-72-its-birth-applications-and-improvements)
+- [V. 1976-80: The first modern Smalltalk-76](EarlyHistoryOfSmalltalk.md#v-1976-80the-first-modern-smalltalk-76-its-birth-applications-and-improvements)
+- [VI. 1980-83: Smalltalk-80 release version](EarlyHistoryOfSmalltalk.md#vi-1980-83the-release-version-of-smalltalk-80)
 - [Coda](EarlyHistoryOfSmalltalk.md#coda)
 
 ## Restored Appendices
