@@ -8,6 +8,7 @@ A cleaned-up, annotated transcript of Yoot Saito’s 1993 MACWORLD Japan intervi
 - [Full Interview Transcript](Yoot_Saito_Alan_Kay_Interview.md)
 - [Original Page Scans](Scans.md)
 - [Alan Kay: The Early History Of Smalltalk](EarlyHistoryOfSmalltalk.md)
+- [Alan Kay Paper Index](EarlyHistoryOfSmalltalk-Index.md)
 - [People](People.md)
 - [Institutions](Institutions.md)
 - [Glossary](Glossary.md)
@@ -22,6 +23,19 @@ Brett Victor’s HTML edition of Alan Kay’s HOPL paper, [The Early History Of 
 Credit and thanks to [Brett Victor](https://worrydream.com/) for creating and publishing the cleaned-up HTML edition and accompanying image set in the [worrydream/EarlyHistoryOfSmalltalk](https://github.com/worrydream/EarlyHistoryOfSmalltalk) repository. The local `EarlyHistoryOfSmalltalk-*` files are derived from that work.
 
 The local appendix files preserve additional material around the MACWORLD Japan interview, page scans, and appendix images/transcripts that are not all visible in that online rendering.
+
+## Alan Kay Paper Sections
+
+- [Abstract](EarlyHistoryOfSmalltalk.md#abstract)
+- [Introduction](EarlyHistoryOfSmalltalk.md#introduction)
+- [I. 1960-66: Early OOP and formative ideas](EarlyHistoryOfSmalltalk.md#i-1960-66-early-oop-and-other-formative-ideas-of-the-sixties)
+- [II. 1967-69: The FLEX Machine](EarlyHistoryOfSmalltalk.md#ii-1967-69-the-flex-machine-a-first-attempt-at-an-oop-based-personal-computer)
+- [III. 1970-72: Xerox PARC, KiddiKomp, miniCOM, Smalltalk-71](EarlyHistoryOfSmalltalk.md#iii-1970-72-xerox-parc-the-kiddikomp-minicom-and-smalltalk-71)
+- [IV. 1972-76: The first real Smalltalk](EarlyHistoryOfSmalltalk.md#iv-1972-76-the-first-real-smalltalk-72-its-birth-applications-and-improvements)
+- [V. 1976-80: The first modern Smalltalk](EarlyHistoryOfSmalltalk.md#v-1976-80-the-first-modern-smalltalk-76-its-birth-applications-and-improvements)
+- [VI. 1980-83: Smalltalk-80 release version](EarlyHistoryOfSmalltalk.md#vi-1980-83-the-release-version-of-smalltalk-80)
+- [Coda](EarlyHistoryOfSmalltalk.md#coda)
+- [Complete paper index with subsections and figures](EarlyHistoryOfSmalltalk-Index.md)
 
 ## Appendices
 
@@ -40,6 +54,7 @@ The original `.txt` files are kept alongside these Markdown renderings as raw OC
 
 - `Appendix-I.txt` through `Appendix-VI.txt` now have Markdown companions.
 - Brett Victor’s `index.html` is rendered locally as `EarlyHistoryOfSmalltalk.md`.
+- `EarlyHistoryOfSmalltalk-Index.md` provides a separate index for Alan Kay’s paper sections and figures.
 - Brett Victor’s source PNGs are rendered locally as `EarlyHistoryOfSmalltalk-*.png`.
 - `Linking-Index.md` documents the local index pages used to cross-link first mentions in the narrative documents.
 - `Institutions.txt`, `Technoligies.txt`, and `Timeline.txt` now have Markdown companions.
