@@ -15,7 +15,6 @@ A cleaned-up, annotated transcript of Yoot Saito’s 1993 MACWORLD Japan intervi
 - [Glossary](Glossary.md)
 - [Technologies](Technologies.md)
 - [Timeline](Timeline.md)
-- [Linking Index](Linking-Index.md)
 
 ## Online Reference
 
@@ -54,7 +53,6 @@ The original `.txt` files are kept alongside these Markdown renderings as raw OC
 - `EarlyHistoryOfSmalltalk-Complete.md` introduces and indexes Alan Kay’s paper body plus the local appendices.
 - `EarlyHistoryOfSmalltalk-Index.md` provides a separate index for Alan Kay’s paper sections and figures.
 - Brett Victor’s source PNGs are rendered locally as `EarlyHistoryOfSmalltalk-*.png`.
-- `Linking-Index.md` documents the local index pages used to cross-link first mentions in the narrative documents.
 - `Institutions.txt`, `Technoligies.txt`, and `Timeline.txt` now have Markdown companions.
 - `Technoligies.txt` is rendered as `Technologies.md`; the original misspelled source filename is preserved.
 - `Notes.txt` remains a raw research notebook rather than a polished document.

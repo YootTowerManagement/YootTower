@@ -22,8 +22,7 @@ Data General is noted for its development of the Nova, a series of minicomputers
 The Nova's design influenced Alan Kay's development work at Xerox PARC and was considered for acceleration in computing capabilities.
 
 ### [MACWORLD Japan](https://en.wikipedia.org/wiki/Macworld/iWorld)
-MACWORLD Japan, a magazine focused on Apple products and technology, hosted the interview between Yoot Saito and Alan Kay.
-The special issue was intended to celebrate significant milestones in computing, particularly reflecting on the history and future of technologies like the Macintosh.
+MACWORLD Japan was a Japanese Apple-focused magazine. Yoot Saito conducted the Alan Kay interview for a special issue connected with the Macintosh anniversary.
 
 ### [MIT (Massachusetts Institute of Technology)](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology)
 MIT is where Ivan Sutherland developed Sketchpad, an early graphical interface that influenced subsequent generations of graphical computing research.
@@ -45,11 +44,11 @@ Founded in 1946, SRI is notable for its development of groundbreaking technologi
 These innovations laid foundational work for interactive computing, significantly influencing the development of personal computing and user interface design.
 SRI's pioneering work, particularly Engelbart's contributions, resonated through Alan Kay's philosophies and the design principles of Xerox PARC, shaping modern computing interfaces and personal computers.
 
-### [Xerox PARC (Palo Alto Research Center)](https://en.wikipedia.org/wiki/PARC_(company))
-The Palo Alto Research Center (PARC), originally part of Xerox and now operated by SRI International, played a pivotal role in the development of personal computing and graphical user interfaces.
-Founded in 1970, PARC became a breeding ground for revolutionary technologies such as the computer mouse, developed from Douglas Engelbart's earlier innovations at SRI.
-This technology, along with the development of the desktop metaphor and graphical user interface (GUI), were integral to the creation of the Xerox Alto.
-These innovations profoundly influenced Alan Kay's work on user interface design and the development of object-oriented programming at Xerox PARC, which in turn impacted the broader tech industry and shaped modern computing.
+### [University of Utah](https://en.wikipedia.org/wiki/University_of_Utah_School_of_Computing)
+The University of Utah's computer science program was a major ARPA-funded center for computer graphics and interactive computing. Alan Kay studied there and encountered Sketchpad, Simula, and the research community that shaped his later work on the Flex Machine, Dynabook, and Smalltalk.
+
+### USAF ATG
+USAF ATG developed the concept of representation independence and wrapping in the early 1960s, ideas that became fundamental to data abstraction in software engineering.
 
 ### [Xerox Data Systems](https://en.wikipedia.org/wiki/Scientific_Data_Systems)
 Xerox Data Systems (XDS) was a division of Xerox aimed at penetrating the computer business during a critical period when computing technology was rapidly evolving.
@@ -57,5 +56,8 @@ Established after Xerox's acquisition of Scientific Data Systems in 1969, XDS so
 However, XDS represented the broader corporate ambitions of Xerox to expand into computing beyond the pioneering graphical user interface and personal computing developments at PARC.
 This division highlighted Xerox's strategic attempts to capture a significant share of the burgeoning computer industry, reflecting the company's broader corporate ambitions during a transformative era in technology.
 
-USAF ATG
-Developed the concept of representation independence and wrapping in the early 1960s, fundamental to data abstraction in software engineering.
+### [Xerox PARC (Palo Alto Research Center)](https://en.wikipedia.org/wiki/PARC_(company))
+The Palo Alto Research Center (PARC), originally part of Xerox and now operated by SRI International, played a pivotal role in the development of personal computing and graphical user interfaces.
+Founded in 1970, PARC became a breeding ground for revolutionary technologies such as the computer mouse, developed from Douglas Engelbart's earlier innovations at SRI.
+This technology, along with the development of the desktop metaphor and graphical user interface (GUI), were integral to the creation of the Xerox Alto.
+These innovations profoundly influenced Alan Kay's work on user interface design and the development of object-oriented programming at Xerox PARC, which in turn impacted the broader tech industry and shaped modern computing.

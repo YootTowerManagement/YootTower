@@ -4,8 +4,8 @@ Imported local Markdown and PNG companions from Brett Victor's cleaned-up HTML e
 
 Credit and thanks to [Brett Victor](https://worrydream.com/) for creating and publishing the cleaned-up HTML edition and image set. This local import is derived from his public [worrydream/EarlyHistoryOfSmalltalk](https://github.com/worrydream/EarlyHistoryOfSmalltalk) repository.
 
-- Source page: https://worrydream.com/EarlyHistoryOfSmalltalk/
-- Source repository: https://github.com/worrydream/EarlyHistoryOfSmalltalk
+- Source page: [Brett Victor's Early History of Smalltalk](https://worrydream.com/EarlyHistoryOfSmalltalk/)
+- Source repository: [worrydream/EarlyHistoryOfSmalltalk](https://github.com/worrydream/EarlyHistoryOfSmalltalk)
 - Local Markdown: [EarlyHistoryOfSmalltalk.md](EarlyHistoryOfSmalltalk.md)
 - PDFs were not imported; the Markdown links back to the source repository for those.
 

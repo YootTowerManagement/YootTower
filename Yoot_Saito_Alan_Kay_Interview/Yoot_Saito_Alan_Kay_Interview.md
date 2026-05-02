@@ -335,8 +335,6 @@ People could hardly believe this today, it seems to take years.
 **Alan Kay:** Yeah.
 What I did was...
 
-**[Transition to next page or continuation of thought might be needed here]**
-
 **END SIDE A - TO SIDE B**
 
 **Alan Kay:** ...from what I had done, they criticize.

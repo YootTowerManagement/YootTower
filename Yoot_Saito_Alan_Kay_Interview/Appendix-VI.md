@@ -97,7 +97,7 @@ NLS
 1964-1966
 modern operating system
 GENIE
-Englebart
+Engelbart
 1964
 programming for children
 LOGO
@@ -724,7 +724,7 @@ But, in 1986, with a new head of the Office Systems Group, and some friendly ear
 
 
 (SLIDE 15) After five years, the language base has not changed a lot, although the implementation technology has been completely redesigned and implemented. It is the first truly reusable, fully-com-piled, Smalltalk system. Creating an application on one of 11 ParcPlace platforms means that your application runs on 11, without your doing any more work. But those ports are compiled to the host instruction set, access host operating system features, and host windowing and graphics. We have
-changed the virtual machine and the object engine; we have extended the notion of late binding to run-time compilation and execution in the context of late binding of application-level specification of policies for graphics and for user interaction.
+changed the virtual machine and the object engine; we have extended the notion of late binding to runtime compilation and execution in the context of late binding of application-level specification of policies for graphics and for user interaction.
 
 
 ![Slide 16](Appendix-VI-Goldberg-Slide-16.png)

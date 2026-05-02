@@ -56,5 +56,4 @@ Credit and thanks to [Brett Victor](https://worrydream.com/) for publishing the 
 - [Institutions](Institutions.md)
 - [Technologies](Technologies.md)
 - [Timeline](Timeline.md)
-- [Linking Index](Linking-Index.md)
 

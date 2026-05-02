@@ -58,7 +58,7 @@ SketchPad & [Simula](Technologies.md#simula)
 
 - II 1967-69—The [FLEX](Technologies.md#flex-machine) Machine, an OOP-based personal computer
 [6](#ii-1967-69the-flex-machine-a-first-attempt-at-an-oop-based-personal-computer)
-Doug Englebart and NLS
+Doug Engelbart and NLS
 Plasma Panel, [GRAIL](Technologies.md#grail), LOGO, Dynabook
 
 - III. 1970-72—[Xerox PARC](Institutions.md#xerox-parc-palo-alto-research-center) [12](#iii-1970-72xerox-parc-the-kiddikomp-minicom-and-smalltalk-71)
@@ -367,7 +367,7 @@ however, was tortuously rendered in an "extended precedence" grammar that actual
 concessions in the language syntax (e.g. "," could only be used in one role because the precedence
 scheme had no state space). I initially adopted a bottom-up Floyd-Evans parser (adapted from Jerry 
 Feldman's original compiler-compiler [Feldman 1977]) and later went to various top-down schemes,
-several of them related to Shorre's [META II](Technologies.md#meta-ii) [Shorre 1963] that eventually put the translater in the name
+several of them related to Shorre's [META II](Technologies.md#meta-ii) [Shorre 1963] that eventually put the translator in the name
 space of the language.
 
 The semantics of what was now called the [FLEX](Technologies.md#flex-machine) language needed to be influenced more by [Simula](Technologies.md#simula)
@@ -696,7 +696,7 @@ struggling Berkeley Computer Corp to PARC. This group included [Butler Lampson](
 Deutsch, Jim Mitchell, Dick Shoup, Willie Sue Haugeland, and Ed Fiala. Jim Mitchell urged the group
 to hire [Ed McCreight](People.md#ed-mccreight-college-of-wooster-cmu-xerox-parc-boeing-adobe) from CM and he arrived soon after. Gary Starkweather was there already,
 having been thrown out of the Xerox Rochester Labs for wanting to build a laser printer (which was
-against the local religion). Not long after, many of Doug [Englebart](People.md#douglas-engelbart-oregon-state-university-uc-berkeley-sri-tymshare-mcdonnell-douglas-bootstrap-institute-the-douglas-engelbart-institute)'s people joined up—part of the
+against the local religion). Not long after, many of Doug [Engelbart](People.md#douglas-engelbart-oregon-state-university-uc-berkeley-sri-tymshare-mcdonnell-douglas-bootstrap-institute-the-douglas-engelbart-institute)'s people joined up—part of the
 reason was that they want to reimplement NLS as a distributed network system, and Doug wanted to
 stay with time-sharing. The group included [Bill English](People.md#bill-english-xerox-parc-sri-sun-microsystems) (the co-inventor of the mouse), [Jeff Rulifson](People.md#jeff-rulifson-university-of-washington-stanford-university-sri-xerox-parc),
 and [Bill Paxton](People.md#bill-paxton-xerox-parc).
@@ -2222,7 +2222,7 @@ really did run on batteries and several of us had the
 pleasure of taking *[NoteTaker](Technologies.md#notetaker)* on a plane and running an
 [object-oriented](Technologies.md#object-oriented-programming-oop) system with a windowed interface at 35,000 feet.
 
-![Design for NoteTaker interface [Ka 79], What Steve Jobs saw, Multiviews on complex structure by Trygive Reeskaug (above) Multimedia documents by Bob Flegal and Dlana Merry (below)](EarlyHistoryOfSmalltalk-designfornotetaker.png)
+![Design for NoteTaker interface [Ka 79], What Steve Jobs saw, Multiviews on complex structure by Trygve Reenskaug (above) Multimedia documents by Bob Flegal and Diana Merry (below)](EarlyHistoryOfSmalltalk-designfornotetaker.png)
 
 We eventually built about 10 of the machines, and
 though in many senses an engineering success, what had to

@@ -27,11 +27,11 @@ I think the uses for a personal gadget as an editor, reader, take-home-context, 
 
 Although there are many "educational" things that can be done once the device is built, I have had four basic projects in mind from the start.
 
-- **Teaching "thinking".** Teaching "thinking' (à la Papert) through giving the kids a franchise for the strategies, tactics, and model visualization that are the fun (and important) part of the design and debugging of programs. Fringe b e n e fi t s include usage as a medium for symbols allowing editing of text and pictures.
+- **Teaching "thinking".** Teaching "thinking' (à la Papert) through giving the kids a franchise for the strategies, tactics, and model visualization that are the fun (and important) part of the design and debugging of programs. Fringe benefits include usage as a medium for symbols allowing editing of text and pictures.
 
 - **Teaching "models".** Teaching "models" through "simulation" of systems with similar semantics and different syntax. This could be grouped with (a) although the emphasis is a bit different. The initial two systems would be music and programming and would be an extension of some stuff I did at Utah in 1969-1970 with the organ/computer there.
 
-- **Teaching "interface" skills.** Teaching "interface" s kills such as "seeing" and "hearing." The initial "seeing" project would be an investigation into how reading might be taught via combining iconic and audible representation of works in a manner reminiscent of Bloomfield and Moore. This would require a corollary inquiry into why good readers do so much better than average readers. A farther off project in the domain of sight would be an investigation into the nature and topology of kids' internal models for objects and an effort to perserve iconic imagery from being totally replaced by a relational model.
+- **Teaching "interface" skills.** Teaching "interface" skills such as "seeing" and "hearing." The initial "seeing" project would be an investigation into how reading might be taught via combining iconic and audible representation of works in a manner reminiscent of Bloomfield and Moore. This would require a corollary inquiry into why good readers do so much better than average readers. A farther off project in the domain of sight would be an investigation into the nature and topology of kids' internal models for objects and an effort to preserve iconic imagery from being totally replaced by a relational model.
 
 - **Finding out what children do unofficially.** Finding out what children would do (if anything) "unofficially" during non-school hours with such a gadget through invisible 'demons", which are little processes that watch surreptitiously.
 
