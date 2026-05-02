@@ -18,8 +18,8 @@ He also valued sharing ideas and the collective excitement of discovery, often q
 
 ### [Patrick Baudelaire (University of Utah, Xerox PARC)](https://dl.acm.org/doi/pdf/10.1145/234286.1057828)
 Patrick Baudelaire was affiliated with the University of Utah and Xerox PARC. The Smalltalk acknowledgments list him among the broader PARC community connected with the project, and related sources connect him with early computer graphics work.
-- [University of Utah School of Computing: ARPANET](https://en.wikipedia.org/wiki/University_of_Utah_School_of_Computing#ARPANET)
-- [Video Lab article on Patrick Baudelaire](https://journals.uc.edu/index.php/vl/article/view/5920)
+The [University of Utah School of Computing: ARPANET](https://en.wikipedia.org/wiki/University_of_Utah_School_of_Computing#ARPANET) section gives context for Utah's role in the ARPA research network around early computer graphics and interactive computing.
+[The Xerox Alto Font Design System](https://journals.uc.edu/index.php/vl/article/view/5920) documents a related Alto-era graphics and font-design system associated with Patrick Baudelaire.
 
 ### [Daniel G. Bobrow (RPI, Harvard, MIT, BBN, Xerox PARC, CSL, PARC)](https://en.wikipedia.org/wiki/Daniel_G._Bobrow)
 Daniel G. Bobrow was a major AI and programming-language researcher associated with BBN and Xerox PARC. Kay mentions him among the many contributors and influences surrounding the ARPA/PARC research community.
@@ -45,7 +45,7 @@ Jerome Bruner is mentioned by Alan Kay as one of the thinkers whose work helped 
 
 ### [Dennis Burke (Xerox PARC)](https://dl.acm.org/doi/pdf/10.1145/234286.1057828)
 Dennis Burke is listed as a 12-year-old child intern in the Smalltalk acknowledgments, reflecting the Learning Research Group's practice of involving children as users and testers.
-- [Personal Dynamic Media](https://worrydream.com/refs/Kay_1976_-_Personal_Dynamic_Media_(LRG).pdf)
+[Personal Dynamic Media](https://worrydream.com/refs/Kay_1976_-_Personal_Dynamic_Media_(LRG).pdf) provides contemporary Learning Research Group context for children using Smalltalk and personal dynamic media.
 
 ### [Steve Capps (RIT, Xerox PARC, Apple Inc., Microsoft, Kwedit)](https://en.wikipedia.org/wiki/Steve_Capps)
 Steve Capps, known for his pivotal role at Apple Inc., contributed significantly to the original Macintosh computer, particularly in implementing its user interface. His early exposure to graphical user interfaces at Xerox Corporation deeply influenced his work, allowing him to integrate innovative concepts from Xerox PARC into Apple's systems.
@@ -85,7 +85,7 @@ Deutsch also wrote "Ghostscript," the GNU PostScript implementation, first publi
 
 After Xerox PARC, Deutsch spent several years at Sun Microsystems and continued to contribute to computing. He is recognized for his valuable insights into Smalltalk and PostScript, maintaining a legendary reputation in the computing community.
 
-- [C2 Wiki: Peter Deutsch](https://wiki.c2.com/?PeterDeutsch)
+[C2 Wiki: Peter Deutsch](https://wiki.c2.com/?PeterDeutsch) collects community notes on Peter Deutsch and his Smalltalk, Lisp, and Ghostscript work.
 
 ### Dr. Hubbert (Unknown)
 Dr. Hubbert is an unverified name from the Yoot Saito interview transcript, mentioned in connection with Japanese writing about the Flex Machine project.
@@ -126,18 +126,17 @@ David Allen Fisher is recognized for his pioneering approach to control structur
 
 ### [Bob Flegal (Xerox PARC)](https://en.wikipedia.org/wiki/Pixel_art)
 Bob Flegal is listed in the Smalltalk acknowledgments among people from other PARC groups who assisted the project. He is also associated with early pixel art and SuperPaint.
-- [Computer History Museum collection record](https://www.computerhistory.org/collections/catalog/102801358)
+[Toolbox Illustrator Studies](https://www.computerhistory.org/collections/catalog/102801358) is a Computer History Museum collection record for related Xerox PARC graphics material.
 
 ### [Henry Fuchs (University of Utah, Xerox PARC)](https://en.wikipedia.org/wiki/Henry_Fuchs)
 During the summer and early fall of 1972, Henry Fuchs took part in discussions with Alan Kay at Xerox PARC that shaped Smalltalk-72.
-- [UNC: Henry Fuchs](https://cs.unc.edu/person/henry-fuchs/)
+[Henry Fuchs - UNC Computer Science](https://cs.unc.edu/person/henry-fuchs/) gives Fuchs's later academic profile and research context.
 
 ### [Adele Goldberg (University of Michigan, University of Chicago, Stanford University, Xerox PARC, ACM)](https://en.wikipedia.org/wiki/Adele_Goldberg_%28computer_scientist%29)
 Adele Goldberg, a key member of the Learning Research Group led by Alan Kay at Xerox PARC, significantly contributed to the development, documentation, and promotion of Smalltalk's educational potential. Her work focused on making computing accessible to younger users, influencing the design of educational programming environments for children and laying foundational concepts for future educational technologies and user interface design. Her efforts were pivotal in conceptualizing products like the Dynabook and in the research and development of programming language design, educational methods, and user interfaces.
 
 ### [Marian Goldeen (Xerox PARC)](https://worrydream.com/refs/Ingalls_2020_-_The_Evolution_of_Smalltalk.pdf)
 Marian Goldeen, a child intern at Xerox PARC, was involved in the Smalltalk project at the age of 13. Her participation underscores the project's dedication to developing user-friendly interfaces and educational tools designed for children. She tested and provided valuable feedback on the system's usability.
-- [Marian Goldeen on LinkedIn](https://www.linkedin.com/in/mariangoldeen/)
 
 ### [Laura Gould (Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 Laura Gould is mentioned by Kay among the people whose contributions or influence are present in the early Smalltalk history but not fully elaborated in the paper.
@@ -163,7 +162,7 @@ Lisa Jack was a child intern at Xerox PARC, contributing to the Smalltalk projec
 
 ### [Chris Jeffers (Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 Chris Jeffers is mentioned in the Smalltalk acknowledgments as part of the Learning Research Group during 1971 and 1972.
-- [Alan Kay at OOPSLA 1997: The Computer Revolution Has Not Happened Yet](https://tinlizzie.org/IA/index.php/Alan_Kay_at_OOPSLA_1997:_The_Computer_Revolution_has_not_Happened_Yet)
+[Alan Kay at OOPSLA 1997: The Computer Revolution has not Happened Yet](https://tinlizzie.org/IA/index.php/Alan_Kay_at_OOPSLA_1997:_The_Computer_Revolution_has_not_Happened_Yet) gives later context for Kay's views on personal computing and children using computers.
 
 ### [Steve Jobs (Reed College, Apple Inc., NeXT)](https://en.wikipedia.org/wiki/Steve_Jobs)
 Steve Jobs, co-founder of Apple Inc., was significantly influenced by his visits to Xerox PARC, where he was introduced to the graphical user interface. These experiences shaped his vision and played a pivotal role in the development of Apple's innovative products, including the Lisa and Macintosh computers. His time at Xerox PARC highlighted the importance of intuitive, user-friendly interfaces in personal computing.
@@ -212,10 +211,10 @@ Marshall McLuhan, a pioneering Canadian philosopher and communication theorist, 
 
 ### [Diana Merry-Shapiro (Xerox PARC)](https://en.wikipedia.org/wiki/Diana_Merry)
 A member of the Learning Research Group, she significantly contributed to the development, testing, and application of the Smalltalk system, focusing on educational technology and learning methodologies. Her involvement was pivotal in integrating and refining the BitBLT graphics operation, enhancing the system's capabilities in graphical manipulation and display.
-- [Casa Susanna trailer](https://www.youtube.com/watch?v=5sTUaO3PNkQ)
-- [Hammer to Nail review of Casa Susanna](https://www.hammertonail.com/reviews/casa-susanna/)
-- [Culture Mix coverage tagged Diana Merry-Shapiro](https://culturemixonline.com/tag/diana-merry-shapiro/)
-- [Culture Mix review of Casa Susanna](https://culturemixonline.com/review-casa-susanna-starring-katherine-cummings-diana-merry-shapiro-betsy-wollheim-and-gregory-bagarozy/)
+[Casa Susanna official trailer](https://www.youtube.com/watch?v=5sTUaO3PNkQ) gives cultural context for Diana Merry-Shapiro's later life and public history.
+[CASA SUSANNA](https://www.hammertonail.com/reviews/casa-susanna/) reviews the documentary context around Diana Merry-Shapiro.
+[Culture Mix coverage tagged Diana Merry-Shapiro](https://culturemixonline.com/tag/diana-merry-shapiro/) collects related coverage about Diana Merry-Shapiro.
+[Culture Mix review of Casa Susanna](https://culturemixonline.com/review-casa-susanna-starring-katherine-cummings-diana-merry-shapiro-betsy-wollheim-and-gregory-bagarozy/) describes the documentary in which Diana Merry-Shapiro appears.
 
 ### [Robert Metcalfe (MIT, Harvard, Xerox PARC, 3COM)](https://en.wikipedia.org/wiki/Robert_Metcalfe)
 Robert "Bob" Metcalfe co-invented Ethernet with David Boggs at Xerox PARC and later founded 3Com. His networking work formed part of the PARC environment in which Alto and Smalltalk systems were developed.
@@ -233,11 +232,11 @@ William Newman was a computer graphics and human-computer interaction researcher
 
 ### [Mike Overton (Xerox PARC)](https://dl.acm.org/doi/pdf/10.1145/234286.1057828)
 Mike Overton is listed in the Smalltalk acknowledgments among people from other PARC groups who assisted the project.
-- [Personal Computing, 1975](https://michaelnotebook.com/notes/kay/Personal_Computing_1975.pdf)
+[Personal Computing, 1975](https://michaelnotebook.com/notes/kay/Personal_Computing_1975.pdf) preserves related Alan Kay material from the period of PARC personal-computing work.
 
 ### [George Pake (Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 George Pake, as the head of Xerox PARC, played a pivotal role in steering innovative research and development within the organization. Recruited from his position as chancellor at Washington University, Pake's leadership was instrumental in shaping the direction of early personal computing initiatives, including the development of the KiddiKomputer. His ability to assemble a team of world-class scientists and engineers, referred to as the "Architects of Information," fostered a hothouse of innovation at PARC. Under his oversight, PARC was responsible for breakthroughs in various technologies such as laser printing, graphical user interfaces, Ethernet, digital video, word processing, multi-beam solid-state lasers, and very large-scale integrated circuits (VLSI), marking significant advancements in the field of computing and beyond.
-- [Computer History Museum: Laser Printer](https://www.computerhistory.org/revolution/input-output/14/348)
+[Xerox PARC - CHM Revolution](https://www.computerhistory.org/revolution/input-output/14/348) summarizes PARC's laser-printer and office-system context under George Pake's leadership.
 
 ### [Seymour Papert (MIT, University of Geneva, University of Paris, National Physical Laboratory)](https://en.wikipedia.org/wiki/Seymour_Papert)
 Seymour Papert, a significant figure at MIT and a pioneer in the integration of technology and education, collaborated closely with Marvin Minsky and Alan Kay, influencing major developments in educational technology and artificial intelligence. Through his partnership with Minsky, Papert co-developed the Logo programming language in the late 1960s, aiming to enhance the computational thinking and problem-solving skills of children. This language featured the innovative "Logo Turtle," a ground-breaking tool that enabled children to program a small robotic device, fostering an interactive learning environment. Papert's work not only facilitated direct engagement with complex ideas but also democratized access to programming, reflecting his commitment to using technology to empower learners.
@@ -249,11 +248,11 @@ Bill Paxton is mentioned by Kay among the people connected with the PARC and Sma
 
 ### [Radia Perlman (Xerox PARC)](https://dl.acm.org/doi/pdf/10.1145/234286.1057828)
 Radia Perlman is listed among students in the Smalltalk acknowledgments. She later became widely known for major contributions to computer networking.
-- [CodinGame: 10 Trailblazing Women in Tech History](https://www.codingame.com/work/hr-news-trends/10-trailblazing-women-in-tech-history/)
-- [ABC Bootcamps: Women in Tech](https://abcbootcamps.com/women-in-tech/)
-- [TinyMCE: Women in Tech History](https://www.tiny.cloud/blog/women-in-tech-history/)
-- [ComputerScience.org: Influential Women in Computer Science](https://www.computerscience.org/resources/most-influential-women-computer-science/)
-- [Oz Science: Radia Perlman at LCA 2013](https://ozscience.com/interviews/radia-perlman-at-lca-2013/)
+[10 Trailblazing Women in Tech History](https://www.codingame.com/work/hr-news-trends/10-trailblazing-women-in-tech-history/) gives broader public context for Radia Perlman's later reputation in networking.
+[Breaking Barriers: Women Who Shaped the Future of Tech](https://abcbootcamps.com/women-in-tech/) places Perlman in a broader women-in-technology history.
+[Women in Tech: Five contributors to today's internet](https://www.tiny.cloud/blog/women-in-tech-history/) gives another overview of Perlman's later networking contributions.
+[Most Influential Women Computer Scientists](https://www.computerscience.org/resources/most-influential-women-computer-science/) lists Perlman among major figures in computer science history.
+[Oz Science: Radia Perlman at LCA 2013](https://ozscience.com/interviews/radia-perlman-at-lca-2013/) provides an interview-style later-career source for Perlman.
 
 ### [Steve Purcell (Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 Steve Purcell was actively involved at Xerox PARC in 1972, where he played a crucial role in reviewing early versions of Smalltalk-72. His participation in this phase was vital in providing feedback and insights that helped refine and enhance the development of the Smalltalk programming language, contributing to its foundational structure and capabilities.
@@ -299,9 +298,9 @@ John Shoch was deeply involved in the development of Smalltalk at Xerox PARC in 
 
 ### [Richard G. Shoup (CMU, Xerox PARC)](https://en.wikipedia.org/wiki/Richard_Shoup_%28programmer%29)
 Richard G. Shoup worked at Xerox PARC and is best known for SuperPaint, an early full-color computer graphics system. The Smalltalk acknowledgments list him among the broader PARC community connected with the project.
-- [CHM: Richard Shoup and SuperPaint](https://medium.com/chmcore/richard-shoup-superpaint-51b5c2136620)
-- [Computer History Museum collection record for SuperPaint](https://www.computerhistory.org/collections/catalog/102713047)
-- [The Evolution of Smalltalk](https://worrydream.com/refs/Ingalls_2020_-_The_Evolution_of_Smalltalk.pdf)
+[Richard Shoup and SuperPaint](https://medium.com/chmcore/richard-shoup-superpaint-51b5c2136620) describes Shoup's pioneering color graphics system at PARC.
+[Super Paint Xerox PARC - Dick Shoup](https://www.computerhistory.org/collections/catalog/102713047) is a Computer History Museum collection record for Shoup's SuperPaint work.
+[The Evolution of Smalltalk](https://worrydream.com/refs/Ingalls_2020_-_The_Evolution_of_Smalltalk.pdf) provides a later historical account of Smalltalk that mentions many PARC contributors.
 
 ### [Bob Shur (Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 Bob Shur at Xerox PARC was instrumental in the design and implementation of the "Animator" feature in Smalltalk, working alongside Steve Purcell. His contributions were crucial in developing dynamic and interactive elements within the Smalltalk programming environment, significantly enhancing its visual appeal and engagement. Shur's work on the Animator helped transform Smalltalk into a more robust and visually interactive platform, which not only attracted users but also showcased the potential of graphical programming environments. His efforts were pivotal in pushing the boundaries of what could be achieved in software design and user interface at the time.
@@ -329,9 +328,9 @@ Warren Teitelman was a key Lisp and interactive-programming researcher. Kay list
 
 ### [Bonnie Tenenbaum (Stanford University, Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 Bonnie Tenenbaum is listed in the Smalltalk acknowledgments as involved with the project at Xerox PARC in 1972.
-- [Stanford GSE remembrance of Bonnie Tenenbaum](https://ed.stanford.edu/news/alumna-bonnie-tenenbaum-educator-and-philanthropist-remembered-her-generosity-students)
-- [Palo Alto Daily Post obituary for Arlene Bonnie Tenenbaum](https://padailypost.com/2020/11/03/arlene-bonnie-tenenbaum/)
-- [K12IRC: Dr. Bonnie Tenenbaum](https://k12irc.org/dr-bonnie-tenenbaum/)
+[Alumna Bonnie Tenenbaum, educator and philanthropist, remembered for her generosity to students](https://ed.stanford.edu/news/alumna-bonnie-tenenbaum-educator-and-philanthropist-remembered-her-generosity-students) gives later biographical context for Bonnie Tenenbaum.
+[Arlene "Bonnie" Tenenbaum](https://padailypost.com/2020/11/03/arlene-bonnie-tenenbaum/) is an obituary source for Bonnie Tenenbaum's later life.
+[Dr. Bonnie Tenenbaum 1944-2020](https://k12irc.org/dr-bonnie-tenenbaum/) adds another remembrance of Tenenbaum's educational work.
 
 ### [Larry Tesler (Stanford University, Xerox PARC, Apple Inc., Amazon, Yahoo!)](https://en.wikipedia.org/wiki/Larry_Tesler)
 Larry Tesler was instrumental during his tenure at Xerox PARC, particularly in the mid-1970s, where he contributed to the development of Smalltalk. His expertise in user interface design brought significant innovations that helped shape the interactive computing elements of Smalltalk. Tesler's role often involved collaborating with other groups at PARC, providing additional insights and technical skills that enhanced the project's development and implementation.
@@ -340,10 +339,10 @@ Furthermore, Tesler played a pivotal role in the demonstration of PARC's technol
 
 ### [Truett Thach (Xerox PARC, BBN)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 Truett Thach is listed in the Smalltalk acknowledgments among people connected with the project at Xerox PARC.
-- [Wired: Creators](https://www.wired.com/1994/12/creators/)
-- [Harvard Magazine: A Science Is Born](https://www.harvardmagazine.com/2020/08/features-a-science-is-born)
-- [Sutori: History of the Internet](https://www.sutori.com/en/story/history-of-internet--hyzFbdLJ8sEyoAGq4u7imMoA)
-- [Living Internet: ARPANET](https://www.livinginternet.com/i/ii_arpanet.htm)
+[The Creators](https://www.wired.com/1994/12/creators/) gives later cultural context for people and ideas connected with early networked computing.
+[Computer science at Harvard in the 1960s and 1970s](https://www.harvardmagazine.com/2020/08/features-a-science-is-born) gives institutional context for the ARPA-era computing community.
+[History of the Internet](https://www.sutori.com/en/story/history-of-internet--hyzFbdLJ8sEyoAGq4u7imMoA) provides a broad timeline context for ARPANET and early Internet development.
+[ARPANET](https://www.livinginternet.com/i/ii_arpanet.htm) summarizes the network background for Taylor, ARPA, and the PARC research community.
 
 ### [Chuck Thacker (UC Berkeley, Xerox PARC, DEC, Microsoft)](https://en.wikipedia.org/wiki/Charles_P._Thacker)
 Chuck Thacker played a pivotal role at Xerox PARC, particularly in the development of the Alto, one of the first personal computers, which laid the technological foundations for future computing innovations. His involvement from 1972 to 1976 was crucial in creating foundational technologies that influenced not only the KiddiKomputer project but also the broader evolution of personal computing. Thacker’s contributions to the Alto, often referred to as the "interim Dynabook," directly impacted the development of the Smalltalk programming environment, providing essential technological insights that shaped its design.
