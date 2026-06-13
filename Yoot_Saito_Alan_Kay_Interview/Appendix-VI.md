@@ -1,6 +1,6 @@
 # Appendix VI: Smalltalk Documentation, HOPL Talk, and Discussion
 
-> Source note: Readable Markdown rendering from the local OCR/plain-text transcription. OCR spellings are mostly preserved; formatting has been added for GitHub readability. Brett Victor's HTML edition of the paper is at [The Early History Of Smalltalk](https://worrydream.com/EarlyHistoryOfSmalltalk/), with the scanned original linked from that page.
+> Source note: Readable Markdown rendering from the local OCR/plain-text transcription. OCR spellings are mostly preserved; formatting has been added for GitHub readability. Bret Victor's HTML edition of the paper is at [The Early History Of Smalltalk](https://worrydream.com/EarlyHistoryOfSmalltalk/), with the scanned original linked from that page.
 
 This local appendix extends the paper material with a documentation inventory, references, Alan Kay's HOPL presentation transcript, [Adele Goldberg](People.md#adele-goldberg-university-of-michigan-university-of-chicago-stanford-university-xerox-parc-acm)'s discussant remarks, the Q&A, and slide stills preserved in this repository.
 

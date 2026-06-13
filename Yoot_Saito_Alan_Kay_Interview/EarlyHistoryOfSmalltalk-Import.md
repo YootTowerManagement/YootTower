@@ -1,10 +1,10 @@
-# Brett Victor EarlyHistoryOfSmalltalk Import
+# Bret Victor EarlyHistoryOfSmalltalk Import
 
-Imported local Markdown and PNG companions from Brett Victor's cleaned-up HTML edition of Alan Kay's HOPL paper.
+Imported local Markdown and PNG companions from Bret Victor's cleaned-up HTML edition of Alan Kay's HOPL paper.
 
-Credit and thanks to [Brett Victor](https://worrydream.com/) for creating and publishing the cleaned-up HTML edition and image set. This local import is derived from his public [worrydream/EarlyHistoryOfSmalltalk](https://github.com/worrydream/EarlyHistoryOfSmalltalk) repository.
+Credit and thanks to [Bret Victor](https://worrydream.com/) for creating and publishing the cleaned-up HTML edition and image set. This local import is derived from his public [worrydream/EarlyHistoryOfSmalltalk](https://github.com/worrydream/EarlyHistoryOfSmalltalk) repository.
 
-- Source page: [Brett Victor's Early History of Smalltalk](https://worrydream.com/EarlyHistoryOfSmalltalk/)
+- Source page: [Bret Victor's Early History of Smalltalk](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 - Source repository: [worrydream/EarlyHistoryOfSmalltalk](https://github.com/worrydream/EarlyHistoryOfSmalltalk)
 - Local Markdown: [EarlyHistoryOfSmalltalk.md](EarlyHistoryOfSmalltalk.md)
 - PDFs were not imported; the Markdown links back to the source repository for those.

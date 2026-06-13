@@ -1,6 +1,6 @@
 # Appendix IV: Event Driven Loop Example
 
-> Source note: Readable Markdown rendering from the local OCR/plain-text transcription. OCR spellings are mostly preserved; formatting has been added for GitHub readability. Brett Victor's HTML edition of the paper is at [The Early History Of Smalltalk](https://worrydream.com/EarlyHistoryOfSmalltalk/), with the scanned original linked from that page.
+> Source note: Readable Markdown rendering from the local OCR/plain-text transcription. OCR spellings are mostly preserved; formatting has been added for GitHub readability. Bret Victor's HTML edition of the paper is at [The Early History Of Smalltalk](https://worrydream.com/EarlyHistoryOfSmalltalk/), with the scanned original linked from that page.
 
 
 First we make a class for events:

@@ -1,8 +1,8 @@
 # Alan Kay Paper Index
 
-A direct reading index for [Alan Kay: The Early History Of Smalltalk](EarlyHistoryOfSmalltalk.md), the local Markdown conversion of Brett Victor's cleaned-up HTML edition.
+A direct reading index for [Alan Kay: The Early History Of Smalltalk](EarlyHistoryOfSmalltalk.md), the local Markdown conversion of Bret Victor's cleaned-up HTML edition.
 
-Credit and thanks to [Brett Victor](https://worrydream.com/) for the cleaned-up source edition and image set imported here.
+Credit and thanks to [Bret Victor](https://worrydream.com/) for the cleaned-up source edition and image set imported here.
 
 ## Paper Sections
 

@@ -13,4 +13,4 @@ Use the dedicated indexes for detailed entries and cross-references.
 
 - [Alan Kay's Early History of Smalltalk: Complete Local Edition](EarlyHistoryOfSmalltalk-Complete.md)
 - [Alan Kay Paper Index](EarlyHistoryOfSmalltalk-Index.md)
-- [Brett Victor import notes](EarlyHistoryOfSmalltalk-Import.md)
+- [Bret Victor import notes](EarlyHistoryOfSmalltalk-Import.md)

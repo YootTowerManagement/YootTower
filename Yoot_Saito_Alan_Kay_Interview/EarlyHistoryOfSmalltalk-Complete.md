@@ -2,13 +2,13 @@
 
 This is the local reading guide for Alan Kay's HOPL paper, **The Early History Of Smalltalk**, together with the restored appendix material, figures, presentation transcript, discussant remarks, Q&A, and related documentation preserved in this repository.
 
-Credit and thanks to [Brett Victor](https://worrydream.com/) for publishing the cleaned-up HTML edition of the paper body and accompanying image set at [worrydream/EarlyHistoryOfSmalltalk](https://github.com/worrydream/EarlyHistoryOfSmalltalk). The local [paper body](EarlyHistoryOfSmalltalk.md) and `EarlyHistoryOfSmalltalk-*` PNG files are derived from Brett's public edition. The appendix Markdown files here are local readable renderings from the OCR/plain-text appendix sources and local scans.
+Credit and thanks to [Bret Victor](https://worrydream.com/) for publishing the cleaned-up HTML edition of the paper body and accompanying image set at [worrydream/EarlyHistoryOfSmalltalk](https://github.com/worrydream/EarlyHistoryOfSmalltalk). The local [paper body](EarlyHistoryOfSmalltalk.md) and `EarlyHistoryOfSmalltalk-*` PNG files are derived from Bret's public edition. The appendix Markdown files here are local readable renderings from the OCR/plain-text appendix sources and local scans.
 
 ## Read The Paper
 
 - [The Early History Of Smalltalk](EarlyHistoryOfSmalltalk.md)
 - [Detailed paper body index](EarlyHistoryOfSmalltalk-Index.md)
-- [Brett Victor import notes and image manifest](EarlyHistoryOfSmalltalk-Import.md)
+- [Bret Victor import notes and image manifest](EarlyHistoryOfSmalltalk-Import.md)
 
 ## Main Paper Sections
 

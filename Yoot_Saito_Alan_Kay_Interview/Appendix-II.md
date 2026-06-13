@@ -1,6 +1,6 @@
 # Appendix II: Smalltalk Interpreter Design
 
-> Source note: Readable Markdown rendering from the local OCR/plain-text transcription. OCR spellings are mostly preserved; formatting has been added for GitHub readability. Brett Victor's HTML edition of the paper is at [The Early History Of Smalltalk](https://worrydream.com/EarlyHistoryOfSmalltalk/), with the scanned original linked from that page.
+> Source note: Readable Markdown rendering from the local OCR/plain-text transcription. OCR spellings are mostly preserved; formatting has been added for GitHub readability. Bret Victor's HTML edition of the paper is at [The Early History Of Smalltalk](https://worrydream.com/EarlyHistoryOfSmalltalk/), with the scanned original linked from that page.
 
 
 When I set out to win the bet, I realized that many of the details that have to be stated explicitly in McCarthy's elegant scheme can be finessed. For example, if there were objects that could handle various kinds of partial message receipt, such as evaluated, unevaluated, literal, and the like, then there would be no need to put any of those details in the eval. This is analogous to not having cond as a "special form," but instead to finding a basic building block in which COND can be defined like any other subpart.
