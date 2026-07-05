@@ -167,11 +167,11 @@ Thanks for your attention and any advice or collaboration you can contribute!
 
 ## Introduction
 
-This Open Source Yoot Tower repo encompasses the evolution and development of the "SimTower" game, created by Yoot Saito and later developed into "Yoot Tower" in the US and "The Tower II" in Japan. Published by Maxis, the game, initially released as "SimTower: The Vertical Empire" (or "The Tower" in Japan), is a construction and management simulation game for Windows and Macintosh System 7, developed by OPeNBooK and published in November 1994. It involves building and managing a tower, placing various facilities to achieve a five-star rating while dealing with random events like terrorist acts.
+This repo collects the source and history of Yoot Saito's tower-building games. The first, "SimTower: The Vertical Empire" (Japan: "The Tower"), was developed by OPeNBooK and published by Maxis in November 1994 for Windows and Macintosh System 7, with later ports to the Sega Saturn, 3DO, and PlayStation. Players build and manage a tower, placing facilities to reach a five-star rating while handling random events. The sequel was released as "Yoot Tower" in the US and "The Tower II" in Japan (1998-99), followed by handheld versions "The Tower SP" (Game Boy Advance) and "The Tower DS" (Nintendo DS).
 
-The Tower II introduced the ``Tower Kit`` an optional software allowing players to add new maps and stages, enhancing gameplay with new features. It also included a crossover element between redevelopment and a love story, set in New York. The game links to the movie "Gamera 3," featuring battles between Gamera and Gyaos in Tokyo, and offers a final showdown in Kyoto. Additionally, it offers a special package with maps related to the movie and various towerkit maps, enhancing the gaming experience.
+"The Tower II" added the "Tower Kit," optional software that adds new maps and stages, each with its own mechanics. One map ties into the movie "Gamera 3," with a Gamera-versus-Gyaos battle and a Kyoto scenario; a special package bundled Gamera-related maps.
 
-Discussions on Hacker News reflect the game's impact and its innovative approach to game design, including its start as an elevator simulator and its influence on the gaming community. Yoot Saito, the game's creator, also worked on other projects like "Mario Motors" and expressed interest in open-source development. His relationship with key figures in the gaming industry, such as Satoru Iwata and Shigeru Miyamoto, is highlighted, showcasing the game's significance in the industry and pop culture.
+The material below also covers Saito's later work (including the canceled "Mario Motors"), his interest in open-sourcing the code, and his friendships with Nintendo's Satoru Iwata and Shigeru Miyamoto, drawn from Hacker News threads, interviews, and Saito's own writing.
 
 ## Description
 

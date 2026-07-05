@@ -6,10 +6,8 @@
 
 ## Introduction
 
-In this captivating interview from 1993, recently unearthed and previously published only in Japan, renowned game designer [Yutaka "Yoot" Saito](https://en.wikipedia.org/wiki/Yoot_Saito) of [MACWORLD Japan](Institutions.md#macworld-japan) engages with computing pioneer [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay) in a deep exploration of technology's past and future.
-This dialogue, captured on a cassette tape and transcribed, spans the evolution of personal computing, highlighting groundbreaking advancements and visionary ideas that have shaped modern technology.
-[Yoot Saito](People.md#yutaka-yoot-saito-waseda-university-macworld-japan-maxis-vivarium-openbook), celebrated for his innovative approach to game design, and Alan Kay, known for his seminal contributions such as the development of the graphical user interface and the concept of the Dynabook, offer profound insights into both the historical trajectory and the potential futures of the digital world.
-This interview serves as a treasure trove of historical anecdotes, philosophical reflections, and forward-looking innovations, capturing a moment when two brilliant minds discussed the dynamics of technological progress.
+This is a 1993 interview by game designer [Yutaka "Yoot" Saito](https://en.wikipedia.org/wiki/Yoot_Saito) with [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay), recorded on cassette for [MACWORLD Japan](Institutions.md#macworld-japan)'s special issue marking the Macintosh's tenth anniversary (January 1994). It had only been published in Japan.
+Kay talks about his work at [Xerox PARC](Institutions.md#xerox-parc-palo-alto-research-center) on the graphical user interface, the [Dynabook](Technologies.md#dynabook), and [Smalltalk](Technologies.md#smalltalk), and about networking, education, and the future of personal computing. Saito connects these ideas to game design.
 
 > Context: Kay and Saito appear to be using Kay's HOPL paper, [The Early History Of Smalltalk](EarlyHistoryOfSmalltalk.md), and its appendix material as a shared reference during the conversation. When Kay says "in that," "in there," "in the book," or "in the appendix," the nearby links point to the relevant local paper section or restored appendix where possible.
 
@@ -30,7 +28,7 @@ So in this interview, I would like to ask you for past things, not only the futu
 
 ## Early Career and Education
 
-### Joining Apple Post-College
+### College, the Air Force, and Utah
 
 **Yoot Saito:** So after you graduated college, you joined Apple.
 
@@ -86,7 +84,7 @@ You could really call it a calculator.
 He and I became good friends, so I got interested in doing a very compact language for it.
 
 **Alan Kay:** And I had already seen [Simula](Technologies.md#simula), and [Klaus Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth), you know, the guy who did Pascal, he had, before he did Pascal, he did one nice language, which was a language called Euler.
-Euler was done around 1965 and was based on some work by a guy by the name of van Weingarten, which is not particularly important, but he was the guy who had the original, essentially it was to take [ALGOL](Technologies.md#algol) and try to be able to do everything that ALGOL could do without having to be without having to use as many features.
+Euler was done around 1965 and was based on some work by a guy by the name of van Weingarten ***[likely Adriaan van Wijngaarden]***, which is not particularly important, but he was the guy who had the original, essentially it was to take [ALGOL](Technologies.md#algol) and try to be able to do everything that ALGOL could do without having to be without having to use as many features.
 
 **Alan Kay:** So what it turned out to be was a language a lot like Lisp, but coming from the other direction.
 So it was a very simple language, but it had the same power as ALGOL, in fact, a little more power than ALGOL.
@@ -314,7 +312,7 @@ So these three sets of desires sort of coalesced in the Alto.
 
 ### Creation of Smalltalk Language
 
-**Yoot Saito:** The other thing that happened then was, also it's described in [the Smalltalk-72 section](EarlyHistoryOfSmalltalk.md#iv-1972-76the-first-real-smalltalk-72-its-birth-applications-and-improvements), there is a conversation in the hallway about languages.
+**Alan Kay:** The other thing that happened then was, also it's described in [the Smalltalk-72 section](EarlyHistoryOfSmalltalk.md#iv-1972-76the-first-real-smalltalk-72-its-birth-applications-and-improvements), there is a conversation in the hallway about languages.
 How powerful, how much work did you have to do to do a really powerful computer language, and I said, just a half a page.
 Half a page is all, because Lisp itself can be described in a half page.
 
@@ -324,7 +322,7 @@ It's basically an all object oriented language written in itself.
 That was all done for fun.
 
 **Alan Kay:** What happened was I went away on a trip and came back and [Dan Ingalls](https://en.wikipedia.org/wiki/Dan_Ingalls) had gotten that working, so all of a sudden we had a programming language.
-So it happened that when the Alto got done, in April of 1972, Smalltalk was working too.
+So it happened that when the Alto got done, in April of 1972 ***[1973; Kay dates the Alto to April '73 below, matching the paper]***, Smalltalk was working too.
 It was all done very quickly, just in a few months.
 People could hardly believe this today, it seems to take years.
 
@@ -367,7 +365,7 @@ You can read about that in [the Smalltalk interpreter design appendix](Appendix-
 
 **Yoot Saito:** Yes I will.
 
-**Alan Kay:** But it was in part because the thing was described that way that [Dan Ingalls](https://en.wikipedia.org/wiki/Dan_Ingalls)) could implement it in about a month or so.
+**Alan Kay:** But it was in part because the thing was described that way that [Dan Ingalls](https://en.wikipedia.org/wiki/Dan_Ingalls) could implement it in about a month or so.
 And he got a practical version going in just a couple of months, and when the Alto started working we were able to put Smalltalk on it in another month, and all of a sudden we had a system that was not just a programming system, but also active as the operating system of this machine.
 
 ## Development of the Alto Operating System
@@ -526,7 +524,7 @@ We just borrowed it, and that was why the display was actually too large in the 
 
 ### Introduction of Educational Computing at PARC
 
-**Alan Kay:** And after the Alto hardware is completed, you tried to do something very interesting with keys.
+**Yoot Saito:** And after the Alto hardware is completed, you tried to do something very interesting with kids.
 
 **Alan Kay:** Yes, we started...
 We brought in [Adele Goldberg](https://en.wikipedia.org/wiki/Adele_Goldberg_%28computer_scientist%29) and [Steve Weyer](https://worrydream.com/EarlyHistoryOfSmalltalk/) to set up the program with the kids, and we started that fall, the fall of '73 when we did our first kids' stuff. 
@@ -801,7 +799,7 @@ The truth was when you had a Lisa you had to have a five megabyte disk on top.
 Or somewhere else.
 
 **Alan Kay:** The thing I think was the fatal flaw, and I don't know who made the decision, but it was not to use a fast bit slice processor like Xerox PARC had used.
-Like I think one of the options was to the MD, American Micro Devices, 2901 bit slice processor.
+Like I think one of the options was to the MD, American Micro Devices ***[Advanced Micro Devices, AMD]***, 2901 bit slice processor.
 I think the reason they decided not to use it is they didn't think AMD would stay in business.
 It's still in business.
 Somebody, who didn't know very much, liked the 68000.

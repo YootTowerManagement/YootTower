@@ -1,7 +1,7 @@
 # People
 
 ### [Bill Atkinson (UC San Diego, University of Washington, Apple Inc.)](https://en.wikipedia.org/wiki/Bill_Atkinson)
-Bill Atkinson played a pivotal role at Apple Inc., where he developed graphical user interfaces for the Apple Lisa and Macintosh. He also created HyperCard, a precursor to the World Wide Web, enabling users to build interactive, multimedia-rich pages. Inspired by ideas from Xerox PARC, he integrated features like overlapping windows and drag-and-drop functionality, making software more accessible to the public.
+Bill Atkinson wrote much of the graphics software for the Apple Lisa and Macintosh, including QuickDraw and MacPaint, and later created HyperCard. He drew on ideas he saw at Xerox PARC during Apple's 1979 visits.
 
 ### [Ronald M. Baecker (MIT, University of Toronto, Columbia University)](https://en.wikipedia.org/wiki/Ronald_Baecker)
 Ronald M. Baecker is known for his 1969 MIT Ph.D. thesis on interactive computer-mediated animation. Kay lists him among visitors connected with the Smalltalk project at Xerox PARC.
@@ -27,9 +27,7 @@ Daniel G. Bobrow was a major AI and programming-language researcher associated w
 ### [David Boggs (Princeton, Stanford University, Xerox PARC, DEC, LAN Media Corporation)](https://en.wikipedia.org/wiki/David_Boggs)
 David Boggs worked at Xerox PARC and, with Robert Metcalfe, co-invented Ethernet. The Smalltalk acknowledgments list him among people from other PARC groups who assisted the project.
 
-Alongside Robert Metcalfe, Boggs co-invented Ethernet at Xerox PARC, a pivotal development in computer networking technology. His experience as an amateur radio operator influenced his understanding and implementation of networking concepts. Together, they developed Ethernet interfaces for the Xerox Alto and authored the seminal paper "Ethernet: Distributed Packet Switching for Local Computer Networks," laying the foundation for modern local area networks.
-
-At PARC, Boggs also contributed to the development of the PARC Universal Packet protocol, further solidifying his influence in computer networking. After his time at Xerox, he pursued advanced degrees at Stanford University and contributed to early Internet protocol research, including concepts that evolved into IP multicasting.
+With Robert Metcalfe, Boggs co-invented Ethernet at Xerox PARC and co-authored the 1976 paper "Ethernet: Distributed Packet Switching for Local Computer Networks." They built Ethernet interfaces for the Alto, and Boggs also worked on the PARC Universal Packet (PUP) protocol.
 
 ### [Alan Borning (Reed College, Stanford University, University of Washington)](https://en.wikipedia.org/wiki/Alan_Borning)
 Alan Borning created ThingLab, a constraint-oriented simulation laboratory implemented in Smalltalk and discussed in Kay's historical material.
@@ -48,7 +46,7 @@ Dennis Burke is listed as a 12-year-old child intern in the Smalltalk acknowledg
 [Personal Dynamic Media](https://worrydream.com/refs/Kay_1976_-_Personal_Dynamic_Media_(LRG).pdf) provides contemporary Learning Research Group context for children using Smalltalk and personal dynamic media.
 
 ### [Steve Capps (RIT, Xerox PARC, Apple Inc., Microsoft, Kwedit)](https://en.wikipedia.org/wiki/Steve_Capps)
-Steve Capps, known for his pivotal role at Apple Inc., contributed significantly to the original Macintosh computer, particularly in implementing its user interface. His early exposure to graphical user interfaces at Xerox Corporation deeply influenced his work, allowing him to integrate innovative concepts from Xerox PARC into Apple's systems.
+Steve Capps worked on the original Macintosh, including its user interface, and later co-designed the Apple Newton. Before Apple he worked at Xerox.
 
 Capps also led the development of the Apple Newton PDA and later contributed to Microsoft's Internet Explorer. Beyond his technical contributions, he has been an innovator in online and mobile payment systems through his work with PayNearMe, holding over 65 patents across various technology domains. His efforts consistently focus on making digital technology more accessible and user-friendly.
 
@@ -66,14 +64,13 @@ Despite JOSS's limitations in speed and functionality, they explored enhancement
 Larry Clark is listed in the Smalltalk acknowledgments among people from other PARC groups who assisted the project.
 
 ### [Wesley A. Clark (UC Berkeley, LINC, MIT, MIT Lincoln Laboratory, Washington University, Clark, Rockoff and Associates)](https://en.wikipedia.org/wiki/Wesley_A._Clark)
-Wesley A. Clark, known for his work at UC Berkeley, MIT, and Washington University, was instrumental in the development of the LINC computer in 1962. Often recognized as the first personal computer, the LINC was one of the earliest examples of a minicomputer designed for individual use, demonstrating the feasibility and value of small, powerful computing devices.
-Alan Kay credits Clark's influence on early computing as pivotal to his own vision for personal and accessible computing devices. Clark's work on the LINC set a foundational precedent for making technology more user-friendly and impactful on individual users, ultimately shaping the future of personal computing.
+Wesley A. Clark designed the LINC (1962), a small computer that biomedical researchers could assemble and run themselves. Kay cites the LINC as an early personal computer and one of the precedents for his own view of individual computing.
 
 ### [Melvin E. Conway (Case Western Reserve University, California Institute of Technology, Burroughs)](https://en.wikipedia.org/wiki/Melvin_Conway)
 Melvin E. Conway, known for his work at Case Western Reserve University, Caltech, and Burroughs, is recognized for his contributions to compiler design and the development of "Conway's Law" in 1963. His law, stating that "organizations design systems that mirror their own communication structure," has had a significant influence on software development and organizational studies.
 
 ### [Ole-Johan Dahl (University of Oslo)](https://nl.wikipedia.org/wiki/Ole-Johan_Dahl)
-Ole-Johan Dahl, affiliated with the University of Oslo, co-developed Simula, the first object-oriented programming language, in 1966 and 1970. His work on Simula significantly influenced modern programming paradigms and laid the foundation for object-oriented programming.
+Ole-Johan Dahl, with Kristen Nygaard at the Norwegian Computing Center, created Simula (Simula I, 1966; Simula 67, 1967), the first language with classes and objects. Kay names Simula as one of the two main roots of Smalltalk (the other being LISP).
 
 ### [Barbara Deutsch (Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 Barbara Deutsch is listed in the Smalltalk acknowledgments among students involved with the project at Xerox PARC.
@@ -83,7 +80,7 @@ L. Peter Deutsch, known for his work at UC Berkeley, Xerox PARC, and Sun Microsy
 
 Deutsch also wrote "Ghostscript," the GNU PostScript implementation, first publicly released as version 1.0 in 1988. Earlier, he created the first interactive Lisp interpreter for the PDP-1 and implemented the TracLanguage with Calvin Mooers. With Allan Schiffman, he co-authored the landmark paper "Efficient Implementation of the Smalltalk-80 System" in 1984.
 
-After Xerox PARC, Deutsch spent several years at Sun Microsystems and continued to contribute to computing. He is recognized for his valuable insights into Smalltalk and PostScript, maintaining a legendary reputation in the computing community.
+After Xerox PARC, Deutsch worked at Sun Microsystems and wrote Ghostscript, a PostScript interpreter. He is known for his work on Smalltalk implementation (including the Deutsch-Schiffman dynamic-translation technique) and PostScript.
 
 [C2 Wiki: Peter Deutsch](https://wiki.c2.com/?PeterDeutsch) collects community notes on Peter Deutsch and his Smalltalk, Lisp, and Ghostscript work.
 
@@ -99,21 +96,21 @@ Jerome I. Elkind, known for his work at MIT, BBN, and Xerox PARC, served as the 
 Referred to by Kay as Executive 'X', Elkind's absence enabled the stealth development of the 'kiddicomp' machine, but he later attempted to terminate the project upon learning about its progress and potential impact. Despite this, the project thrived and became influential in shaping personal computing.
 
 ### [Douglas Engelbart (Oregon State University, UC Berkeley, SRI, Tymshare, McDonnell Douglas, Bootstrap Institute, The Douglas Engelbart Institute)](https://en.wikipedia.org/wiki/Douglas_Engelbart)
-Douglas Engelbart, a pioneering computer scientist, significantly influenced early computing, particularly in interactive computing and user interface design. At SRI (Stanford Research Institute), he developed the NLS (oN-Line System), a groundbreaking project that showcased advanced features like hypertext, graphics, efficient command input, and collaborative tools. His invention of the computer mouse revolutionized how users interact with computers, providing a critical link between humans and machines.
+Douglas Engelbart led the Augmentation Research Center at SRI, where he built the oN-Line System (NLS) and invented the mouse. His 1968 demo showed hypertext, windows, outlining, shared-screen collaboration, and the mouse. Kay saw this work at Utah in 1968 and cites it as a direct influence.
 
 Engelbart's vision of augmenting human intellect through computers deeply influenced Alan Kay's work on personal computing. As acknowledged in interviews, Engelbart's NLS inspired the development of advanced user interfaces and input devices at Xerox PARC, such as overlapping windows, menus, and interactive graphics. His ideas laid the groundwork for innovations in object-oriented programming and graphical user interfaces.
 
 Beyond his technical contributions, Engelbart's belief in computing as a means to enhance human capabilities shaped the principles behind personal computing. His advocacy for collective intelligence and knowledge sharing, reflected in his Bootstrap Institute (later the Douglas Engelbart Institute), has been embraced by computing pioneers like Alan Kay. Engelbart's legacy lives on in the collaborative and conceptual advancements that continue to shape modern technology.
 
 ### [Bill English (Xerox PARC, SRI, Sun Microsystems)](https://en.wikipedia.org/wiki/Bill_English_%28computer_engineer%29)
-Bill English, co-inventor of the computer mouse, played a pivotal role in Doug Engelbart's Augmentation Research Center team at SRI International before joining Xerox PARC. At PARC, he contributed to various hardware projects, including development tools for interactive systems and input devices, which influenced the legacy of human-computer interaction innovations.
+Bill English built the first mouse from Engelbart's design at SRI and ran the engineering for the 1968 demo. He then moved to Xerox PARC, where he worked on hardware including the POLOS office system and helped specify the character generator behind the Alto's bitmap display.
 
 The Smalltalk acknowledgments list English among people from other PARC groups who supported the project.
 
 His subsequent work at PARC and later at Sun Microsystems explored the integration of technology into intuitive and user-friendly interfaces. His contributions helped shape the future of interactive computing, fundamentally influencing innovations in human-computer interaction.
 
 ### [Dave Evans (University of Utah, Evans & Sutherland)](https://en.wikipedia.org/wiki/David_C._Evans)
-At the University of Utah, Dave Evans introduced Kay to ARPA's objectives, profoundly influencing his subsequent contributions to user interfaces and personal computing through an understanding of computer graphics and interactive systems.
+Dave Evans co-ran the ARPA-funded computer-graphics program at the University of Utah where Kay was a graduate student, and co-founded Evans & Sutherland with Ivan Sutherland.
 
 ### [Jerome A. Feldman (UC Berkeley)](https://en.wikipedia.org/wiki/Jerome_A._Feldman)
 In 1977, Jerome A. Feldman contributed to compiler technology by working on the formal semantics of computer languages.
@@ -122,7 +119,7 @@ In 1977, Jerome A. Feldman contributed to compiler technology by working on the 
 From 1967 to 1969, Wally Feurzeig, alongside Seymour Papert, developed the first object-oriented desktop PC designed for educational purposes, combining programming with children's learning.
 
 ### [David Allen Fisher (CMU)](https://www.computer.org/profiles/david-a-fisher)
-David Allen Fisher is recognized for his pioneering approach to control structures in programming. His methods simplified the management of static and dynamic environments, providing a secure method to access and modify these settings. These techniques significantly shaped the design considerations of Smalltalk's interpreter and influenced his Ph.D. thesis, which focused on control structures for programming languages and their impact on software control systems.
+David Fisher's Ph.D. work on a Control Definition Language (extensible control structures) is cited by Kay as an influence on the design of the Smalltalk interpreter.
 
 ### [Bob Flegal (Xerox PARC)](https://en.wikipedia.org/wiki/Pixel_art)
 Bob Flegal is listed in the Smalltalk acknowledgments among people from other PARC groups who assisted the project. He is also associated with early pixel art and SuperPaint.
@@ -133,10 +130,10 @@ During the summer and early fall of 1972, Henry Fuchs took part in discussions w
 [Henry Fuchs - UNC Computer Science](https://cs.unc.edu/person/henry-fuchs/) gives Fuchs's later academic profile and research context.
 
 ### [Adele Goldberg (University of Michigan, University of Chicago, Stanford University, Xerox PARC, ACM)](https://en.wikipedia.org/wiki/Adele_Goldberg_%28computer_scientist%29)
-Adele Goldberg, a key member of the Learning Research Group led by Alan Kay at Xerox PARC, significantly contributed to the development, documentation, and promotion of Smalltalk's educational potential. Her work focused on making computing accessible to younger users, influencing the design of educational programming environments for children and laying foundational concepts for future educational technologies and user interface design. Her efforts were pivotal in conceptualizing products like the Dynabook and in the research and development of programming language design, educational methods, and user interfaces.
+Adele Goldberg was a member, and later manager, of the Learning Research Group at Xerox PARC. She co-wrote the main Smalltalk-80 books with Dave Robson and led much of the effort to document and release Smalltalk-80 outside Xerox. She was a discussant for Kay's HOPL talk (see Appendix VI) and later ACM president.
 
 ### [Marian Goldeen (Xerox PARC)](https://worrydream.com/refs/Ingalls_2020_-_The_Evolution_of_Smalltalk.pdf)
-Marian Goldeen, a child intern at Xerox PARC, was involved in the Smalltalk project at the age of 13. Her participation underscores the project's dedication to developing user-friendly interfaces and educational tools designed for children. She tested and provided valuable feedback on the system's usability.
+Marian Goldeen used and programmed in Smalltalk at Xerox PARC as a 13-year-old, one of the children whose work Kay cites as evidence that Smalltalk could be used by young people.
 
 ### [Laura Gould (Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 Laura Gould is mentioned by Kay among the people whose contributions or influence are present in the early Smalltalk history but not fully elaborated in the paper.
@@ -155,7 +152,7 @@ Throughout his career, Hewitt held positions at MIT, where he became an emeritus
 Bruce Horn is listed as a 15-year-old child intern in the Smalltalk acknowledgments.
 
 ### [Dan Ingalls (Harvard, Stanford University, Xerox PARC, Apple Inc., Interval Research Corporation)](https://en.wikipedia.org/wiki/Dan_Ingalls)
-Dan Ingalls was a pivotal figure at Xerox PARC from 1972 to 1976, primarily responsible for implementing Smalltalk and significantly influencing its development. His contributions during this period were crucial in addressing design flaws and rapidly implementing solutions that enhanced the programming language's capabilities and performance. Ingalls played a central role in discussions that challenged the creation of a powerful language in a page of code, leading to critical innovations in programming language design. His work not only advanced object-oriented programming but also influenced modern software engineering practices, shaping the flexible, user-friendly programming environments that are now standard in the software industry.
+Dan Ingalls was the main implementer of Smalltalk at Xerox PARC. He built the first running Smalltalk-72 from Kay's design (the "page of code" bet) and the later Smalltalk-76 and -80 systems, and invented BitBLT and the pop-up-menu and window machinery. Kay credits Ingalls's implementation skill for turning the Smalltalk ideas into working systems.
 
 ### [Lisa Jack (Xerox PARC)](https://worrydream.com/refs/Ingalls_2020_-_The_Evolution_of_Smalltalk.pdf)
 Lisa Jack was a child intern at Xerox PARC, contributing to the Smalltalk project at the age of 12. Her participation, like that of other child interns, provided valuable insights into the usability and educational potential of Smalltalk, particularly for young learners.
@@ -165,22 +162,28 @@ Chris Jeffers is mentioned in the Smalltalk acknowledgments as part of the Learn
 [Alan Kay at OOPSLA 1997: The Computer Revolution has not Happened Yet](https://tinlizzie.org/IA/index.php/Alan_Kay_at_OOPSLA_1997:_The_Computer_Revolution_has_not_Happened_Yet) gives later context for Kay's views on personal computing and children using computers.
 
 ### [Steve Jobs (Reed College, Apple Inc., NeXT)](https://en.wikipedia.org/wiki/Steve_Jobs)
-Steve Jobs, co-founder of Apple Inc., was significantly influenced by his visits to Xerox PARC, where he was introduced to the graphical user interface. These experiences shaped his vision and played a pivotal role in the development of Apple's innovative products, including the Lisa and Macintosh computers. His time at Xerox PARC highlighted the importance of intuitive, user-friendly interfaces in personal computing.
+Steve Jobs, co-founder of Apple, visited Xerox PARC in 1979 and saw the Smalltalk graphical interface demoed by Larry Tesler. The visit influenced the Lisa and Macintosh.
 
 ### [Ted Kaehler (Stanford University, Xerox PARC, Apple Inc., Viewpoints Research Institute)](https://en.wikipedia.org/wiki/Ted_Kaehler)
-Ted Kaehler was an active member of the Learning Research Group at Xerox PARC from 1972 to 1976. His contributions during this period were pivotal in shaping the development of Smalltalk-72, focusing on synthesizing programming language ideas and integrating these concepts into educational tools and environments. Kaehler was instrumental in enhancing the capabilities and user experience within the Smalltalk environment and later contributed to the implementation of LOGO turtle graphics in Smalltalk, further enriching its educational potential.
+Ted Kaehler was a member of the Learning Research Group at Xerox PARC and worked on Smalltalk, including its virtual memory (OOZE) and later versions. He was part of the hallway conversation that led to the Smalltalk-72 "page of code" bet, and later worked with Kay at Apple and Disney.
 
 ### [Alan Kay (University of Colorado at Boulder, University of Utah, Xerox PARC, Atari, Apple, Viewpoints Research Institute)](https://en.wikipedia.org/wiki/Alan_Kay)
-Alan Kay was a central figure at Xerox PARC during 1970-1976, where he founded the Smalltalk project and was instrumental in the development of object-oriented programming and the personal computer concept. His work contributed significantly to the creation of Smalltalk, one of the first object-oriented programming languages, and the conceptualization of the Dynabook, a precursor to the modern laptop. These innovations were crucial in advancing the graphical user interface and the accessibility of personal computers. While Kay was less involved in day-to-day development, he provided ongoing visionary guidance and theoretical foundations, particularly in the educational use of computing. His ideas have had a profound impact on modern computing systems, influencing software engineering methodologies and user interface design. After Xerox PARC, Kay continued to influence digital technology and educational methods at Atari and Apple, pushing the boundaries of what computing could achieve in various settings.
+Alan Kay led the Learning Research Group at Xerox PARC from 1970 to 1976, where his group created Smalltalk. He coined the term "object-oriented programming" and proposed the Dynabook, a notebook-sized personal computer for children of all ages. Kay's earlier Flex Machine (with Ed Cheadle) and the ideas he took from Simula, Sketchpad, LISP, and Papert's LOGO fed into that work. He was chief scientist at Atari (1981-1984) and an Apple Fellow (from 1984), and later worked at Disney and founded Viewpoints Research Institute. He won the 2003 Turing Award. His emphasis throughout is on computing as a medium for learning.
 
 ### [Ralph Kimball (Xerox PARC, Metaphor)](https://en.wikipedia.org/wiki/Ralph_Kimball)
 Ralph Kimball is listed in the Smalltalk acknowledgments among people from other PARC groups who assisted the project.
 
 ### [Butler Lampson (Harvard, UC Berkeley, MIT, Microsoft, Xerox PARC, DEC SRC)](https://en.wikipedia.org/wiki/Butler_Lampson)
-Butler Lampson, a seminal figure in computer science, played a crucial role in the development of modern operating systems and network technologies from 1964 to 1966. His recruitment to Xerox PARC in 1972 brought significant systems design expertise, contributing to PARC's innovative projects, including the development of personal computing systems. Lampson collaborated closely with Alan Kay and Chuck Thacker in proposing the KiddiKomp, which influenced early personal computing concepts. He was instrumental in the development of the Alto computer, laying foundational standards for a new era in computing. His work on software development, system design, and system architecture profoundly impacted the technical architecture and conceptual framework of Smalltalk, helping to define the user interfaces and personal computing technologies at PARC.
+At UC Berkeley before PARC, Lampson worked on Project GENIE (1966), CAL-TSS, and the SDS-940 time-sharing system. Kay heard Lampson's CAL-TSS talk in fall 1969; the capability-based design—in unforgeable pointers and "objects as server"—influenced Kay's object-oriented thinking [EarlyHistoryOfSmalltalk](EarlyHistoryOfSmalltalk.md). Bob Frankston, commenting on Kay's 2026 Quora answer, recalled Lampson as a grad student at White-Weld in 1966, giving SDS-940 lectures and designing FFL (First Financial Language); Kay replied that Lampson was 23 at the time of those lectures and about 28 when he brought his group to PARC.
+
+Bob Taylor recruited Lampson and most of the Berkeley Computer Corporation group to PARC in January 1971 (with Chuck Thacker, Peter Deutsch, and others). They built MAXC and the Alto. In September 1972, Lampson and Thacker asked Kay for his Nova/character-generator budget (~$230K) to build what became the Alto—Lampson wanted a "$500 PDP-10," Thacker a faster Nova, Kay a "kiddicomp." Kay's May 1972 [KiddiKomputer memo](Appendix-I.md) went *to* Lampson, Thacker, and others; the hardware bet was their offer, not a joint KiddiKomp proposal [Timeline](Timeline.md). Lampson and Bill English specified the SLOT video-display experiments that fed Kay's bit-map and font work.
+
+Kay credits Lampson with specific ideas used at PARC: GENIE's policy of purging dirty pages to keep core clean [Lampson 1966]; emulated high-level-language instruction mapping (with Peter Deutsch, summer 1972); minimal software standardization—only disk format (one crash-recovery program) and, later, Ethernet packet format; and possibly the transaction model for Smalltalk-76 object memory ("cosmic ray protection"). In the 1993 Saito interview Kay says Lampson named the direction Kay calls "distributive computing," and quotes his software policy: "let's not standardize... we will just standardize basically on two things" [Yoot_Saito_Alan_Kay_Interview](Yoot_Saito_Alan_Kay_Interview.md).
+
+Kay (Quora, June 2026): asked what a computer scientist is, he answers, "I'm not sure how to define it, but Butler Lampson is the quintessential example of a great one." Official recognition includes the Turing Award (1992), ACM Software System Award for the Alto (1984), IEEE John von Neumann Medal (2001), Draper Prize with Kay, Taylor, and Thacker (2004), Computer History Museum Fellow (2006), and Royal Society foreign member (2018)—while Kay argues Lampson's range across operating systems, languages, architecture, networking, and security still exceeds what any prize list conveys.
 
 ### [Ben Laws (Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
-Ben Laws played a critical role in the Smalltalk project at Xerox PARC by designing and implementing the font editor. His work was essential in enhancing the visual and user interface aspects of Smalltalk, thereby contributing significantly to the overall user experience and accessibility of the programming environment. This improvement was pivotal in refining the aesthetics and functional usability of Smalltalk's environment.
+Ben Laws built a font editor at Xerox PARC and, with Kay, spent months studying how the human visual system handles fonts and rasterized text.
 
 ### [J. C. R. Licklider (Washington University in St. Louis, University of Rochester, Harvard, MIT, BBN, ARPA, IBM)](https://en.wikipedia.org/wiki/J._C._R._Licklider)
 In the 1960s, J. C. R. Licklider's vision of man-machine symbiosis was a critical influence on the direction and funding of early computing research, particularly through his work with ARPA. His ideas helped shape the development of interactive computing, setting the stage for significant advancements in the field.
@@ -192,25 +195,25 @@ David Liddle was part of the Xerox PARC community and later worked on user-inter
 Michael S. Mahoney is thanked by Kay for comments and guidance that improved the historical essay.
 
 ### [Kathy Mansfield (Xerox PARC)](https://worrydream.com/refs/Ingalls_2020_-_The_Evolution_of_Smalltalk.pdf)
-Kathy Mansfield was a child intern involved with the Smalltalk project at Xerox PARC at the age of 12. Her role as a user and tester was instrumental in shaping how Smalltalk was tailored to educational purposes, ensuring it catered effectively to the learning styles and needs of children. This involvement underscored the project's commitment to developing user-friendly and accessible programming environments for young learners.
+Kathy Mansfield was a 12-year-old who used and tested Smalltalk at Xerox PARC, part of the Learning Research Group's practice of having children use the system.
 
 ### [Eric Martin (Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 Eric Martin is listed as a visitor in the Smalltalk acknowledgments.
 
 ### [John McCarthy (Princeton, CIT, MIT, Dartmouth, Stanford AI Lab)](https://en.wikipedia.org/wiki/John_McCarthy_%28computer_scientist%29)
-John McCarthy, a pioneering figure in artificial intelligence, coined the term "Artificial Intelligence" and developed the programming language Lisp in 1960. His work introduced numerous concepts fundamental to modern AI programming. Famous for Lisp, McCarthy's programming methods contrasted with the Smalltalk approach, influencing its development towards a more streamlined and object-oriented design. McCarthy’s extensive research at the Stanford AI Lab laid critical groundwork for AI, exploring machine learning, natural language processing, and autonomous robotics. His philosophical inquiries into AI's implications profoundly shaped academic and public discourse, extending his influence to the ethical and practical dimensions of AI, and inspiring generations of researchers.
+John McCarthy coined the term "artificial intelligence," created Lisp (1958-60), and founded the Stanford AI Lab. Kay describes understanding Lisp's eval/apply core as a turning point: it showed him how a whole language could be built from a small, powerful kernel, an idea he carried into Smalltalk.
 
 ### [Ed McCreight (College of Wooster, CMU, Xerox PARC, Boeing, Adobe)](https://en.wikipedia.org/wiki/Edward_M._McCreight)
-Ed McCreight was involved in the Xerox PARC project in 1972, where he worked on developing the disk interface for a machine that Chuck Thacker committed to building within three months. His contributions to this project were crucial in supporting the development and functionality of this innovative hardware.
+Ed McCreight worked on the Alto hardware at Xerox PARC (including disk work) and co-invented the B-tree with Rudolf Bayer.
 
 ### Sherri McLoughlin (Apple Computer)
 Sherri McLoughlin is thanked by Kay for help getting the materials together for the Smalltalk history paper.
 
 ### [Marshall McLuhan (University of Manitoba, Trinity Hall, Cambridge, St. Michael's College, Toronto)](https://en.wikipedia.org/wiki/Marshall_McLuhan)
-Marshall McLuhan, a pioneering Canadian philosopher and communication theorist, profoundly influenced our understanding of how media technologies shape human experiences and social structures. Best known for coining the phrases "the medium is the message" and "global village," McLuhan highlighted that communication technologies, including computers, fundamentally alter societal operations and individual worldviews. His theories emphasized that the characteristics of each medium affect information delivery and perception, thus influencing societal interactions and cognitive processes. McLuhan's work underscores the transformative impact of media, particularly the role of computers as powerful communication tools in contemporary society.
+Marshall McLuhan was a Canadian communication theorist known for "the medium is the message" and "the global village." Kay cites McLuhan for the idea that a new medium reshapes how its users think, which underpins Kay's argument that the computer is a new medium and that learning to use it means taking on its way of thinking.
 
 ### [Diana Merry-Shapiro (Xerox PARC)](https://en.wikipedia.org/wiki/Diana_Merry)
-A member of the Learning Research Group, she significantly contributed to the development, testing, and application of the Smalltalk system, focusing on educational technology and learning methodologies. Her involvement was pivotal in integrating and refining the BitBLT graphics operation, enhancing the system's capabilities in graphical manipulation and display.
+Diana Merry was a member of the Learning Research Group at Xerox PARC and one of the first women to work as a Smalltalk programmer there. She worked with Dan Ingalls on the BitBLT bitmap operation and on Smalltalk's text and windowing code.
 [Casa Susanna official trailer](https://www.youtube.com/watch?v=5sTUaO3PNkQ) gives cultural context for Diana Merry-Shapiro's later life and public history.
 [CASA SUSANNA](https://www.hammertonail.com/reviews/casa-susanna/) reviews the documentary context around Diana Merry-Shapiro.
 [Culture Mix coverage tagged Diana Merry-Shapiro](https://culturemixonline.com/tag/diana-merry-shapiro/) collects related coverage about Diana Merry-Shapiro.
@@ -220,12 +223,10 @@ A member of the Learning Research Group, she significantly contributed to the de
 Robert "Bob" Metcalfe co-invented Ethernet with David Boggs at Xerox PARC and later founded 3Com. His networking work formed part of the PARC environment in which Alto and Smalltalk systems were developed.
 
 ### [Marvin Minsky (Harvard, Princeton, MIT AI Lab)](https://en.wikipedia.org/wiki/Marvin_Minsky)
-Marvin Minsky, a distinguished figure in artificial intelligence, significantly shaped the field through his collaborative work with Seymour Papert and influential interactions with Alan Kay. In the early 1970s at the MIT Artificial Intelligence Lab, Minsky, alongside Papert, pioneered the development of the Logo "turtle," a groundbreaking educational tool that demonstrated his deep interest in the intersection of cognitive psychology and educational theory. This work reflected his broader commitment to understanding how computers could support learning and cognitive development, theories that deeply influenced Kay's own revolutionary ideas about personal computing and educational technologies.
-
-Furthermore, Minsky's broader contributions to artificial intelligence were foundational, encapsulated in his work on frameworks for representing knowledge, which provided a new paradigm in AI research. His insights were crucial in forming the theoretical underpinnings that supported the development of object-oriented programming, a concept that Kay later championed through the creation of Smalltalk at Xerox PARC. Minsky's theoretical and practical advancements not only propelled forward the capabilities of AI but also ensured its integration into systems that enhance human-machine interaction, aligning with his vision of AI serving as a potent tool in education and beyond.
+Marvin Minsky co-founded the MIT AI Lab with John McCarthy and, with Seymour Papert, developed the ideas behind LOGO and the "turtle." His frame-systems work on knowledge representation is cited by Kay (Kay notes Minsky's frames grew out of the same semantic-network ideas Kay saw in the late 1960s). Minsky and Papert's work with children influenced Kay's educational aims for the Dynabook.
 
 ### [Gordon Moore (UC Berkeley, CIT, Intel)](https://en.wikipedia.org/wiki/Gordon_Moore)
-Gordon Moore, co-founder of Intel, is renowned for Moore's Law, which forecasts the exponential growth of integrated circuit complexity. This principle has significantly shaped expectations and strategic planning in the semiconductor industry by predicting a doubling of transistor counts on integrated circuits approximately every two years. Moore's projections have deeply influenced the evolution of computational power and its potential applications, underpinning the rapid technological advances that characterize modern computing and electronics.
+Gordon Moore, later a co-founder of Intel, wrote the 1965 paper predicting that the number of components on a chip would keep doubling. Kay read it while helping debug the CDC 6600 and used the projection to reason that personal computers would become feasible.
 
 ### [William Newman (University of Michigan, University of London, Xerox PARC, Rank Xerox EuroPARC)](https://en.wikipedia.org/wiki/William_Newman_(computer_scientist))
 William Newman was a computer graphics and human-computer interaction researcher. Kay mentions him among the wider set of people whose work influenced the history around Smalltalk and personal computing.
@@ -235,13 +236,13 @@ Mike Overton is listed in the Smalltalk acknowledgments among people from other 
 [Personal Computing, 1975](https://michaelnotebook.com/notes/kay/Personal_Computing_1975.pdf) preserves related Alan Kay material from the period of PARC personal-computing work.
 
 ### [George Pake (Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
-George Pake, as the head of Xerox PARC, played a pivotal role in steering innovative research and development within the organization. Recruited from his position as chancellor at Washington University, Pake's leadership was instrumental in shaping the direction of early personal computing initiatives, including the development of the KiddiKomputer. His ability to assemble a team of world-class scientists and engineers, referred to as the "Architects of Information," fostered a hothouse of innovation at PARC. Under his oversight, PARC was responsible for breakthroughs in various technologies such as laser printing, graphical user interfaces, Ethernet, digital video, word processing, multi-beam solid-state lasers, and very large-scale integrated circuits (VLSI), marking significant advancements in the field of computing and beyond.
+George Pake, a physicist and former Washington University provost, founded and directed Xerox PARC. He was a recipient of Kay's 1972 KiddiKomputer memo (see Appendix I). PARC under Pake produced the Alto, Ethernet, and the laser printer, among other work.
 [Xerox PARC - CHM Revolution](https://www.computerhistory.org/revolution/input-output/14/348) summarizes PARC's laser-printer and office-system context under George Pake's leadership.
 
 ### [Seymour Papert (MIT, University of Geneva, University of Paris, National Physical Laboratory)](https://en.wikipedia.org/wiki/Seymour_Papert)
 Seymour Papert, a significant figure at MIT and a pioneer in the integration of technology and education, collaborated closely with Marvin Minsky and Alan Kay, influencing major developments in educational technology and artificial intelligence. Through his partnership with Minsky, Papert co-developed the Logo programming language in the late 1960s, aiming to enhance the computational thinking and problem-solving skills of children. This language featured the innovative "Logo Turtle," a ground-breaking tool that enabled children to program a small robotic device, fostering an interactive learning environment. Papert's work not only facilitated direct engagement with complex ideas but also democratized access to programming, reflecting his commitment to using technology to empower learners.
 
-Moreover, Papert's collaborations extended to influential projects that intersected with Alan Kay's visions of personal computing. His constructionist philosophy, which built upon Piaget's theories of cognitive development, was instrumental in shaping Kay's conception of the Dynabook, a precursor to the modern laptop designed to support children's learning. Papert's theories advocated for a learning environment where children could explore and build their knowledge through hands-on experiences with technology, a revolutionary idea that impacted the development of educational programming and interfaces. Through these collaborations, Papert not only advanced educational methods but also left a lasting imprint on the design and philosophy of early personal computing initiatives.
+Papert's constructionism, built on Piaget, shaped Kay's aim for the Dynabook: a machine children program to build and explore their own models. Kay has said that seeing LOGO and children programming at MIT was the moment he saw what personal computing was for.
 
 ### [Bill Paxton (Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 Bill Paxton is mentioned by Kay among the people connected with the PARC and Smalltalk research context.
@@ -255,19 +256,19 @@ Radia Perlman is listed among students in the Smalltalk acknowledgments. She lat
 [Oz Science: Radia Perlman at LCA 2013](https://ozscience.com/interviews/radia-perlman-at-lca-2013/) provides an interview-style later-career source for Perlman.
 
 ### [Steve Purcell (Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
-Steve Purcell was actively involved at Xerox PARC in 1972, where he played a crucial role in reviewing early versions of Smalltalk-72. His participation in this phase was vital in providing feedback and insights that helped refine and enhance the development of the Smalltalk programming language, contributing to its foundational structure and capabilities.
+Steve Purcell is listed among the people at Xerox PARC involved with early Smalltalk-72 work.
 
 ### [Steve Putz (Xerox PARC)](https://worrydream.com/refs/Ingalls_2020_-_The_Evolution_of_Smalltalk.pdf)
-Steve Putz, a child intern at Xerox PARC, contributed to the Smalltalk project at the age of 15. His involvement provided valuable feedback on the system's design from a young user's perspective, crucial for a project aimed at making programming accessible and engaging for children. Not only was Putz's participation instrumental in tailoring Smalltalk to be approachable for young learners, but he also developed a noteworthy circuit diagram drawing program during his time on the project. The user interface he designed and built for this program was particularly praised, showcasing his exceptional skills even at a young age.
+Steve Putz used Smalltalk at Xerox PARC as a 15-year-old and wrote a circuit-diagram drawing program with it, an example Kay cites of what children could build in Smalltalk.
 
 ### [Jef Raskin (Stony Brook University, Pennsylvania State University, University of California San Diego, Apple Inc.)](https://en.wikipedia.org/wiki/Jef_Raskin)
 Jef Raskin was an Apple human-computer interaction designer and Macintosh project initiator. Kay mentions him in connection with the Apple audience that saw PARC ideas.
 
 ### [Trygve Reenskaug (Sentralinstitutt for Industriell Forskning, Xerox PARC, Taskon University of Oslo)](https://en.wikipedia.org/wiki/Trygve_Reenskaug)
-Trygve Reenskaug, during his tenure at Xerox PARC, introduced influential ideas around object-oriented data modeling that significantly impacted the development of modeling tools and methodologies within the Smalltalk environment. His contributions were crucial in shaping the frameworks and techniques used in Smalltalk, enhancing its capabilities as a robust tool for software development. Reenskaug's work provided a foundational approach to object-oriented programming that continued to influence software modeling and design practices beyond the Smalltalk community.
+Trygve Reenskaug, a Norwegian computer scientist, visited Xerox PARC and formulated the Model-View-Controller (MVC) pattern in Smalltalk, which became a standard way to structure interactive software.
 
 ### [Dave Robson (Xerox PARC)](https://computerhistory.org/profile/dave-robson/)
-Dave Robson was a member of the Learning Research Group at Xerox PARC under the leadership of Alan Kay. His role involved significant contributions to the development and implementation of Smalltalk, particularly focusing on its applications in educational settings and user interface design. Robson's work was pivotal in refining the Smalltalk language and its development environment, enhancing its accessibility and utility. His efforts helped shape Smalltalk into a more user-friendly programming environment, aligning with the group’s goals of making computing more accessible and impactful in education.
+Dave Robson was a member of the Learning Research Group at Xerox PARC and co-wrote the main Smalltalk-80 books with Adele Goldberg.
 
 ### Kim Rose (Apple Computer, Viewpoints Research Institute)
 Kim Rose is thanked by Kay for help getting the materials together for the Smalltalk history paper and later worked with Kay on learning and computing projects.
@@ -280,10 +281,10 @@ Paul Rovner worked on AMBIT/G and later at Xerox PARC. Kay mentions him among th
 
 ### [Jeff Rulifson (University of Washington, Stanford University, SRI, Xerox PARC)](https://en.wikipedia.org/wiki/Jeff_Rulifson)
 Joined PARC from Engelbart's team, bringing expertise in interactive computing and network systems.
-Jeff Rulifson joined Xerox PARC after working with Doug Engelbart’s team, bringing with him a wealth of expertise in interactive computing and network systems. His background contributed significantly to advancing the capabilities of interactive technologies and networking at PARC. Rulifson's experience was instrumental in enhancing the collaborative and technical aspects of projects at PARC, particularly in areas involving user interface and network communication innovations.
+Jeff Rulifson came to Xerox PARC from Engelbart's group at SRI, where he had worked on NLS. Kay recalls discussing Piaget and children's developmental stages with him while designing the language for kids.
 
 ### [Yutaka "Yoot" Saito (Waseda University, MACWORLD Japan, Maxis, Vivarium, OPeNBooK)](https://en.wikipedia.org/wiki/Yoot_Saito)
-Yutaka "Yoot" Saito, a journalist for MACWORLD Japan, gained recognition for his insightful interview with computing pioneer Alan Kay, exploring the development of early personal computers and Kay's impact on the field. Saito is also a renowned game designer known for his creative and unconventional approaches within the gaming industry. His most notable contributions include the development of "SimTower," a game that allows players to design and manage a modern skyscraper, and its sequels "Yoot Tower" and "The Tower II." Additionally, he created "Seaman," a unique simulation game featuring a virtual pet that combines the face of a man with the body of a fish, engaging players with its quirky and philosophical dialogue.
+Yutaka "Yoot" Saito is a Japanese game designer. He conducted this 1993 interview with Alan Kay for MACWORLD Japan. His games include The Tower (published by Maxis as SimTower) and its sequel, released as Yoot Tower in the US and The Tower II in Japan; Seaman, a Dreamcast virtual-pet game with a fish that has a human face and talks back via voice recognition; and Odama. He founded the studios OPeNBooK and Vivarium.
 
 Saito’s work is celebrated for its originality and strategic depth, often merging unconventional concepts with sophisticated gameplay elements. His distinct narrative voice and innovative mechanics challenge traditional game design norms, making his games cult classics. Saito’s contributions to the gaming industry are marked by a unique blend of creativity and insight, reflecting his ability to engage with both the technical aspects of game design and broader philosophical themes.
 
@@ -294,7 +295,7 @@ Jean Sammet is thanked by Kay for pushing him to finish the historical account. 
 Steve Saunders is listed among students in the Smalltalk acknowledgments.
 
 ### [John Shoch (Stanford University, Xerox PARC)](https://en.wikipedia.org/wiki/John_Shoch)
-John Shoch was deeply involved in the development of Smalltalk at Xerox PARC in 1972, contributing significantly to its graphical and interactive elements. He played a crucial role in the creation of line graphics and the hand-character recognizer, tools that greatly enhanced the usability and visual appeal of the Smalltalk programming environment. His participation in early morning critiques and discussions was integral to the iterative process that shaped Smalltalk-72, helping refine its features and functionality. Shoch's work not only advanced the technical aspects of Smalltalk but also its educational and practical applications, making it a more effective tool for programmers and educators alike.
+John Shoch worked on early Smalltalk at Xerox PARC, including line graphics and a hand-character recognizer, and took part in the group's design critiques for Smalltalk-72. He later worked on Ethernet and internetworking (the "worm" programs) at PARC.
 
 ### [Richard G. Shoup (CMU, Xerox PARC)](https://en.wikipedia.org/wiki/Richard_Shoup_%28programmer%29)
 Richard G. Shoup worked at Xerox PARC and is best known for SuperPaint, an early full-color computer graphics system. The Smalltalk acknowledgments list him among the broader PARC community connected with the project.
@@ -303,7 +304,7 @@ Richard G. Shoup worked at Xerox PARC and is best known for SuperPaint, an early
 [The Evolution of Smalltalk](https://worrydream.com/refs/Ingalls_2020_-_The_Evolution_of_Smalltalk.pdf) provides a later historical account of Smalltalk that mentions many PARC contributors.
 
 ### [Bob Shur (Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
-Bob Shur at Xerox PARC was instrumental in the design and implementation of the "Animator" feature in Smalltalk, working alongside Steve Purcell. His contributions were crucial in developing dynamic and interactive elements within the Smalltalk programming environment, significantly enhancing its visual appeal and engagement. Shur's work on the Animator helped transform Smalltalk into a more robust and visually interactive platform, which not only attracted users but also showcased the potential of graphical programming environments. His efforts were pivotal in pushing the boundaries of what could be achieved in software design and user interface at the time.
+Bob Shur, with Steve Purcell, built an animation system ("Animator") in early Smalltalk at Xerox PARC.
 
 ### [Alvy Ray Smith (New Mexico State University, Stanford University, NYIT, Lucasfilm Computer Division, Pixar, Altamira Software, Microsoft)](https://en.wikipedia.org/wiki/Alvy_Ray_Smith)
 Alvy Ray Smith is listed in the Smalltalk acknowledgments among people from other PARC groups who assisted the project. He is also known for computer graphics work including SuperPaint and later Pixar.
@@ -315,13 +316,13 @@ David Canfield Smith is listed among students in the Smalltalk acknowledgments a
 Bob Sproull is listed in the Smalltalk acknowledgments among people from other PARC groups who assisted the project. He is also known for computer graphics and systems work.
 
 ### [Ivan Sutherland (University of Utah, CMU, Harvard, Portland State University, CIT, MIT, ARPA, Evans & Sutherland)](https://en.wikipedia.org/wiki/Ivan_Sutherland)
-Ivan Sutherland, renowned for his groundbreaking work in interactive computing, developed Sketchpad in 1963. This pioneering graphical interface system introduced fundamental concepts that have become staples in modern graphical user interfaces and computer-aided design (CAD) systems. Sketchpad was the first program to use objects and constraints in graphics, setting a foundational framework that would deeply influence the fields of object-oriented programming and user interface design. Sutherland’s work on Sketchpad marked a significant milestone in computing, showcasing innovative techniques for user interaction and graphical manipulation which have shaped future developments in technology and design. His contributions are frequently highlighted when discussing the community of innovators who were critical to the early evolution of interactive computing, underscoring his lasting impact on the technology landscape.
+Ivan Sutherland created Sketchpad (1963 MIT Ph.D. thesis), an interactive drawing system built on master drawings and instances with constraints. Kay saw Sketchpad's use of objects and instances as one of the key precedents for object-oriented programming, alongside Simula and the B5000. Sutherland later co-founded Evans & Sutherland and taught at Utah while Kay was there.
 
 ### [Daniel Swinehart (Carnegie Mellon University, Xerox PARC)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 Daniel Swinehart is mentioned by Kay among the broader group of researchers connected with the PARC and Smalltalk environment.
 
 ### [Bob Taylor (Southern Methodist University, University of Texas, Xerox PARC, ARPA, DEC)](https://en.wikipedia.org/wiki/Robert_Taylor_%28computer_scientist%29)
-Bob Taylor, a pivotal figure in the history of computing, was appointed to lead the Computer Science Laboratory at Xerox PARC, where he was instrumental in shaping a research agenda that focused on personal computing and interactive systems. His leadership at PARC followed a significant tenure at ARPA, where he played a key role in funding the development of the ARPANET, among other pioneering projects. Taylor's approach to management emphasized freedom and creativity, allowing researchers to explore innovative ideas without the constraint of direct oversight, which proved crucial in fostering groundbreaking technologies. His visionary leadership style is credited with facilitating some of the most transformative developments in computing, particularly in networking and personal computing, establishing a culture of innovation that has had lasting impacts on the technology landscape.
+Bob Taylor ran the ARPA Information Processing Techniques Office in the 1960s, where he initiated the ARPANET, and then led the Computer Science Laboratory at Xerox PARC. He funded and managed people rather than projects, and in January 1971 recruited most of the Berkeley Computer Corporation group (Lampson, Thacker, Deutsch, and others) to PARC. In the interview Kay credits Taylor's hands-off approach for the freedom that produced the Alto and Smalltalk.
 
 ### [Warren Teitelman (Caltech, MIT, BBN, Xerox PARC)](https://en.wikipedia.org/wiki/Warren_Teitelman)
 Warren Teitelman was a key Lisp and interactive-programming researcher. Kay lists him among the figures whose work shaped the intellectual background of Smalltalk.
@@ -333,9 +334,7 @@ Bonnie Tenenbaum is listed in the Smalltalk acknowledgments as involved with the
 [Dr. Bonnie Tenenbaum 1944-2020](https://k12irc.org/dr-bonnie-tenenbaum/) adds another remembrance of Tenenbaum's educational work.
 
 ### [Larry Tesler (Stanford University, Xerox PARC, Apple Inc., Amazon, Yahoo!)](https://en.wikipedia.org/wiki/Larry_Tesler)
-Larry Tesler was instrumental during his tenure at Xerox PARC, particularly in the mid-1970s, where he contributed to the development of Smalltalk. His expertise in user interface design brought significant innovations that helped shape the interactive computing elements of Smalltalk. Tesler's role often involved collaborating with other groups at PARC, providing additional insights and technical skills that enhanced the project's development and implementation.
-
-Furthermore, Tesler played a pivotal role in the demonstration of PARC's technologies to Steve Jobs and the Apple team, a moment that profoundly influenced the future of Apple's graphical user interfaces. His contributions were key in transferring the groundbreaking developments at PARC to Apple's own initiatives, notably the Lisa and Macintosh computers. Tesler's work bridged the gap between PARC's innovations and the commercial personal computing market, significantly shaping the evolution of user interfaces in the tech industry.
+Larry Tesler worked on Smalltalk and user-interface design at Xerox PARC in the 1970s, where he developed modeless editing and cut/copy/paste. He gave the Smalltalk demo to Steve Jobs and the Apple team during the 1979 PARC visits, then joined Apple, where he worked on the Lisa and Macintosh.
 
 ### [Truett Thach (Xerox PARC, BBN)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 Truett Thach is listed in the Smalltalk acknowledgments among people connected with the project at Xerox PARC.
@@ -345,9 +344,7 @@ Truett Thach is listed in the Smalltalk acknowledgments among people connected w
 [ARPANET](https://www.livinginternet.com/i/ii_arpanet.htm) summarizes the network background for Taylor, ARPA, and the PARC research community.
 
 ### [Chuck Thacker (UC Berkeley, Xerox PARC, DEC, Microsoft)](https://en.wikipedia.org/wiki/Charles_P._Thacker)
-Chuck Thacker played a pivotal role at Xerox PARC, particularly in the development of the Alto, one of the first personal computers, which laid the technological foundations for future computing innovations. His involvement from 1972 to 1976 was crucial in creating foundational technologies that influenced not only the KiddiKomputer project but also the broader evolution of personal computing. Thacker’s contributions to the Alto, often referred to as the "interim Dynabook," directly impacted the development of the Smalltalk programming environment, providing essential technological insights that shaped its design.
-
-Thacker's collaborative work with figures like Butler Lampson and Alan Kay was instrumental in conceptualizing and developing cutting-edge hardware solutions, including the KiddiKomp and the Alto, dubbed 'Bilbo.' His expertise in computer hardware design was vital for advancing PARC's innovations, significantly influencing the capabilities and functionality of early personal computing systems. Thacker’s work not only contributed to the technical underpinnings of PARC’s projects but also helped set the stage for the later successes of personal and interactive computing.
+Chuck Thacker was the lead hardware designer of the Xerox Alto, the machine that hosted most early Smalltalk work. He also built MAXC, PARC's microcoded PDP-10 emulator. In September 1972 Thacker and Butler Lampson offered to build Kay's proposed machine on Kay's Nova/character-generator budget; Thacker had a bet that he could build a whole machine in three months. The first Alto ran a few months later. The first interim Dynabook (Alto) unit was nicknamed "Bilbo." Kay proposed the KiddiKomp direction; Thacker and Lampson supplied the hardware. Thacker shared the 1984 ACM Software System Award for the Alto and the 2004 Draper Prize, and won the 2009 Turing Award.
 
 ### [Bill Vitic (Xerox PARC)](https://dl.acm.org/doi/pdf/10.1145/234286.1057828)
 Bill Vitic is mentioned in Kay's account of the 1972 PARC bet over whether Chuck Thacker could build an entire machine in three months.
@@ -363,6 +360,6 @@ Steve Weyer and Adele Goldberg set up the program with kids to learn Smalltalk i
 He and Alan Kay devised a "retrieval by example" system called "Findit" that was used for many years by the PARC library.
 
 ### [Niklaus Wirth (ETH Zurich, UC Berkeley, Stanford University, Xerox PARC)](https://en.wikipedia.org/wiki/Niklaus_Wirth)
-Niklaus Wirth, a prominent figure in computer science, made significant contributions to the field of software engineering and programming languages. In 1966, he developed several influential programming languages, including Pascal, which played a pivotal role in advancing structured programming concepts. His work is renowned for emphasizing compactness and efficiency in code, principles that became foundational to software engineering.
+Niklaus Wirth designed a series of programming languages, including Euler and Algol W in the mid-1960s and Pascal around 1970. Kay was drawn to Wirth's earlier Euler for the way it simplified Algol and mapped onto a bytecode-style implementation.
 
 Wirth’s innovations prior to developing Pascal notably influenced Alan Kay’s thoughts on programming language design during Kay's tenure at Xerox PARC. This cross-pollination of ideas helped shape the structured programming approach that Kay implemented in his projects. Wirth’s early contributions are recognized for their instrumental role in defining the methodologies that underpin modern programming practices, reflecting his lasting impact on the discipline.
