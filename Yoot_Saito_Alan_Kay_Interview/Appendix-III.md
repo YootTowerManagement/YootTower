@@ -93,4 +93,4 @@ Ron Baecker; Eric Martin; [Bonnie Tenenbaum](People.md#bonnie-tenenbaum-stanford
 
 ### Help From Other Groups At PARC
 
-[Patrick Baudelaire](People.md#patrick-baudelaire-university-of-utah-xerox-parc); Dave Boggs; Bill Bowman; Larry Clark; Jim Cucinitti; Peter Deutsch; Bill English; Bob Flegal; Ralph Kimball; Butler Lampson; Bob Metcalfe; Mike Overton; Alvy Ray Smith; Bob Sproull; Larry Tesler; Chuck Thacker; Truett Thach.
+[Patrick Baudelaire](People.md#patrick-baudelaire-university-of-utah-xerox-parc); Dave Boggs; Bill Bowman; Larry Clark; Jim Cucinitti; Peter Deutsch; Bill English; Bob Flegal; Ralph Kimball; Butler Lampson; Bob Metcalfe; Mike Overton; Alvy Ray Smith; Bob Sproull; Larry Tesler; Chuck Thacker; [Truett Thach](People.md#truett-thach-bbn).

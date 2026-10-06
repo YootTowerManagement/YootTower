@@ -336,12 +336,8 @@ Bonnie Tenenbaum is listed in the Smalltalk acknowledgments as involved with the
 ### [Larry Tesler (Stanford University, Xerox PARC, Apple Inc., Amazon, Yahoo!)](https://en.wikipedia.org/wiki/Larry_Tesler)
 Larry Tesler worked on Smalltalk and user-interface design at Xerox PARC in the 1970s, where he developed modeless editing and cut/copy/paste. He gave the Smalltalk demo to Steve Jobs and the Apple team during the 1979 PARC visits, then joined Apple, where he worked on the Lisa and Macintosh.
 
-### [Truett Thach (Xerox PARC, BBN)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
-Truett Thach is listed in the Smalltalk acknowledgments among people connected with the project at Xerox PARC.
-[The Creators](https://www.wired.com/1994/12/creators/) gives later cultural context for people and ideas connected with early networked computing.
-[Computer science at Harvard in the 1960s and 1970s](https://www.harvardmagazine.com/2020/08/features-a-science-is-born) gives institutional context for the ARPA-era computing community.
-[History of the Internet](https://www.sutori.com/en/story/history-of-internet--hyzFbdLJ8sEyoAGq4u7imMoA) provides a broad timeline context for ARPANET and early Internet development.
-[ARPANET](https://www.livinginternet.com/i/ii_arpanet.htm) summarizes the network background for Taylor, ARPA, and the PARC research community.
+### [Truett Thach (BBN)](https://www.harvardmagazine.com/2020/08/features-a-science-is-born)
+Kay lists Truett Thach under “Help from Other Groups at PARC,” printed immediately after Chuck Thacker. The [scanned proceedings page](https://worrydream.com/EarlyHistoryOfSmalltalk/SmalltalkHistoryHOPL-scanned-2015-07-16.pdf#page=63) confirms the spelling and that these are two people. Harvard Magazine identifies Thach among the BBN engineers on the 1969 ARPA Interface Message Processor team.
 
 ### [Chuck Thacker (UC Berkeley, Xerox PARC, DEC, Microsoft)](https://en.wikipedia.org/wiki/Charles_P._Thacker)
 Chuck Thacker was the lead hardware designer of the Xerox Alto, the machine that hosted most early Smalltalk work. He also built MAXC, PARC's microcoded PDP-10 emulator. In September 1972 Thacker and Butler Lampson offered to build Kay's proposed machine on Kay's Nova/character-generator budget; Thacker had a bet that he could build a whole machine in three months. The first Alto ran a few months later. The first interim Dynabook (Alto) unit was nicknamed "Bilbo." Kay proposed the KiddiKomp direction; Thacker and Lampson supplied the hardware. Thacker shared the 1984 ACM Software System Award for the Alto and the 2004 Draper Prize, and won the 2009 Turing Award.
